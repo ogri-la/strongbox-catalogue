@@ -40,5 +40,5 @@ cp "$home_dir/data/strongbox/"*-catalogue.json .
     lein run - --action scrape-catalog
 )
 
-cp "$home_dir/data/wowman/"*-catalogue.json ../wowman-data/
+cp "$home_dir/data/wowman/"*-catalog.json ../wowman-data/
 # (commit!)
