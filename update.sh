@@ -10,12 +10,13 @@ export XDG_CONFIG_HOME="$home_dir/config"
 mkdir -p "$home_dir"
 
 if [ ! -d strongbox ]; then
-    git clone --branch develop https://github.com/ogri-la/strongbox
+    git clone https://github.com/ogri-la/strongbox
 fi
 
 (
     cd strongbox
     git reset --hard
+    git checkout develop
     git pull
 
     # update ogri-la/strongbox-catalogue
@@ -35,7 +36,7 @@ cp "$home_dir/data/strongbox/"*-catalogue.json .
 (
     cd strongbox
     git reset --hard
-    git co wowman
+    git checkout wowman
     lein run - --action scrape-catalog
 )
 
