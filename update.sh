@@ -24,21 +24,3 @@ fi
 )
 cp "$home_dir/data/strongbox/"*-catalogue.json .
 # (commit!)
-
-# tell wowman to use the strongbox cache data
-(
-    cd "$home_dir/data/"
-    rm -rf wowman/cache
-    ln -s "$home_dir/data/strongbox/cache/" "$home_dir/data/wowman/cache"
-)
-
-# update ogri-la/wowman-data
-(
-    cd strongbox
-    git reset --hard
-    git checkout wowman
-    lein run - --action scrape-catalog
-)
-
-cp "$home_dir/data/wowman/"*-catalog.json ../wowman-data/
-# (commit!)
