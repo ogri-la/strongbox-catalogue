@@ -15,9 +15,9 @@ fi
 
 (
     cd strongbox
-    git reset --hard
-    git checkout develop
-    git pull
+    #git reset --hard
+    #git checkout develop
+    #git pull
 
     # update ogri-la/strongbox-catalogue
     lein run - --action scrape-catalogue
