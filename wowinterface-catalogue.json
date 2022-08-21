@@ -1,5 +1,5 @@
 {"spec":{"version":2},
- "datestamp":"2022-08-19",
+ "datestamp":"2022-08-20",
  "total":7080,
  "addon-summary-list":
  [{"created-date":"2012-09-20T05:32:00Z",
@@ -888,7 +888,8 @@
   {"created-date":"2020-08-25T19:57:00Z",
    "description":"About",
    "download-count":519,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":
+   ["classic", "classic-tbc", "classic-wotlk", "retail"],
    "label":"AceGUI-3.0: SFX Widgets",
    "name":"acegui-3-0-sfx-widgets",
    "source":"wowinterface",
@@ -1528,7 +1529,7 @@
   {"created-date":"2022-02-21T17:56:00Z",
    "description":"Adherent",
    "download-count":32,
-   "game-track-list":["classic-tbc", "retail"],
+   "game-track-list":["classic-tbc", "classic-wotlk"],
    "label":"Adherent",
    "name":"adherent",
    "source":"wowinterface",
@@ -2421,7 +2422,8 @@
   {"created-date":"2019-05-25T11:33:00Z",
    "description":"Overview",
    "download-count":3971,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":
+   ["classic", "classic-tbc", "classic-wotlk", "retail"],
    "label":"Alts",
    "name":"alts",
    "source":"wowinterface",
@@ -3043,7 +3045,8 @@
   {"created-date":"2009-08-07T23:52:00Z",
    "description":"Aptechka is a raid frames addon.",
    "download-count":90177,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":
+   ["classic", "classic-tbc", "classic-wotlk", "retail"],
    "label":"Aptechka",
    "name":"aptechka",
    "source":"wowinterface",
@@ -4036,7 +4039,8 @@
    "url":"https://www.wowinterface.com/downloads/info15937"},
   {"description":"Make a Donation via Paypal",
    "download-count":4707528,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":
+   ["classic", "classic-tbc", "classic-wotlk", "retail"],
    "label":"Atlas",
    "name":"atlas",
    "source":"wowinterface",
@@ -4072,7 +4076,8 @@
   {"created-date":"2011-10-12T07:13:00Z",
    "description":"About Atlas Battlegrounds",
    "download-count":64191,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":
+   ["classic", "classic-tbc", "classic-wotlk", "retail"],
    "label":"Atlas Battlegrounds",
    "name":"atlas-battlegrounds",
    "source":"wowinterface",
@@ -4094,7 +4099,7 @@
   {"created-date":"2011-11-22T10:27:00Z",
    "description":"About This Addon Module",
    "download-count":74533,
-   "game-track-list":["classic-tbc", "retail"],
+   "game-track-list":["classic-tbc", "classic-wotlk", "retail"],
    "label":"Atlas Burning Crusade",
    "name":"atlas-burning-crusade",
    "source":"wowinterface",
@@ -4150,7 +4155,8 @@
    "description":
    "For WoW Classic's version, please visit below page:",
    "download-count":152695,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":
+   ["classic", "classic-tbc", "classic-wotlk", "retail"],
    "label":"Atlas Classic WoW",
    "name":"atlas-classic-wow",
    "source":"wowinterface",
@@ -4273,7 +4279,7 @@
    "description":
    "Throughout vanilla and TBC classic i have been enjoying the look of the atlas world map, which replaces the standard map textures with minimap data. ",
    "download-count":87,
-   "game-track-list":["classic-tbc", "retail"],
+   "game-track-list":["classic-tbc", "classic-wotlk"],
    "label":"Atlas World Map WOTLK Classic",
    "name":"atlas-world-map-wotlk-classic",
    "source":"wowinterface",
@@ -4534,7 +4540,8 @@
   {"created-date":"2019-08-20T23:40:00Z",
    "description":"Auction House DataBase",
    "download-count":36557,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":
+   ["classic", "classic-tbc", "classic-wotlk", "retail"],
    "label":"Auction House DataBase (AHDB) Classic",
    "name":"auction-house-database-ahdb-classic",
    "source":"wowinterface",
@@ -5151,7 +5158,7 @@
    "description":
    "Equips Carrot on a Stick automatically when mounted",
    "download-count":35914,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":["classic", "classic-tbc", "classic-wotlk"],
    "label":"AutoCarrot",
    "name":"autocarrot",
    "source":"wowinterface",
@@ -5513,7 +5520,8 @@
    "description":
    "Automatically sells low quality gray items to the vendor. ",
    "download-count":1835,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":
+   ["classic", "classic-tbc", "classic-wotlk", "retail"],
    "label":"AutoProfit",
    "name":"autoprofit",
    "source":"wowinterface",
@@ -5717,7 +5725,8 @@
    "description":
    "Auto Invite a player that whispers you with a specific keyword or phrase, up to six keywords or phrases may be used.",
    "download-count":273,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":
+   ["classic", "classic-tbc", "classic-wotlk", "retail"],
    "label":"AutoWhisperInvite all versions",
    "name":"autowhisperinvite-all-versions",
    "source":"wowinterface",
@@ -6728,7 +6737,8 @@
   {"description":
    "Bartender4 is a full ActionBar replacement mod. It provides you with all the features needed to fully customization most aspects of your action and related bars.",
    "download-count":1390122,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":
+   ["classic", "classic-tbc", "classic-wotlk", "retail"],
    "label":"Bartender4",
    "name":"bartender4",
    "source":"wowinterface",
@@ -6906,7 +6916,7 @@
    "description":
    "BastionEPGP should be removed and replaced with BastionLoot.",
    "download-count":1494,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":["classic", "classic-tbc", "classic-wotlk"],
    "label":"BastionLoot",
    "name":"bastionloot",
    "source":"wowinterface",
@@ -7248,7 +7258,8 @@
    "description":
    "Bazooka is a Data Broker Display similar in functionality and looks to FuBar.",
    "download-count":30260,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":
+   ["classic", "classic-tbc", "classic-wotlk", "retail"],
    "label":"Bazooka",
    "name":"bazooka",
    "source":"wowinterface",
@@ -7789,7 +7800,8 @@
   {"created-date":"2019-07-27T19:47:00Z",
    "description":"Better Vendor Price WoW Classic and BfA",
    "download-count":78145,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":
+   ["classic", "classic-tbc", "classic-wotlk", "retail"],
    "label":"Better Vendor Price",
    "name":"better-vendor-price",
    "source":"wowinterface",
@@ -8234,7 +8246,8 @@
   {"created-date":"2021-05-15T10:09:00Z",
    "description":"BigDebuffs",
    "download-count":2792,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":
+   ["classic", "classic-tbc", "classic-wotlk", "retail"],
    "label":"BigDebuffs",
    "name":"bigdebuffs",
    "source":"wowinterface",
@@ -8912,7 +8925,8 @@
    "description":
    "BlizzMove makes the windows of the default UI easily movable by just dragging the window title. once you get used to that you cant play without it ",
    "download-count":21944,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":
+   ["classic", "classic-tbc", "classic-wotlk", "retail"],
    "label":"BlizzMove",
    "name":"blizzmove",
    "source":"wowinterface",
@@ -12146,7 +12160,7 @@
   {"created-date":"2018-06-15T17:06:00Z",
    "description":"Buff Overlay",
    "download-count":3201,
-   "game-track-list":["classic-tbc", "retail"],
+   "game-track-list":["classic-tbc", "classic-wotlk", "retail"],
    "label":"Buff Overlay",
    "name":"buff-overlay",
    "source":"wowinterface",
@@ -12224,7 +12238,7 @@
    "url":"https://www.wowinterface.com/downloads/info12613"},
   {"description":"--About--",
    "download-count":13624,
-   "game-track-list":["retail"],
+   "game-track-list":["classic-wotlk", "retail"],
    "label":"BuffEnough",
    "name":"buffenough",
    "source":"wowinterface",
@@ -12247,7 +12261,7 @@
    "description":
    "The original Buff'o'mat addon is now abandoned. This addon is a continued effort.",
    "download-count":87,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":["classic", "classic-tbc", "classic-wotlk"],
    "label":"Buffomat Classic",
    "name":"buffomat-classic",
    "source":"wowinterface",
@@ -12259,7 +12273,8 @@
    "description":
    "Displays the caster of a buff/debuff in its tooltip.",
    "download-count":900,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":
+   ["classic", "classic-tbc", "classic-wotlk", "retail"],
    "label":"BuffOwner",
    "name":"buffowner",
    "source":"wowinterface",
@@ -12433,7 +12448,8 @@
    "description":
    "Bulk mail sending made really easy. Bulk Mail also offers the unique ability to automatically send emails based on rules you configure. This is very useful and powerful if you have bank alts that for specific resources. With a few clicks you can now send all collected items to the right alt simply by opening the send mail page.",
    "download-count":3975,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":
+   ["classic", "classic-tbc", "classic-wotlk", "retail"],
    "label":"Bulk Mail",
    "name":"bulk-mail",
    "source":"wowinterface",
@@ -12445,7 +12461,8 @@
    "description":
    "Bulk mail reception made really easy. This addon allows you to selectively pick mails to open from the inbox, open all mails with money or open all items. ",
    "download-count":5898,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":
+   ["classic", "classic-tbc", "classic-wotlk", "retail"],
    "label":"Bulk Mail Inbox",
    "name":"bulk-mail-inbox",
    "source":"wowinterface",
@@ -12638,7 +12655,8 @@
   {"description":
    "ButtonBin is a display addon for LibDataBroker objects. The initial design goal was to make a very compact display for LDB launchers, ignoring the labels. It has since evolved to become more of a full featured display addon, allowing both the compact button-only view as well as displaying labels with icons. Combined with FuBar2Broker, ButtonBin can fully replace FuBar as a displayer. With the new default configuration a left, right and center top bar layout is used, allowing for an easier transition.",
    "download-count":18007,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":
+   ["classic", "classic-tbc", "classic-wotlk", "retail"],
    "label":"ButtonBin",
    "name":"buttonbin",
    "source":"wowinterface",
@@ -14258,7 +14276,8 @@
    "description":
    "Character Notes allows you to set and manage notes on other player's characters. Notes are stored per realm so notes are shared across your characters on a realm. Notes can be set on any character name. The notes are simple and generic and they are not tied to a friend, an ignored character, etc.",
    "download-count":10702,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":
+   ["classic", "classic-tbc", "classic-wotlk", "retail"],
    "label":"Character Notes",
    "name":"character-notes",
    "source":"wowinterface",
@@ -14627,7 +14646,8 @@
    "description":
    "ChatLinkIcons adds icons to links in chat similar to ChatIcons with all original code and support for all player links. Even players outside of your party/raid.",
    "download-count":7896,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":
+   ["classic", "classic-tbc", "classic-wotlk", "retail"],
    "label":"ChatLinkIcons",
    "name":"chatlinkicons",
    "source":"wowinterface",
@@ -15350,7 +15370,7 @@
   {"created-date":"2019-05-29T06:55:00Z",
    "description":"A port of Blizzard's AlternatePowerBar to Classic.",
    "download-count":4485,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":["classic", "classic-tbc", "classic-wotlk"],
    "label":"Classic AlternatePowerBar",
    "name":"classic-alternatepowerbar",
    "source":"wowinterface",
@@ -15977,7 +15997,7 @@
   {"created-date":"2019-12-02T09:49:00Z",
    "description":"TBC Classic Updated!",
    "download-count":5631,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":["classic", "classic-tbc", "classic-wotlk"],
    "label":"Clean Icons - Mechagnome Edition TBC Classic",
    "name":"clean-icons-mechagnome-edition-tbc-classic",
    "source":"wowinterface",
@@ -17289,8 +17309,10 @@
    "tag-list":["classic"],
    "updated-date":"2020-09-06T04:45:43Z",
    "url":"https://www.wowinterface.com/downloads/info25609"},
-  {"download-count":9,
-   "game-track-list":["retail"],
+  {"created-date":"2022-07-19T14:08:00Z",
+   "description":"Issues / Feedback",
+   "download-count":9,
+   "game-track-list":["classic-wotlk", "retail"],
    "label":"Compact Runes",
    "name":"compact-runes",
    "source":"wowinterface",
@@ -17672,7 +17694,8 @@
    "url":"https://www.wowinterface.com/downloads/info11871"},
   {"description":"Description:",
    "download-count":27381,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":
+   ["classic", "classic-tbc", "classic-wotlk", "retail"],
    "label":"CooldownToGo",
    "name":"cooldowntogo",
    "source":"wowinterface",
@@ -17683,7 +17706,8 @@
   {"description":
    "This is a very simple, very small AddOn, that displays a numerical value on cooldowns and the Buff/DeBuff display on the target frame.",
    "download-count":13365,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":
+   ["classic", "classic-tbc", "classic-wotlk", "retail"],
    "label":"CooldownWatch",
    "name":"cooldownwatch",
    "source":"wowinterface",
@@ -17862,7 +17886,8 @@
   {"created-date":"2022-03-02T09:57:00Z",
    "description":"About Coordinates Tracking",
    "download-count":405,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":
+   ["classic", "classic-tbc", "classic-wotlk", "retail"],
    "label":"Coordinates Tracking",
    "name":"coordinates-tracking",
    "source":"wowinterface",
@@ -18128,7 +18153,8 @@
   {"created-date":"2021-04-25T17:08:00Z",
    "description":"CraftPresence",
    "download-count":224,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":
+   ["classic", "classic-tbc", "classic-wotlk", "retail"],
    "label":"CraftPresence",
    "name":"craftpresence",
    "source":"wowinterface",
@@ -18557,7 +18583,8 @@
   {"created-date":"2016-05-23T07:09:00Z",
    "description":"Make a Donation via Paypal",
    "download-count":9189,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":
+   ["classic", "classic-tbc", "classic-wotlk", "retail"],
    "label":"Currency Tracking",
    "name":"currency-tracking",
    "source":"wowinterface",
@@ -19635,7 +19662,8 @@
   {"description":
    "The ultimate encounter helper to give you fight info that's easy to process at a glance. DBM aims to focus on what's happening to you, and what YOU need to do about it.",
    "download-count":2822230,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":
+   ["classic", "classic-tbc", "classic-wotlk", "retail"],
    "label":"Deadly Boss Mods",
    "name":"deadly-boss-mods",
    "source":"wowinterface",
@@ -20250,7 +20278,7 @@
   {"created-date":"2021-04-16T09:18:00Z",
    "description":"DejaClassicStats",
    "download-count":2266,
-   "game-track-list":["classic-tbc", "retail"],
+   "game-track-list":["classic-tbc", "classic-wotlk"],
    "label":"DejaClassicStats (WOTLK)",
    "name":"dejaclassicstats-wotlk",
    "source":"wowinterface",
@@ -22872,7 +22900,8 @@
    "description":
    "The way ISBoxer works currently is you need to go back outside of the game into the windows isboxer suite program each time you want to create a new character or change whichever combination of characters you may want to be multi-boxing with at the time.",
    "download-count":19278,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":
+   ["classic", "classic-tbc", "classic-wotlk", "retail"],
    "label":"DynamicBoxer",
    "name":"dynamicboxer",
    "source":"wowinterface",
@@ -23979,7 +24008,7 @@
   {"created-date":"2020-07-28T11:18:00Z",
    "description":"\ufffd What is it?",
    "download-count":883,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":["classic", "classic-tbc", "classic-wotlk"],
    "label":"ElvUI PVP Data Text",
    "name":"elvui-pvp-data-text",
    "source":"wowinterface",
@@ -27959,7 +27988,8 @@
    "description":
    "Friend Notes enhances the default Blizzard notes for friends. It will display the friend notes:",
    "download-count":3588,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":
+   ["classic", "classic-tbc", "classic-wotlk", "retail"],
    "label":"Friend Notes",
    "name":"friend-notes",
    "source":"wowinterface",
@@ -28908,7 +28938,8 @@
   {"created-date":"2020-04-12T16:42:00Z",
    "description":"\ufffd What is it?",
    "download-count":5525,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":
+   ["classic", "classic-tbc", "classic-wotlk", "retail"],
    "label":"Gathering",
    "name":"gathering",
    "source":"wowinterface",
@@ -28919,7 +28950,8 @@
   {"created-date":"2021-05-25T14:09:00Z",
    "description":"\ufffd What is it?",
    "download-count":2485,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":
+   ["classic", "classic-tbc", "classic-wotlk", "retail"],
    "label":"Gathering - Burning Crusade",
    "name":"gathering-burning-crusade",
    "source":"wowinterface",
@@ -28931,7 +28963,8 @@
   {"created-date":"2020-04-13T19:39:00Z",
    "description":"\ufffd What is it?",
    "download-count":6230,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":
+   ["classic", "classic-tbc", "classic-wotlk", "retail"],
    "label":"Gathering - Classic",
    "name":"gathering-classic",
    "source":"wowinterface",
@@ -31526,7 +31559,8 @@
    "description":
    "GSE allows you create a sequence of macros to be executed at the push of a button. Like a /castsequence macro, it cycles through a series of commands when the button is pushed. However, unlike castsequence, it uses macro text for the commands instead of spells, and it advances every time the button is pushed instead of stopping when it can't cast something. This means if a spell is on cooldown and you push the button it will continue to the next item in the list with each press until it reaches the end and starts over. It comes with an editor and everything you need to get started.",
    "download-count":137463,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":
+   ["classic", "classic-tbc", "classic-wotlk", "retail"],
    "label":"GSE:Advanced Macro Compiler",
    "name":"gse-advanced-macro-compiler",
    "source":"wowinterface",
@@ -33726,7 +33760,8 @@
    "description":
    "The button that you click to open the world map is unnecessary as you can just press the \"m\" key to do the same thing. Plus it is ugly!",
    "download-count":1633,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":
+   ["classic", "classic-tbc", "classic-wotlk", "retail"],
    "label":"Hide World Map Minimap Button",
    "name":"hide-world-map-minimap-button",
    "source":"wowinterface",
@@ -39088,7 +39123,7 @@
    "description":
    "There is a known bug related to event reminders. This is being looked into!",
    "download-count":213,
-   "game-track-list":["retail"],
+   "game-track-list":["classic-wotlk", "retail"],
    "label":"Krowi's Achievement Filter",
    "name":"krowi-s-achievement-filter",
    "source":"wowinterface",
@@ -40296,7 +40331,8 @@
   {"created-date":"2019-10-09T14:47:00Z",
    "description":"SOURCE HAS BEEN MOVED TO GITHUB",
    "download-count":1510,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":
+   ["classic", "classic-tbc", "classic-wotlk", "retail"],
    "label":"LibAboutPanel-2.0",
    "name":"libaboutpanel-2-0",
    "source":"wowinterface",
@@ -42818,7 +42854,7 @@
   {"created-date":"2019-06-24T17:05:00Z",
    "description":"MageButtons",
    "download-count":14022,
-   "game-track-list":["classic-tbc", "retail"],
+   "game-track-list":["classic-tbc", "classic-wotlk"],
    "label":"MageButtons (Classic)",
    "name":"magebuttons-classic",
    "source":"wowinterface",
@@ -42900,7 +42936,8 @@
   {"description":
    "Magic Marker lets you easily classify and mark mobs simply by moving the mouse over them while pressing a modifier key. This allows incredibly fast marking of trash groups. Although not necessary for the addon to function, you can configure the priority and crowd control methods you wish to use on a per mob basis. You can also customize the marks to use for tank targets and each crowd control method. This allows for consistent marking of targets to tank and crowd control in raid and party situations ",
    "download-count":12253,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":
+   ["classic", "classic-tbc", "classic-wotlk", "retail"],
    "label":"Magic Marker",
    "name":"magic-marker",
    "source":"wowinterface",
@@ -42912,7 +42949,7 @@
    "description":
    "Magic Runes is a set of bars displaying rune cooldowns. It's meant as either a replacement or addition to the normal Blizzard rune display. ",
    "download-count":71497,
-   "game-track-list":["retail"],
+   "game-track-list":["classic-wotlk", "retail"],
    "label":"Magic Runes",
    "name":"magic-runes",
    "source":"wowinterface",
@@ -42935,7 +42972,8 @@
   {"description":
    "Magic Targets is a simple set of frames that shows the current targets of the members raid or party. It's meant primarily for use in raiding to keep track of all the mobs currently engaged in combat. Feature list:Optionally marks your current target and focus target with green respectively blue arrows.",
    "download-count":13798,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":
+   ["classic", "classic-tbc", "classic-wotlk", "retail"],
    "label":"Magic Targets",
    "name":"magic-targets",
    "source":"wowinterface",
@@ -43233,7 +43271,8 @@
   {"created-date":"2022-06-04T11:32:00Z",
    "description":"## About M.A.M.A. Multiboxing",
    "download-count":20,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":
+   ["classic", "classic-tbc", "classic-wotlk", "retail"],
    "label":"MAMA Multiboxing",
    "name":"mama-multiboxing",
    "source":"wowinterface",
@@ -43372,7 +43411,8 @@
    "description":
    "Mapcoords displays your current coordinates on the minimap.",
    "download-count":34369,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":
+   ["classic", "classic-tbc", "classic-wotlk", "retail"],
    "label":"MapCoords",
    "name":"mapcoords",
    "source":"wowinterface",
@@ -43625,7 +43665,8 @@
   {"created-date":"2009-01-03T14:09:00Z",
    "description":"About",
    "download-count":342957,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":
+   ["classic", "classic-tbc", "classic-wotlk", "retail"],
    "label":"Masque",
    "name":"masque",
    "source":"wowinterface",
@@ -43650,7 +43691,8 @@
    "url":"https://www.wowinterface.com/downloads/info23496"},
   {"description":"About",
    "download-count":42582,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":
+   ["classic", "classic-tbc", "classic-wotlk", "retail"],
    "label":"Masque: Apathy",
    "name":"masque-apathy",
    "source":"wowinterface",
@@ -43687,7 +43729,8 @@
    "url":"https://www.wowinterface.com/downloads/info18682"},
   {"description":"About",
    "download-count":96528,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":
+   ["classic", "classic-tbc", "classic-wotlk", "retail"],
    "label":"Masque: Caith",
    "name":"masque-caith",
    "source":"wowinterface",
@@ -43712,7 +43755,8 @@
   {"created-date":"2017-05-31T22:38:00Z",
    "description":"About",
    "download-count":2534,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":
+   ["classic", "classic-tbc", "classic-wotlk", "retail"],
    "label":"Masque: Cirque",
    "name":"masque-cirque",
    "source":"wowinterface",
@@ -43806,7 +43850,8 @@
    "url":"https://www.wowinterface.com/downloads/info9623"},
   {"description":"About",
    "download-count":34740,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":
+   ["classic", "classic-tbc", "classic-wotlk", "retail"],
    "label":"Masque: Entropy",
    "name":"masque-entropy",
    "source":"wowinterface",
@@ -43831,7 +43876,8 @@
   {"created-date":"2022-07-21T15:32:00Z",
    "description":"About",
    "download-count":55,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":
+   ["classic", "classic-tbc", "classic-wotlk", "retail"],
    "label":"Masque: Fusion",
    "name":"masque-fusion",
    "source":"wowinterface",
@@ -43843,7 +43889,8 @@
    "url":"https://www.wowinterface.com/downloads/info26369"},
   {"description":"About",
    "download-count":27863,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":
+   ["classic", "classic-tbc", "classic-wotlk", "retail"],
    "label":"Masque: Gears",
    "name":"masque-gears",
    "source":"wowinterface",
@@ -43937,7 +43984,8 @@
    "url":"https://www.wowinterface.com/downloads/info19698"},
   {"description":"About",
    "download-count":36053,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":
+   ["classic", "classic-tbc", "classic-wotlk", "retail"],
    "label":"Masque: LiteStep",
    "name":"masque-litestep",
    "source":"wowinterface",
@@ -43973,7 +44021,8 @@
    "url":"https://www.wowinterface.com/downloads/info21347"},
   {"description":"About",
    "download-count":37044,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":
+   ["classic", "classic-tbc", "classic-wotlk", "retail"],
    "label":"Masque: Onyx",
    "name":"masque-onyx",
    "source":"wowinterface",
@@ -44058,7 +44107,8 @@
    "url":"https://www.wowinterface.com/downloads/info22061"},
   {"description":"About",
    "download-count":35454,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":
+   ["classic", "classic-tbc", "classic-wotlk", "retail"],
    "label":"Masque: Serenity",
    "name":"masque-serenity",
    "source":"wowinterface",
@@ -45893,7 +45943,7 @@
    "description":
    "Modern TargetFrame adds features present in Modern WoW.StatusBar text for health and mana bars. Formatting is still controlled by Status Text under Interface Options > Display.",
    "download-count":19343,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":["classic", "classic-tbc", "classic-wotlk"],
    "label":"Modern TargetFrame",
    "name":"modern-targetframe",
    "source":"wowinterface",
@@ -47018,7 +47068,8 @@
    "description":
    "Announces to the default chat frame which character killed Mr. Bigglesworth, Kel'Thuzad's cat in Naxxramas.",
    "download-count":3566,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":
+   ["classic", "classic-tbc", "classic-wotlk", "retail"],
    "label":"MrBigglesworthDeath",
    "name":"mrbigglesworthdeath",
    "source":"wowinterface",
@@ -47286,7 +47337,8 @@
    "description":
    "For the first time in World of Warcraft, your character can literally become a bard!",
    "download-count":2217,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":
+   ["classic", "classic-tbc", "classic-wotlk", "retail"],
    "label":"Musician",
    "name":"musician",
    "source":"wowinterface",
@@ -48375,7 +48427,7 @@
   {"created-date":"2019-08-27T07:16:00Z",
    "description":"NDui Classic",
    "download-count":126940,
-   "game-track-list":["classic-tbc", "retail"],
+   "game-track-list":["classic-tbc", "classic-wotlk"],
    "label":"NDui Classic",
    "name":"ndui-classic",
    "source":"wowinterface",
@@ -48398,7 +48450,8 @@
   {"created-date":"2019-09-11T01:57:00Z",
    "description":"Neat Minimap",
    "download-count":4434,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":
+   ["classic", "classic-tbc", "classic-wotlk", "retail"],
    "label":"Neat Minimap",
    "name":"neat-minimap",
    "source":"wowinterface",
@@ -50056,7 +50109,8 @@
   {"created-date":"2022-06-26T04:24:00Z",
    "description":"NRG - mp5 Power Button",
    "download-count":4,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":
+   ["classic", "classic-tbc", "classic-wotlk", "retail"],
    "label":"NRG - mp5 Power Button",
    "name":"nrg-mp5-power-button",
    "source":"wowinterface",
@@ -50804,7 +50858,7 @@
   {"created-date":"2022-08-09T18:35:00Z",
    "description":"Preamble",
    "download-count":6,
-   "game-track-list":["retail"],
+   "game-track-list":["classic-wotlk"],
    "label":"nUI [WotLK Classic] PTR",
    "name":"nui-wotlk-classic-ptr",
    "source":"wowinterface",
@@ -51365,7 +51419,8 @@
   {"created-date":"2014-10-29T16:21:00Z",
    "description":"OmniBar",
    "download-count":49926,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":
+   ["classic", "classic-tbc", "classic-wotlk", "retail"],
    "label":"OmniBar",
    "name":"omnibar",
    "source":"wowinterface",
@@ -51376,7 +51431,8 @@
    "url":"https://www.wowinterface.com/downloads/info23235"},
   {"description":"Overview",
    "download-count":1816286,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":
+   ["classic", "classic-tbc", "classic-wotlk", "retail"],
    "label":"OmniCC",
    "name":"omnicc",
    "source":"wowinterface",
@@ -54427,7 +54483,8 @@
    "description":
    "Peace and Quiet will automatically disable the General and LocalDefense channels when you enter an instance, raid, or arena and then re-enable them when you leave. I wrote this add-on because I was tired of all the spam that occurs in these channels when you're trying to focus on a raid.",
    "download-count":12087,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":
+   ["classic", "classic-tbc", "classic-wotlk", "retail"],
    "label":"Peace And Quiet",
    "name":"peace-and-quiet",
    "source":"wowinterface",
@@ -55108,7 +55165,7 @@
    "description":
    "PhantomPlates is a minimalistic NamePlate addon that aims to retain the look of the Default UI while adding useful features.Status text showing current HP",
    "download-count":9352,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":["classic", "classic-tbc", "classic-wotlk"],
    "label":"PhantomPlates",
    "name":"phantomplates",
    "source":"wowinterface",
@@ -55611,7 +55668,8 @@
    "description":
    "Shows exact coordinates and alignment grid, to the physical pixel on your WoW window",
    "download-count":7869,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":
+   ["classic", "classic-tbc", "classic-wotlk", "retail"],
    "label":"Pixel Perfect Align",
    "name":"pixel-perfect-align",
    "source":"wowinterface",
@@ -59803,7 +59861,8 @@
    "url":"https://www.wowinterface.com/downloads/info25380"},
   {"description":"Description:",
    "download-count":99892,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":
+   ["classic", "classic-tbc", "classic-wotlk", "retail"],
    "label":"RangeDisplay",
    "name":"rangedisplay",
    "source":"wowinterface",
@@ -61847,7 +61906,7 @@
    "description":
    "The original Auto Restocker mod is abandoned and is stuck in Classic Era, this project updates it for TBC, adds bug fixes.",
    "download-count":37,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":["classic", "classic-tbc", "classic-wotlk"],
    "label":"Restocker Classic",
    "name":"restocker-classic",
    "source":"wowinterface",
@@ -62457,7 +62516,8 @@
    "description":
    "Documentation:*https://wiki.neuromancy.net/display/RM/Rotation+Master",
    "download-count":5966,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":
+   ["classic", "classic-tbc", "classic-wotlk", "retail"],
    "label":"Rotation Master",
    "name":"rotation-master",
    "source":"wowinterface",
@@ -63009,7 +63069,7 @@
   {"created-date":"2020-12-13T00:13:00Z",
    "description":"Bigwigs skin, half height bar with shadow border.",
    "download-count":1023,
-   "game-track-list":["classic", "retail"],
+   "game-track-list":["classic", "classic-wotlk", "retail"],
    "label":"RuriWigs",
    "name":"ruriwigs",
    "source":"wowinterface",
@@ -63196,7 +63256,8 @@
   {"created-date":"2011-02-27T09:11:00Z",
    "description":"SafeQueue",
    "download-count":18995,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":
+   ["classic", "classic-tbc", "classic-wotlk", "retail"],
    "label":"SafeQueue",
    "name":"safequeue",
    "source":"wowinterface",
@@ -64373,7 +64434,8 @@
   {"created-date":"2014-09-22T22:59:00Z",
    "description":"Addon Description",
    "download-count":2326,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":
+   ["classic", "classic-tbc", "classic-wotlk", "retail"],
    "label":"Sexy Reputation",
    "name":"sexy-reputation",
    "source":"wowinterface",
@@ -64890,7 +64952,8 @@
    "description":
    "Plugs classical world styled fonts into LibSharedMedia-3.0",
    "download-count":6966,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":
+   ["classic", "classic-tbc", "classic-wotlk", "retail"],
    "label":"SharedMedia_ClassicalFonts",
    "name":"sharedmedia-classicalfonts",
    "source":"wowinterface",
@@ -65046,7 +65109,8 @@
    "description":
    "ShestakUI is a modular, lightweight, all-in-one overhaul for the World of Warcraft interface. It aims to streamline and clean up the interface, removing unnecessary frills and wasted space as well as fill in some of the holes left in the default UI.",
    "download-count":4119,
-   "game-track-list":["classic", "classic-tbc"],
+   "game-track-list":
+   ["classic", "classic-tbc", "classic-wotlk", "retail"],
    "label":"ShestakUI (Classic)",
    "name":"shestakui-classic",
    "source":"wowinterface",
@@ -67016,7 +67080,8 @@
    "description":
    "SlashHelp enables the user to search all registered emotes, chat types, and slash commands as they type.",
    "download-count":7381,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":
+   ["classic", "classic-tbc", "classic-wotlk", "retail"],
    "label":"SlashHelp",
    "name":"slashhelp",
    "source":"wowinterface",
@@ -67485,7 +67550,7 @@
   {"created-date":"2021-11-06T03:06:00Z",
    "description":"SmartBuff - Classic Version",
    "download-count":222,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":["classic", "classic-tbc", "classic-wotlk"],
    "label":"Smartbuff (All Classic Versions)",
    "name":"smartbuff-all-classic-versions",
    "source":"wowinterface",
@@ -70803,7 +70868,8 @@
    "description":
    "SurroundFix is a simple and lightweight AddOn that fixes the problems associated with running WoW at Surround/Eyefinity/Triplewide resolutions!",
    "download-count":750,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":
+   ["classic", "classic-tbc", "classic-wotlk", "retail"],
    "label":"SurroundFix",
    "name":"surroundfix",
    "source":"wowinterface",
@@ -71180,7 +71246,7 @@
    "description":
    "TacoTip: Better player tooltips - for Classic / TBC / WoTLK",
    "download-count":159,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":["classic", "classic-tbc", "classic-wotlk"],
    "label":"TacoTip ( GearScore & Talents & Item Level )",
    "name":"tacotip-gearscore-talents-item-level",
    "source":"wowinterface",
@@ -72397,7 +72463,8 @@
   {"created-date":"2019-11-10T08:12:00Z",
    "description":"The Thaliz Project",
    "download-count":1709,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":
+   ["classic", "classic-tbc", "classic-wotlk", "retail"],
    "label":"Thaliz - One-button resurrection",
    "name":"thaliz-one-button-resurrection",
    "source":"wowinterface",
@@ -72881,7 +72948,8 @@
    "description":
    "ThreatClassic2 is a threat meter for WoW Classic and WoW TBC Classic using the built in Blizzard threat API.",
    "download-count":6696,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":
+   ["classic", "classic-tbc", "classic-wotlk", "retail"],
    "label":"ThreatClassic2",
    "name":"threatclassic2",
    "source":"wowinterface",
@@ -75411,7 +75479,8 @@
    "description":
    "I've uploaded a workaround for LoadWith not working on Classic and BCC. This update will be reverted once Blizzard gets around to fixing this bug.",
    "download-count":4589,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":
+   ["classic", "classic-tbc", "classic-wotlk", "retail"],
    "label":"TrainAll",
    "name":"trainall",
    "source":"wowinterface",
@@ -75975,7 +76044,8 @@
    "description":
    "tullaRange is an addon that's main purpose is to make standard action buttons appear red when out of range. Colors for both the out of range indicator, and the out of mana/energy/rage indicator are customizable via the in game GUI.",
    "download-count":83782,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":
+   ["classic", "classic-tbc", "classic-wotlk", "retail"],
    "label":"tullaRange",
    "name":"tullarange",
    "source":"wowinterface",
@@ -77521,7 +77591,7 @@
   {"created-date":"2022-07-23T16:27:00Z",
    "description":"For the brave(tm).",
    "download-count":95,
-   "game-track-list":["retail"],
+   "game-track-list":["classic-wotlk"],
    "label":"VuhDo Wrath of the Lich King Classic",
    "name":"vuhdo-wrath-of-the-lich-king-classic",
    "source":"wowinterface",
@@ -78079,7 +78149,8 @@
   {"created-date":"2019-04-26T17:53:00Z",
    "description":"WeakAuras 2",
    "download-count":228260,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":
+   ["classic", "classic-tbc", "classic-wotlk", "retail"],
    "label":"WeakAuras 2",
    "name":"weakauras-2",
    "source":"wowinterface",
@@ -79908,7 +79979,7 @@
    "description":
    "Replaces the \"Body Type\" icons with the old \"Gender\" icons in CharacterCreate.",
    "download-count":20,
-   "game-track-list":["retail"],
+   "game-track-list":["classic-wotlk"],
    "label":"Wrath Classic Gender Icons",
    "name":"wrath-classic-gender-icons",
    "source":"wowinterface",
@@ -81423,7 +81494,8 @@
   {"created-date":"2022-08-02T16:14:00Z",
    "description":"ZFrameHider",
    "download-count":10,
-   "game-track-list":["classic", "classic-tbc", "retail"],
+   "game-track-list":
+   ["classic", "classic-tbc", "classic-wotlk", "retail"],
    "label":"ZFrameHider",
    "name":"zframehider",
    "source":"wowinterface",
