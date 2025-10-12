@@ -2,7 +2,7 @@
   "spec": {
     "version": 2
   },
-  "datestamp": "2025-10-05",
+  "datestamp": "2025-10-12",
   "total": 1902,
   "addon-summary-list": [
     {
@@ -30,7 +30,7 @@
       "source": "github",
       "source-id": "0xbs/premade-groups-filter",
       "url": "https://github.com/0xbs/premade-groups-filter",
-      "updated-date": "2025-09-05T14:58:01Z"
+      "updated-date": "2025-10-09T18:26:30Z"
     },
     {
       "description": "Provides region information in the premade groups and applicants listings as well as to other addons.",
@@ -195,7 +195,7 @@
       "source": "github",
       "source-id": "ATTWoWAddon/AllTheThings",
       "url": "https://github.com/ATTWoWAddon/AllTheThings",
-      "updated-date": "2025-09-23T22:09:02Z"
+      "updated-date": "2025-10-07T22:49:56Z"
     },
     {
       "description": "A small tool that allows converting old profile exports to the new format.",
@@ -841,7 +841,7 @@
       "source": "github",
       "source-id": "AlexHaible/BetterBags-Appearances",
       "url": "https://github.com/AlexHaible/BetterBags-Appearances",
-      "updated-date": "2025-08-19T09:59:24Z"
+      "updated-date": "2025-10-08T15:28:27Z"
     },
     {
       "download-count": 0,
@@ -853,7 +853,7 @@
       "source": "github",
       "source-id": "AlexHaible/BetterBags-CraftingLegendaries",
       "url": "https://github.com/AlexHaible/BetterBags-CraftingLegendaries",
-      "updated-date": "2025-08-19T09:59:06Z"
+      "updated-date": "2025-10-08T15:28:44Z"
     },
     {
       "description": "Source code for a World of Warcraft addon, that puts all your teleporting items into a single category.",
@@ -869,7 +869,7 @@
       "source": "github",
       "source-id": "AlexHaible/BetterBags-Teleports",
       "url": "https://github.com/AlexHaible/BetterBags-Teleports",
-      "updated-date": "2025-08-27T16:09:05Z"
+      "updated-date": "2025-10-08T20:25:47Z"
     },
     {
       "download-count": 0,
@@ -881,7 +881,7 @@
       "source": "github",
       "source-id": "AlexHaible/BetterBags-Themes",
       "url": "https://github.com/AlexHaible/BetterBags-Themes",
-      "updated-date": "2025-08-19T09:58:21Z"
+      "updated-date": "2025-10-08T15:29:21Z"
     },
     {
       "description": "Source code for a World of Warcraft addon, that adds a few slash commands for easy checking of how many titles your current character has",
@@ -894,7 +894,7 @@
       "source": "github",
       "source-id": "AlexHaible/How-Many-Titles",
       "url": "https://github.com/AlexHaible/How-Many-Titles",
-      "updated-date": "2025-08-19T09:57:39Z"
+      "updated-date": "2025-10-08T15:29:34Z"
     },
     {
       "description": "Source code for a World of Warcraft addon, that allows the user to specify certain CVars to be set on every login or UI reload, on every character.",
@@ -907,7 +907,7 @@
       "source": "github",
       "source-id": "AlexHaible/Run-On-Login",
       "url": "https://github.com/AlexHaible/Run-On-Login",
-      "updated-date": "2025-08-19T09:58:12Z"
+      "updated-date": "2025-10-08T15:31:33Z"
     },
     {
       "description": "Source code for a World of Warcraft addon, that allows the user to specify targeting ranges on a spec basis for action targeting.",
@@ -920,7 +920,7 @@
       "source": "github",
       "source-id": "AlexHaible/Soft-Targeting",
       "url": "https://github.com/AlexHaible/Soft-Targeting",
-      "updated-date": "2025-08-19T09:57:47Z"
+      "updated-date": "2025-10-08T15:31:30Z"
     },
     {
       "description": "Source code for a World of Warcraft addon, that auto-switches language for Demon Hunters upon entering their Class Hall, and back upon leaving it in any manner.",
@@ -933,7 +933,7 @@
       "source": "github",
       "source-id": "AlexHaible/Speak-Demonic",
       "url": "https://github.com/AlexHaible/Speak-Demonic",
-      "updated-date": "2025-08-19T09:56:56Z"
+      "updated-date": "2025-10-08T16:22:58Z"
     },
     {
       "description": "Repo for Personal Black List ( PBL ) World of Warcraft Add On",
@@ -958,7 +958,7 @@
       "source": "github",
       "source-id": "AnTr95/PGFinder",
       "url": "https://github.com/AnTr95/PGFinder",
-      "updated-date": "2025-08-10T19:40:50Z"
+      "updated-date": "2025-10-08T06:55:39Z"
     },
     {
       "download-count": 0,
@@ -1063,7 +1063,7 @@
       "source": "github",
       "source-id": "Anonomit/LootReserve",
       "url": "https://github.com/Anonomit/LootReserve",
-      "updated-date": "2025-09-23T09:58:33Z"
+      "updated-date": "2025-10-05T21:41:58Z"
     },
     {
       "description": "WoW classic addon that tracks how lucky your random rolls are.",
@@ -1314,7 +1314,7 @@
       "source": "github",
       "source-id": "AvyAddons/BetterBags_Bound",
       "url": "https://github.com/AvyAddons/BetterBags_Bound",
-      "updated-date": "2025-08-06T05:28:59Z"
+      "updated-date": "2025-10-08T05:36:31Z"
     },
     {
       "description": "Filters for Dragonflight Crafting categories in BetterBags.",
@@ -1353,7 +1353,7 @@
       "source": "github",
       "source-id": "AvyAddons/BetterBags_Keystones",
       "url": "https://github.com/AvyAddons/BetterBags_Keystones",
-      "updated-date": "2025-08-06T05:30:44Z"
+      "updated-date": "2025-10-08T05:41:15Z"
     },
     {
       "description": "Filter for common War Within items in BetterBags.",
@@ -1366,7 +1366,7 @@
       "source": "github",
       "source-id": "AvyAddons/BetterBags_WarWithin",
       "url": "https://github.com/AvyAddons/BetterBags_WarWithin",
-      "updated-date": "2025-09-08T05:28:47Z"
+      "updated-date": "2025-10-08T05:50:52Z"
     },
     {
       "description": "Filters for TWW Crafting categories in AdiBags.",
@@ -1379,7 +1379,7 @@
       "source": "github",
       "source-id": "AvyAddons/BetterBags_WarWithin_Crafting",
       "url": "https://github.com/AvyAddons/BetterBags_WarWithin_Crafting",
-      "updated-date": "2025-08-07T05:12:37Z"
+      "updated-date": "2025-10-08T06:00:14Z"
     },
     {
       "description": "Adds mouseover hiding/showing functionality to the default Blizzard Action Bars",
@@ -1392,7 +1392,7 @@
       "source": "github",
       "source-id": "AvyAddons/BlizzardBars_Mouseover",
       "url": "https://github.com/AvyAddons/BlizzardBars_Mouseover",
-      "updated-date": "2025-08-06T05:32:17Z"
+      "updated-date": "2025-10-08T05:46:30Z"
     },
     {
       "description": "Adds a tab to the spellbook to quickly open the Click Casting window.",
@@ -1405,7 +1405,7 @@
       "source": "github",
       "source-id": "AvyAddons/ClickCastingTab",
       "url": "https://github.com/AvyAddons/ClickCastingTab",
-      "updated-date": "2025-08-06T05:34:19Z"
+      "updated-date": "2025-10-08T05:48:42Z"
     },
     {
       "download-count": 0,
@@ -1491,7 +1491,7 @@
       "source": "github",
       "source-id": "Backupiseasy/ThreatPlates",
       "url": "https://github.com/Backupiseasy/ThreatPlates",
-      "updated-date": "2025-09-14T10:00:09Z"
+      "updated-date": "2025-10-07T18:39:56Z"
     },
     {
       "description": "My basic World of Warcraft mods.",
@@ -1552,7 +1552,8 @@
       "description": "Display current % of run speed",
       "download-count": 0,
       "game-track-list": [
-        "classic",
+        "classic-cata",
+        "classic-mists",
         "classic-tbc",
         "classic-wotlk",
         "retail"
@@ -1562,7 +1563,7 @@
       "source": "github",
       "source-id": "Beast-Masters-addons/Broker_RunSpeed",
       "url": "https://github.com/Beast-Masters-addons/Broker_RunSpeed",
-      "updated-date": "2023-08-10T13:17:24Z"
+      "updated-date": "2025-10-10T20:16:12Z"
     },
     {
       "description": "A LibDataBroker display to show where you are, where you should go and how to get there",
@@ -1577,7 +1578,7 @@
       "source": "github",
       "source-id": "Beast-Masters-addons/Broker_WhereAmI",
       "url": "https://github.com/Beast-Masters-addons/Broker_WhereAmI",
-      "updated-date": "2025-07-13T18:43:46Z"
+      "updated-date": "2025-10-11T15:09:23Z"
     },
     {
       "description": "A helper addon for the WoW achievement \"Shake Your Bunny-Maker\"",
@@ -1773,7 +1774,7 @@
       "source": "github",
       "source-id": "BelegCufea/CompassHUD",
       "url": "https://github.com/BelegCufea/CompassHUD",
-      "updated-date": "2025-09-01T06:19:10Z"
+      "updated-date": "2025-10-10T10:10:40Z"
     },
     {
       "description": "A World of Warcraft AddOn that overlays a grid on-screen to aid in aligning the user interface.",
@@ -1827,7 +1828,7 @@
       "source": "github",
       "source-id": "BigFootTeam/BFBlackMarket",
       "url": "https://github.com/BigFootTeam/BFBlackMarket",
-      "updated-date": "2025-06-19T02:50:22Z"
+      "updated-date": "2025-10-09T02:21:32Z"
     },
     {
       "download-count": 0,
@@ -1839,7 +1840,7 @@
       "source": "github",
       "source-id": "BigFootTeam/BFCraftsman",
       "url": "https://github.com/BigFootTeam/BFCraftsman",
-      "updated-date": "2025-06-19T02:50:08Z"
+      "updated-date": "2025-10-09T07:36:39Z"
     },
     {
       "description": "大脚公益助手",
@@ -1870,7 +1871,7 @@
       "source": "github",
       "source-id": "BigWigsMods/BigWigs",
       "url": "https://github.com/BigWigsMods/BigWigs",
-      "updated-date": "2025-09-25T16:42:08Z"
+      "updated-date": "2025-10-09T17:13:53Z"
     },
     {
       "description": "A collection of BigWigs modules from the Battle for Azeroth era.",
@@ -1933,7 +1934,7 @@
       "source": "github",
       "source-id": "BigWigsMods/BigWigs_Classic",
       "url": "https://github.com/BigWigsMods/BigWigs_Classic",
-      "updated-date": "2025-08-10T13:35:59Z"
+      "updated-date": "2025-10-07T18:05:44Z"
     },
     {
       "description": "Displays messages and bars for common raid cooldowns.",
@@ -2008,7 +2009,7 @@
       "source": "github",
       "source-id": "BigWigsMods/BigWigs_Legion",
       "url": "https://github.com/BigWigsMods/BigWigs_Legion",
-      "updated-date": "2025-07-12T16:12:53Z"
+      "updated-date": "2025-10-09T22:40:29Z"
     },
     {
       "description": "A collection of BigWigs modules from the Mists of Pandaria era.",
@@ -2144,7 +2145,7 @@
       "source": "github",
       "source-id": "BigWigsMods/LittleWigs",
       "url": "https://github.com/BigWigsMods/LittleWigs",
-      "updated-date": "2025-09-26T17:02:13Z"
+      "updated-date": "2025-10-09T17:11:21Z"
     },
     {
       "description": "Logging utility for boss encounters.",
@@ -2175,7 +2176,7 @@
       "source": "github",
       "source-id": "BigWigsMods/oRA3",
       "url": "https://github.com/BigWigsMods/oRA3",
-      "updated-date": "2025-09-05T16:42:11Z"
+      "updated-date": "2025-10-09T19:36:10Z"
     },
     {
       "description": "Reminds you to change specialization, talents, gear set and addons",
@@ -2188,7 +2189,7 @@
       "source": "github",
       "source-id": "Bisse123/InstanceLoadouts",
       "url": "https://github.com/Bisse123/InstanceLoadouts",
-      "updated-date": "2025-06-11T20:40:29Z"
+      "updated-date": "2025-10-05T23:55:36Z"
     },
     {
       "download-count": 0,
@@ -2225,7 +2226,7 @@
       "source": "github",
       "source-id": "BloodDragon2580/GroupLanguage",
       "url": "https://github.com/BloodDragon2580/GroupLanguage",
-      "updated-date": "2025-09-21T08:13:25Z"
+      "updated-date": "2025-10-03T09:57:40Z"
     },
     {
       "description": "Automates repairs and sells poor quality items for you",
@@ -2253,7 +2254,7 @@
       "source": "github",
       "source-id": "BreakBB/DisenchantBuddy",
       "url": "https://github.com/BreakBB/DisenchantBuddy",
-      "updated-date": "2025-09-09T12:31:13Z"
+      "updated-date": "2025-10-06T15:06:34Z"
     },
     {
       "download-count": 0,
@@ -2378,7 +2379,7 @@
       "source": "github",
       "source-id": "BrenoLudgero/Auction_House_Notifications",
       "url": "https://github.com/BrenoLudgero/Auction_House_Notifications",
-      "updated-date": "2025-08-12T12:07:13Z"
+      "updated-date": "2025-09-28T05:32:57Z"
     },
     {
       "description": "Bugfix for World of Warcraft's interface option",
@@ -2393,7 +2394,7 @@
       "source": "github",
       "source-id": "BrenoLudgero/Floating_Combat_Text_Fix",
       "url": "https://github.com/BrenoLudgero/Floating_Combat_Text_Fix",
-      "updated-date": "2025-08-13T01:56:45Z"
+      "updated-date": "2025-09-28T05:31:15Z"
     },
     {
       "description": "The ultimate recipe tracking add-on for World of Warcraft",
@@ -2536,7 +2537,7 @@
       "source": "github",
       "source-id": "CDAGaming/CraftPresence-Wow-Edition",
       "url": "https://github.com/CDAGaming/CraftPresence-Wow-Edition",
-      "updated-date": "2025-09-05T02:23:57Z"
+      "updated-date": "2025-10-05T00:16:21Z"
     },
     {
       "description": "Lua in Wow",
@@ -2715,7 +2716,7 @@
       "source": "github",
       "source-id": "Canettieri/currenciesmulti",
       "url": "https://github.com/Canettieri/currenciesmulti",
-      "updated-date": "2025-09-25T20:59:05Z"
+      "updated-date": "2025-10-11T06:47:13Z"
     },
     {
       "description": "This is the repository of a WoW addon called Titan Panel [Professions] Multi. ⚒",
@@ -2771,7 +2772,7 @@
       "source": "github",
       "source-id": "Chalsean/XFaction",
       "url": "https://github.com/Chalsean/XFaction",
-      "updated-date": "2025-08-05T21:11:26Z"
+      "updated-date": "2025-10-08T22:06:50Z"
     },
     {
       "description": "Used to query various information in World of Warcraft.",
@@ -3012,7 +3013,7 @@
       "source": "github",
       "source-id": "Cidan/BetterBags",
       "url": "https://github.com/Cidan/BetterBags",
-      "updated-date": "2025-08-25T13:00:38Z"
+      "updated-date": "2025-10-08T00:37:27Z"
     },
     {
       "description": "The WoW addon Guild Recruitment Helper: Resurrected",
@@ -3127,7 +3128,7 @@
       "source": "github",
       "source-id": "CruelDrool/GuildRosterExport",
       "url": "https://github.com/CruelDrool/GuildRosterExport",
-      "updated-date": "2025-09-21T13:01:10Z"
+      "updated-date": "2025-10-08T10:01:49Z"
     },
     {
       "description": "WoW addon frontend for ModelScene API",
@@ -3187,7 +3188,7 @@
       "source": "github",
       "source-id": "Davie3/who-taunted",
       "url": "https://github.com/Davie3/who-taunted",
-      "updated-date": "2025-09-23T14:23:25Z"
+      "updated-date": "2025-10-07T15:33:18Z"
     },
     {
       "description": "Brings the old gods right to your dig site to give archaeology a more epic feel.",
@@ -3324,7 +3325,7 @@
       "source": "github",
       "source-id": "DeadlyBossMods/DBM-Dungeons",
       "url": "https://github.com/DeadlyBossMods/DBM-Dungeons",
-      "updated-date": "2025-09-23T20:37:15Z"
+      "updated-date": "2025-10-01T06:14:57Z"
     },
     {
       "description": "Deadly Boss Mods (DBM) - Legion mods",
@@ -3539,7 +3540,7 @@
       "source": "github",
       "source-id": "DeadlyBossMods/DeadlyBossMods",
       "url": "https://github.com/DeadlyBossMods/DeadlyBossMods",
-      "updated-date": "2025-09-23T20:50:41Z"
+      "updated-date": "2025-10-06T05:33:41Z"
     },
     {
       "description": "AlterEgo is a World of Warcraft addon to track the Mythic+ progress of all your characters",
@@ -3584,6 +3585,9 @@
       "description": "BLU | Better Level Up! Play sounds from other games when you Level Up, complete Trade Post Activities, or Gain Reputation!",
       "download-count": 0,
       "game-track-list": [
+        "classic",
+        "classic-cata",
+        "classic-mists",
         "retail"
       ],
       "label": "BLU",
@@ -3591,7 +3595,7 @@
       "source": "github",
       "source-id": "DonnieDice/BLU",
       "url": "https://github.com/DonnieDice/BLU",
-      "updated-date": "2025-08-10T03:27:27Z"
+      "updated-date": "2025-10-07T03:21:08Z"
     },
     {
       "description": "Coordination Cloak Utility automates the use of the Cloak of Coordination and Wrap of Unity. It equips the cloak for teleportation and automatically re-equips your original cloak afterward. Use the /ccu command for quick access.",
@@ -3695,7 +3699,7 @@
       "source": "github",
       "source-id": "Dragnogd/Instance-Achievement-Tracker",
       "url": "https://github.com/Dragnogd/Instance-Achievement-Tracker",
-      "updated-date": "2025-09-10T20:25:36Z"
+      "updated-date": "2025-10-08T17:30:20Z"
     },
     {
       "description": "Magically delicious!",
@@ -3708,7 +3712,7 @@
       "source": "github",
       "source-id": "Dreamlogic22/Charming",
       "url": "https://github.com/Dreamlogic22/Charming",
-      "updated-date": "2025-08-08T15:28:33Z"
+      "updated-date": "2025-10-07T23:48:22Z"
     },
     {
       "description": "Boop beep boop.",
@@ -3721,7 +3725,7 @@
       "source": "github",
       "source-id": "Dreamlogic22/MoonMedia",
       "url": "https://github.com/Dreamlogic22/MoonMedia",
-      "updated-date": "2025-08-08T15:28:46Z"
+      "updated-date": "2025-10-07T23:48:49Z"
     },
     {
       "description": "Walks the dog.",
@@ -3734,7 +3738,7 @@
       "source": "github",
       "source-id": "Dreamlogic22/PetLeash",
       "url": "https://github.com/Dreamlogic22/PetLeash",
-      "updated-date": "2025-08-08T15:29:02Z"
+      "updated-date": "2025-10-07T23:47:55Z"
     },
     {
       "description": "Center of the universe!",
@@ -3747,7 +3751,7 @@
       "source": "github",
       "source-id": "Dreamlogic22/RedCenter",
       "url": "https://github.com/Dreamlogic22/RedCenter",
-      "updated-date": "2025-08-08T15:29:53Z"
+      "updated-date": "2025-10-07T23:49:14Z"
     },
     {
       "description": "World of Warcraft Plugin",
@@ -3760,7 +3764,7 @@
       "source": "github",
       "source-id": "Dreamlogic22/TherapyWeeklyRewards",
       "url": "https://github.com/Dreamlogic22/TherapyWeeklyRewards",
-      "updated-date": "2025-08-12T15:38:13Z"
+      "updated-date": "2025-10-07T23:45:08Z"
     },
     {
       "download-count": 0,
@@ -4486,7 +4490,7 @@
       "source": "github",
       "source-id": "FunDeliveryGames/wow-delve-companion",
       "url": "https://github.com/FunDeliveryGames/wow-delve-companion",
-      "updated-date": "2025-08-24T21:29:01Z"
+      "updated-date": "2025-10-08T09:53:34Z"
     },
     {
       "description": "Blacklist for Gehennas-EU Classic WoW",
@@ -4527,19 +4531,6 @@
       "updated-date": "2020-11-02T21:00:28Z"
     },
     {
-      "description": "A comprehensive character cheat sheet addon for World of Warcraft",
-      "download-count": 0,
-      "game-track-list": [
-        "retail"
-      ],
-      "label": "MyCheatSheet",
-      "name": "mycheatsheet",
-      "source": "github",
-      "source-id": "Ghordian/MyCheatSheet",
-      "url": "https://github.com/Ghordian/MyCheatSheet",
-      "updated-date": "2025-08-24T16:05:37Z"
-    },
-    {
       "description": "An addon for World of Warcraft aimed at increasing in-game data availability.",
       "download-count": 0,
       "game-track-list": [
@@ -4550,7 +4541,7 @@
       "source": "github",
       "source-id": "Ghostopheles/Datamine",
       "url": "https://github.com/Ghostopheles/Datamine",
-      "updated-date": "2025-08-20T23:47:36Z"
+      "updated-date": "2025-10-07T13:13:36Z"
     },
     {
       "description": "A library for creating event-driven advanced flight addons",
@@ -4628,7 +4619,7 @@
       "source": "github",
       "source-id": "Ghostopheles/Tabardy",
       "url": "https://github.com/Ghostopheles/Tabardy",
-      "updated-date": "2025-08-05T21:02:37Z"
+      "updated-date": "2025-10-07T05:54:04Z"
     },
     {
       "download-count": 0,
@@ -4681,7 +4672,7 @@
       "source": "github",
       "source-id": "Gogo1951/ComeAndGetIt",
       "url": "https://github.com/Gogo1951/ComeAndGetIt",
-      "updated-date": "2025-08-12T04:44:07Z"
+      "updated-date": "2025-09-29T22:55:16Z"
     },
     {
       "description": "GDKPd Classic",
@@ -4734,7 +4725,7 @@
       "source": "github",
       "source-id": "Gogo1951/MagicEraser",
       "url": "https://github.com/Gogo1951/MagicEraser",
-      "updated-date": "2025-08-10T19:14:33Z"
+      "updated-date": "2025-09-29T22:57:10Z"
     },
     {
       "description": "A simple add-on that automatically opens clams \u0026 containers in your inventory.",
@@ -4747,7 +4738,7 @@
       "source": "github",
       "source-id": "Gogo1951/Open-Sesame",
       "url": "https://github.com/Gogo1951/Open-Sesame",
-      "updated-date": "2025-05-02T05:56:05Z"
+      "updated-date": "2025-09-29T11:39:20Z"
     },
     {
       "description": "A simple add-on that automatically expresses happiness with an emote whenever you receive a new buff.",
@@ -4762,7 +4753,7 @@
       "source": "github",
       "source-id": "Gogo1951/TFTB",
       "url": "https://github.com/Gogo1951/TFTB",
-      "updated-date": "2025-08-11T07:25:12Z"
+      "updated-date": "2025-09-29T22:56:02Z"
     },
     {
       "description": "Custom user interface suite for World of Warcraft. Design and code by Lars Norberg and Daniel Troconis.",
@@ -5346,7 +5337,7 @@
       "source": "github",
       "source-id": "HizurosWoWAddOns/Broker_Everything",
       "url": "https://github.com/HizurosWoWAddOns/Broker_Everything",
-      "updated-date": "2025-08-31T13:58:37Z"
+      "updated-date": "2025-10-10T21:21:42Z"
     },
     {
       "download-count": 0,
@@ -5594,7 +5585,7 @@
       "source": "github",
       "source-id": "Hopesedge-Unmoist/ProjectHopes",
       "url": "https://github.com/Hopesedge-Unmoist/ProjectHopes",
-      "updated-date": "2025-09-26T05:13:29Z"
+      "updated-date": "2025-10-07T10:26:05Z"
     },
     {
       "download-count": 0,
@@ -5682,7 +5673,7 @@
       "source": "github",
       "source-id": "IrcDirk/Carbonite-Classic",
       "url": "https://github.com/IrcDirk/Carbonite-Classic",
-      "updated-date": "2025-08-21T07:14:16Z"
+      "updated-date": "2025-10-11T18:16:18Z"
     },
     {
       "description": "A WoW: TWW AddOn to simplify the use of the blacksmithing item 'Earthen Master's Hammer'.",
@@ -5950,7 +5941,7 @@
       "source": "github",
       "source-id": "Jods-GH/CustomNames",
       "url": "https://github.com/Jods-GH/CustomNames",
-      "updated-date": "2025-08-06T08:34:09Z"
+      "updated-date": "2025-10-08T15:46:27Z"
     },
     {
       "download-count": 0,
@@ -5962,7 +5953,7 @@
       "source": "github",
       "source-id": "Jods-GH/CustomNames_Chat",
       "url": "https://github.com/Jods-GH/CustomNames_Chat",
-      "updated-date": "2025-08-06T08:34:45Z"
+      "updated-date": "2025-10-08T15:47:01Z"
     },
     {
       "description": "WoW Addon that provides CustomNames functionality for the popular User Interface replacement AddOn ElvUi",
@@ -5975,7 +5966,7 @@
       "source": "github",
       "source-id": "Jods-GH/CustomNames_ElvUI",
       "url": "https://github.com/Jods-GH/CustomNames_ElvUI",
-      "updated-date": "2025-08-06T08:33:55Z"
+      "updated-date": "2025-10-08T15:46:12Z"
     },
     {
       "download-count": 0,
@@ -5987,7 +5978,7 @@
       "source": "github",
       "source-id": "Jods-GH/CustomNames_Guild",
       "url": "https://github.com/Jods-GH/CustomNames_Guild",
-      "updated-date": "2025-08-06T08:34:34Z"
+      "updated-date": "2025-10-08T15:46:51Z"
     },
     {
       "description": "WoW Addon that provides CustomNames functionality for the popular raid Utility Addon Method Raid Tools",
@@ -6000,7 +5991,7 @@
       "source": "github",
       "source-id": "Jods-GH/CustomNames_MRT",
       "url": "https://github.com/Jods-GH/CustomNames_MRT",
-      "updated-date": "2025-08-06T08:33:31Z"
+      "updated-date": "2025-10-08T15:45:57Z"
     },
     {
       "description": "WoW Addon that dynamically creates Dungeon WeakAuras based on user selections.",
@@ -6013,7 +6004,7 @@
       "source": "github",
       "source-id": "Jods-GH/DungeonAuraTools",
       "url": "https://github.com/Jods-GH/DungeonAuraTools",
-      "updated-date": "2025-09-18T16:44:51Z"
+      "updated-date": "2025-10-08T15:45:30Z"
     },
     {
       "description": "Gh source for the GroupFinderRio WoW Addon",
@@ -6026,7 +6017,7 @@
       "source": "github",
       "source-id": "Jods-GH/GroupFinderRIO",
       "url": "https://github.com/Jods-GH/GroupFinderRIO",
-      "updated-date": "2025-08-20T14:47:00Z"
+      "updated-date": "2025-10-08T15:46:40Z"
     },
     {
       "description": "Layout installer for JodsUi",
@@ -6097,7 +6088,7 @@
       "source": "github",
       "source-id": "Justw8/TeleportMenu",
       "url": "https://github.com/Justw8/TeleportMenu",
-      "updated-date": "2025-08-06T19:50:37Z"
+      "updated-date": "2025-09-30T17:42:32Z"
     },
     {
       "download-count": 0,
@@ -6154,7 +6145,7 @@
       "source": "github",
       "source-id": "Karl-HeinzSchneider/WoW-Details-Skin-TheWarWithin",
       "url": "https://github.com/Karl-HeinzSchneider/WoW-Details-Skin-TheWarWithin",
-      "updated-date": "2025-08-08T22:13:03Z"
+      "updated-date": "2025-09-27T03:04:53Z"
     },
     {
       "description": "World of Warcraft (classic) Addon to bring the new Retail UI to WoW Classic!",
@@ -6170,7 +6161,7 @@
       "source": "github",
       "source-id": "Karl-HeinzSchneider/WoW-DragonflightUI",
       "url": "https://github.com/Karl-HeinzSchneider/WoW-DragonflightUI",
-      "updated-date": "2025-09-25T11:28:08Z"
+      "updated-date": "2025-10-05T01:19:32Z"
     },
     {
       "download-count": 0,
@@ -6200,7 +6191,7 @@
       "source": "github",
       "source-id": "Kiatra/BlizzMove",
       "url": "https://github.com/Kiatra/BlizzMove",
-      "updated-date": "2025-09-24T12:46:34Z"
+      "updated-date": "2025-10-08T08:32:46Z"
     },
     {
       "description": "A World of Warcraft addon that adds convenient access to Check-PvP.fr player profiles through right-click context menus.",
@@ -6214,7 +6205,7 @@
       "source": "github",
       "source-id": "Kirom/CheckPvPAssistant",
       "url": "https://github.com/Kirom/CheckPvPAssistant",
-      "updated-date": "2025-09-26T10:03:31Z"
+      "updated-date": "2025-10-09T19:11:42Z"
     },
     {
       "description": "World of Warcraft addon that provides convenient access to multiple PvP websites through right-click context menus. Supports multiple providers and allows users to choose which websites they want to use. Supports LFG search results and applicants and generates full URLs for the player that can be copied to the clipboard immediately with Ctrl+C.",
@@ -6228,7 +6219,7 @@
       "source": "github",
       "source-id": "Kirom/PvP-Profile",
       "url": "https://github.com/Kirom/PvP-Profile",
-      "updated-date": "2025-09-26T15:52:13Z"
+      "updated-date": "2025-10-09T18:55:07Z"
     },
     {
       "description": "Helps you find upgrades from dropped loot and request them.",
@@ -6450,7 +6441,7 @@
       "source": "github",
       "source-id": "KyrosKrane/AnnoyingPopupRemover",
       "url": "https://github.com/KyrosKrane/AnnoyingPopupRemover",
-      "updated-date": "2025-09-22T18:38:51Z"
+      "updated-date": "2025-10-12T06:10:50Z"
     },
     {
       "description": "World of Warcraft addon that lets you track your progress for the \"Going to Need a Bigger Bag\" achievement.",
@@ -6463,7 +6454,7 @@
       "source": "github",
       "source-id": "KyrosKrane/BiggerBagChecker",
       "url": "https://github.com/KyrosKrane/BiggerBagChecker",
-      "updated-date": "2025-06-18T06:08:54Z"
+      "updated-date": "2025-10-07T21:28:53Z"
     },
     {
       "description": "A World of Warcraft LibDataBroker addon to show how many tanks, healers, and DPS are in your raid",
@@ -6476,7 +6467,7 @@
       "source": "github",
       "source-id": "KyrosKrane/Broker_RaidMakeup",
       "url": "https://github.com/KyrosKrane/Broker_RaidMakeup",
-      "updated-date": "2025-06-18T06:10:58Z"
+      "updated-date": "2025-10-07T21:30:12Z"
     },
     {
       "description": "A simple Broker/LDB addon to show your current Run Speed %.",
@@ -6491,7 +6482,7 @@
       "source": "github",
       "source-id": "KyrosKrane/Broker_RunSpeed",
       "url": "https://github.com/KyrosKrane/Broker_RunSpeed",
-      "updated-date": "2025-06-18T06:11:24Z"
+      "updated-date": "2025-10-07T21:29:36Z"
     },
     {
       "description": "A framework for World of Warcraft addons to provide clickable chat links.",
@@ -6532,7 +6523,7 @@
       "source": "github",
       "source-id": "KyrosKrane/DigDug",
       "url": "https://github.com/KyrosKrane/DigDug",
-      "updated-date": "2025-06-18T06:11:55Z"
+      "updated-date": "2025-10-07T21:31:48Z"
     },
     {
       "description": "World of Warcraft addon that informs you which mob will be activated by a Mechagon drill rig",
@@ -6545,7 +6536,7 @@
       "source": "github",
       "source-id": "KyrosKrane/DrillSergeant",
       "url": "https://github.com/KyrosKrane/DrillSergeant",
-      "updated-date": "2025-06-18T06:12:37Z"
+      "updated-date": "2025-10-07T21:31:55Z"
     },
     {
       "description": "DragonRiding Button Fixer - a WoW addon to enable mouse buttons for dragon riding",
@@ -6558,7 +6549,7 @@
       "source": "github",
       "source-id": "KyrosKrane/SkyridingKeybinds",
       "url": "https://github.com/KyrosKrane/SkyridingKeybinds",
-      "updated-date": "2025-06-18T06:13:04Z"
+      "updated-date": "2025-10-07T21:33:57Z"
     },
     {
       "download-count": 0,
@@ -6625,7 +6616,7 @@
       "source": "github",
       "source-id": "Larsj02/LegionRemixHelper",
       "url": "https://github.com/Larsj02/LegionRemixHelper",
-      "updated-date": "2025-09-26T10:06:48Z"
+      "updated-date": "2025-10-12T01:31:36Z"
     },
     {
       "download-count": 0,
@@ -6652,31 +6643,7 @@
       "source": "github",
       "source-id": "LegolandoBloom/Angleur",
       "url": "https://github.com/LegolandoBloom/Angleur",
-      "updated-date": "2025-09-20T11:49:45Z"
-    },
-    {
-      "download-count": 0,
-      "game-track-list": [
-        "retail"
-      ],
-      "label": "Angleur_Underlight",
-      "name": "angleur-underlight",
-      "source": "github",
-      "source-id": "LegolandoBloom/Angleur_Underlight",
-      "url": "https://github.com/LegolandoBloom/Angleur_Underlight",
-      "updated-date": "2025-09-18T18:48:35Z"
-    },
-    {
-      "download-count": 0,
-      "game-track-list": [
-        "retail"
-      ],
-      "label": "TrueForm",
-      "name": "trueform",
-      "source": "github",
-      "source-id": "LegolandoBloom/TrueForm",
-      "url": "https://github.com/LegolandoBloom/TrueForm",
-      "updated-date": "2025-08-08T01:48:44Z"
+      "updated-date": "2025-10-08T14:38:08Z"
     },
     {
       "description": "WoW add-on that plays the end credits from the \"Curb Your Enthusiasm\" show a.k.a. \"Directed By Robert B. Weide\"  when you die.",
@@ -6896,12 +6863,12 @@
       "source": "github",
       "source-id": "LiangYuxuan/TestServerWorldMap",
       "url": "https://github.com/LiangYuxuan/TestServerWorldMap",
-      "updated-date": "2025-09-20T01:35:08Z"
+      "updated-date": "2025-10-09T03:57:02Z"
     },
     {
       "download-count": 0,
       "game-track-list": [
-        "classic-cata",
+        "classic-mists",
         "retail"
       ],
       "label": "Max-Camera-Distance",
@@ -6909,7 +6876,7 @@
       "source": "github",
       "source-id": "LihvoDruida/Max-Camera-Distance",
       "url": "https://github.com/LihvoDruida/Max-Camera-Distance",
-      "updated-date": "2025-06-09T18:39:52Z"
+      "updated-date": "2025-10-11T16:20:03Z"
     },
     {
       "download-count": 0,
@@ -7091,7 +7058,7 @@
       "source": "github",
       "source-id": "LorenzoRogai/RepHub",
       "url": "https://github.com/LorenzoRogai/RepHub",
-      "updated-date": "2025-08-06T17:26:10Z"
+      "updated-date": "2025-10-08T07:00:34Z"
     },
     {
       "description": "Gambling Addon for WoW",
@@ -7109,7 +7076,7 @@
       "source": "github",
       "source-id": "LoyalFTW/CrossGambling",
       "url": "https://github.com/LoyalFTW/CrossGambling",
-      "updated-date": "2025-08-28T21:04:47Z"
+      "updated-date": "2025-10-08T14:26:31Z"
     },
     {
       "description": "NeatPlates is a continuation of the original Tidy Plates in an attempt to keep it update date in the absence of its authors.",
@@ -7188,6 +7155,7 @@
       "game-track-list": [
         "classic",
         "classic-cata",
+        "classic-mists",
         "retail"
       ],
       "label": "WeakAuras2-Legion",
@@ -7195,7 +7163,7 @@
       "source": "github",
       "source-id": "Maczuga/WeakAuras2-Legion",
       "url": "https://github.com/Maczuga/WeakAuras2-Legion",
-      "updated-date": "2025-03-04T10:25:25Z"
+      "updated-date": "2025-10-09T13:36:07Z"
     },
     {
       "description": "Auction house addon for World of Warcraft",
@@ -7243,9 +7211,9 @@
       "label": "DeviceLayoutPreset",
       "name": "devicelayoutpreset",
       "source": "github",
-      "source-id": "Mctalian/DeviceLayoutPreset",
-      "url": "https://github.com/Mctalian/DeviceLayoutPreset",
-      "updated-date": "2025-07-22T15:16:47Z"
+      "source-id": "McTalian/DeviceLayoutPreset",
+      "url": "https://github.com/McTalian/DeviceLayoutPreset",
+      "updated-date": "2025-10-08T13:22:18Z"
     },
     {
       "description": "Declutter your chat - let RPGLootFeed show you what you looted and keep your chat for chat!",
@@ -7258,9 +7226,9 @@
       "label": "RPGLootFeed",
       "name": "rpglootfeed",
       "source": "github",
-      "source-id": "Mctalian/RPGLootFeed",
-      "url": "https://github.com/Mctalian/RPGLootFeed",
-      "updated-date": "2025-09-01T18:30:30Z"
+      "source-id": "McTalian/RPGLootFeed",
+      "url": "https://github.com/McTalian/RPGLootFeed",
+      "updated-date": "2025-10-07T21:56:01Z"
     },
     {
       "download-count": 0,
@@ -7270,8 +7238,8 @@
       "label": "TokenTransmogTooltips",
       "name": "tokentransmogtooltips",
       "source": "github",
-      "source-id": "Mctalian/TokenTransmogTooltips",
-      "url": "https://github.com/Mctalian/TokenTransmogTooltips",
+      "source-id": "McTalian/TokenTransmogTooltips",
+      "url": "https://github.com/McTalian/TokenTransmogTooltips",
       "updated-date": "2025-08-05T01:32:14Z"
     },
     {
@@ -7343,7 +7311,7 @@
       "source": "github",
       "source-id": "Merathilis/ElvUI_MerathilisUI",
       "url": "https://github.com/Merathilis/ElvUI_MerathilisUI",
-      "updated-date": "2025-09-07T15:30:00Z"
+      "updated-date": "2025-10-12T07:45:18Z"
     },
     {
       "download-count": 0,
@@ -7399,7 +7367,7 @@
       "source": "github",
       "source-id": "Mortalknight/GW2_UI",
       "url": "https://github.com/Mortalknight/GW2_UI",
-      "updated-date": "2025-09-24T06:34:40Z"
+      "updated-date": "2025-10-07T22:40:53Z"
     },
     {
       "description": "A WoW addon for quickly (and recklessly) abandoning quests",
@@ -7450,7 +7418,7 @@
       "source": "github",
       "source-id": "Mr-Mythical/MrMythicalAddon",
       "url": "https://github.com/Mr-Mythical/MrMythicalAddon",
-      "updated-date": "2025-09-25T00:32:51Z"
+      "updated-date": "2025-10-10T10:18:58Z"
     },
     {
       "description": "Shows the top Mythic+ runs from Raider.IO with keystone tooltips",
@@ -7463,7 +7431,7 @@
       "source": "github",
       "source-id": "Mr-Mythical/MrMythicalLeaderboard",
       "url": "https://github.com/Mr-Mythical/MrMythicalLeaderboard",
-      "updated-date": "2025-09-26T18:00:21Z"
+      "updated-date": "2025-10-12T06:00:22Z"
     },
     {
       "description": "Small World of Warcraft addon that adds additional commands to reload the game",
@@ -7478,7 +7446,7 @@
       "source": "github",
       "source-id": "Mr-Mythical/Relaod",
       "url": "https://github.com/Mr-Mythical/Relaod",
-      "updated-date": "2025-09-25T09:19:25Z"
+      "updated-date": "2025-10-09T11:28:47Z"
     },
     {
       "download-count": 0,
@@ -7505,7 +7473,7 @@
       "source": "github",
       "source-id": "MrFox42/minarch",
       "url": "https://github.com/MrFox42/minarch",
-      "updated-date": "2025-08-08T06:57:37Z"
+      "updated-date": "2025-10-05T06:54:44Z"
     },
     {
       "description": "Added Files",
@@ -7541,7 +7509,7 @@
       "source": "github",
       "source-id": "MyGamesDevelopmentAcc/MyBags",
       "url": "https://github.com/MyGamesDevelopmentAcc/MyBags",
-      "updated-date": "2025-09-09T20:19:45Z"
+      "updated-date": "2025-10-11T12:10:46Z"
     },
     {
       "download-count": 0,
@@ -7702,7 +7670,7 @@
       "source": "github",
       "source-id": "Myrroddin/feedtillers",
       "url": "https://github.com/Myrroddin/feedtillers",
-      "updated-date": "2025-08-11T23:41:11Z"
+      "updated-date": "2025-10-11T02:21:27Z"
     },
     {
       "description": "Hides the world map toggle button on the minimap",
@@ -7775,7 +7743,7 @@
       "source": "github",
       "source-id": "Myrroddin/sharedmedia-classicalfonts",
       "url": "https://github.com/Myrroddin/sharedmedia-classicalfonts",
-      "updated-date": "2025-08-12T16:52:50Z"
+      "updated-date": "2025-10-11T07:28:38Z"
     },
     {
       "download-count": 0,
@@ -8113,6 +8081,51 @@
       "updated-date": "2025-05-24T10:45:46Z"
     },
     {
+      "description": "Hides UI clutter in World of Warcraft",
+      "download-count": 0,
+      "game-track-list": [
+        "classic",
+        "classic-mists",
+        "retail"
+      ],
+      "label": "DownInFront",
+      "name": "downinfront",
+      "source": "github",
+      "source-id": "NephMakes/DownInFront",
+      "url": "https://github.com/NephMakes/DownInFront",
+      "updated-date": "2025-10-10T23:41:26Z"
+    },
+    {
+      "description": "Timer bar addon for World of Warcraft",
+      "download-count": 0,
+      "game-track-list": [
+        "classic",
+        "classic-mists",
+        "retail"
+      ],
+      "label": "NeedToKnow",
+      "name": "needtoknow",
+      "source": "github",
+      "source-id": "NephMakes/NeedToKnow",
+      "url": "https://github.com/NephMakes/NeedToKnow",
+      "updated-date": "2025-10-11T16:13:27Z"
+    },
+    {
+      "description": "Simple, effective nameplates for World of Warcraft",
+      "download-count": 0,
+      "game-track-list": [
+        "classic",
+        "classic-mists",
+        "retail"
+      ],
+      "label": "Nephilist-Nameplates",
+      "name": "nephilist-nameplates",
+      "source": "github",
+      "source-id": "NephMakes/Nephilist-Nameplates",
+      "url": "https://github.com/NephMakes/Nephilist-Nameplates",
+      "updated-date": "2025-10-11T13:45:59Z"
+    },
+    {
       "description": "Map Pin Enhanced is a World of Warcraft addon to enhance the ingame waypoint system.",
       "download-count": 0,
       "game-track-list": [
@@ -8258,7 +8271,7 @@
       "source": "github",
       "source-id": "Nevcairiel/Quester",
       "url": "https://github.com/Nevcairiel/Quester",
-      "updated-date": "2025-09-09T17:13:14Z"
+      "updated-date": "2025-10-05T21:45:58Z"
     },
     {
       "description": "Routes WoW Addon",
@@ -8288,7 +8301,7 @@
       "source": "github",
       "source-id": "NielsHeltner/wowhead-quick-link",
       "url": "https://github.com/NielsHeltner/wowhead-quick-link",
-      "updated-date": "2025-08-06T15:19:43Z"
+      "updated-date": "2025-09-28T07:32:52Z"
     },
     {
       "description": "WoW Addon - Synchronises various Character-Specific Interface Settings Account Wide.",
@@ -8304,7 +8317,7 @@
       "source": "github",
       "source-id": "NinerBull/AccWideUILayoutSelection",
       "url": "https://github.com/NinerBull/AccWideUILayoutSelection",
-      "updated-date": "2025-09-22T21:32:06Z"
+      "updated-date": "2025-10-08T21:36:02Z"
     },
     {
       "description": "WoW Addon - Block various default Chat Channels such as Trade or Services, account wide.",
@@ -8320,7 +8333,7 @@
       "source": "github",
       "source-id": "NinerBull/BlockBlizzChatChannels",
       "url": "https://github.com/NinerBull/BlockBlizzChatChannels",
-      "updated-date": "2025-08-05T21:04:30Z"
+      "updated-date": "2025-10-07T21:19:38Z"
     },
     {
       "description": "WoW Addon - Allows hidden NPC dialog to be shown.",
@@ -8336,7 +8349,7 @@
       "source": "github",
       "source-id": "NinerBull/NPCRPGossip",
       "url": "https://github.com/NinerBull/NPCRPGossip",
-      "updated-date": "2025-07-22T21:18:12Z"
+      "updated-date": "2025-10-07T21:27:34Z"
     },
     {
       "description": "WoW Addon - Adds Raider.IO Information to Total RP 3's tooltips.",
@@ -8352,7 +8365,7 @@
       "source": "github",
       "source-id": "NinerBull/tRP3_RDotIO",
       "url": "https://github.com/NinerBull/tRP3_RDotIO",
-      "updated-date": "2025-08-05T21:02:35Z"
+      "updated-date": "2025-10-07T21:22:06Z"
     },
     {
       "description": "WoW Addon  - Enhances questing immersion by putting your TRP3 Character Name (and optionally Race and Class) into Quest Text!",
@@ -8368,7 +8381,7 @@
       "source": "github",
       "source-id": "NinerBull/tRP3_RPNameInQuests",
       "url": "https://github.com/NinerBull/tRP3_RPNameInQuests",
-      "updated-date": "2025-08-05T20:56:07Z"
+      "updated-date": "2025-10-07T21:23:36Z"
     },
     {
       "download-count": 0,
@@ -8392,7 +8405,7 @@
       "source": "github",
       "source-id": "NintendoLink07/MythicIOGrabber",
       "url": "https://github.com/NintendoLink07/MythicIOGrabber",
-      "updated-date": "2025-09-16T17:34:27Z"
+      "updated-date": "2025-09-28T17:51:00Z"
     },
     {
       "download-count": 0,
@@ -8431,7 +8444,7 @@
       "source": "github",
       "source-id": "Nitrak/Vocal-Raid-Assistant",
       "url": "https://github.com/Nitrak/Vocal-Raid-Assistant",
-      "updated-date": "2025-09-07T09:24:10Z"
+      "updated-date": "2025-10-08T05:37:36Z"
     },
     {
       "description": "WoW library for running code asynchronously",
@@ -8457,7 +8470,7 @@
       "source": "github",
       "source-id": "Nnoggie/MDT_Legacy",
       "url": "https://github.com/Nnoggie/MDT_Legacy",
-      "updated-date": "2025-07-24T21:15:41Z"
+      "updated-date": "2025-10-11T18:29:37Z"
     },
     {
       "description": "World of Warcraft AddOn for planning and optimizing Mythic+ dungeon runs",
@@ -8471,7 +8484,7 @@
       "source": "github",
       "source-id": "Nnoggie/MythicDungeonTools",
       "url": "https://github.com/Nnoggie/MythicDungeonTools",
-      "updated-date": "2025-09-12T13:10:35Z"
+      "updated-date": "2025-10-08T13:55:48Z"
     },
     {
       "description": "WoW AddOn for enabling PingSounds without other SoundEffects",
@@ -8516,7 +8529,7 @@
       "source": "github",
       "source-id": "NoobTaco/NoobTacoUI-Media",
       "url": "https://github.com/NoobTaco/NoobTacoUI-Media",
-      "updated-date": "2025-09-06T12:46:47Z"
+      "updated-date": "2025-10-06T19:24:54Z"
     },
     {
       "description": "An ElvUI Profile based off of Nord Theme. Dark, but not to dark.",
@@ -8549,7 +8562,7 @@
       "source": "github",
       "source-id": "Noshei/GatheringTracker",
       "url": "https://github.com/Noshei/GatheringTracker",
-      "updated-date": "2025-09-21T02:41:08Z"
+      "updated-date": "2025-10-07T14:38:11Z"
     },
     {
       "description": "World of Warcraft addon that provides a log of which character added or removed items/gold from the Warband Bank",
@@ -8562,7 +8575,7 @@
       "source": "github",
       "source-id": "Noshei/Warband-Bank-Log",
       "url": "https://github.com/Noshei/Warband-Bank-Log",
-      "updated-date": "2025-08-09T23:26:04Z"
+      "updated-date": "2025-10-07T14:37:16Z"
     },
     {
       "description": "UI for Blizzard's Addon Profiler",
@@ -8578,7 +8591,7 @@
       "source": "github",
       "source-id": "NumyAddon/AddonProfiler",
       "url": "https://github.com/NumyAddon/AddonProfiler",
-      "updated-date": "2025-09-24T12:46:11Z"
+      "updated-date": "2025-10-08T08:31:30Z"
     },
     {
       "description": "Forces user to confirm quantity when buying more than 1 item from the AH",
@@ -8593,7 +8606,7 @@
       "source": "github",
       "source-id": "NumyAddon/AuctionHouseConfirmQuantity",
       "url": "https://github.com/NumyAddon/AuctionHouseConfirmQuantity",
-      "updated-date": "2025-09-24T12:46:12Z"
+      "updated-date": "2025-10-08T08:31:31Z"
     },
     {
       "description": "WoW addon",
@@ -8606,7 +8619,7 @@
       "source": "github",
       "source-id": "NumyAddon/AzeriteTraitTooltips",
       "url": "https://github.com/NumyAddon/AzeriteTraitTooltips",
-      "updated-date": "2025-08-06T06:59:00Z"
+      "updated-date": "2025-10-08T08:31:33Z"
     },
     {
       "description": "Blizzmove plugin for the Manuscripts Journal addon",
@@ -8619,7 +8632,7 @@
       "source": "github",
       "source-id": "NumyAddon/BlizzMovePlugin_ManuscriptsJournal",
       "url": "https://github.com/NumyAddon/BlizzMovePlugin_ManuscriptsJournal",
-      "updated-date": "2025-08-06T06:59:02Z"
+      "updated-date": "2025-10-08T08:31:31Z"
     },
     {
       "description": "BlizzMove Plugin to make the QuestTracker movable",
@@ -8637,7 +8650,7 @@
       "source": "github",
       "source-id": "NumyAddon/BlizzMovePlugin_QuestTracker",
       "url": "https://github.com/NumyAddon/BlizzMovePlugin_QuestTracker",
-      "updated-date": "2025-09-24T12:46:10Z"
+      "updated-date": "2025-10-08T08:31:33Z"
     },
     {
       "download-count": 0,
@@ -8649,7 +8662,7 @@
       "source": "github",
       "source-id": "NumyAddon/BlizzMovePlugin_Rematch",
       "url": "https://github.com/NumyAddon/BlizzMovePlugin_Rematch",
-      "updated-date": "2025-08-31T10:14:37Z"
+      "updated-date": "2025-10-08T08:31:34Z"
     },
     {
       "download-count": 0,
@@ -8661,7 +8674,7 @@
       "source": "github",
       "source-id": "NumyAddon/BlizzMovePlugin_SoulshapeJournal",
       "url": "https://github.com/NumyAddon/BlizzMovePlugin_SoulshapeJournal",
-      "updated-date": "2025-08-06T06:59:03Z"
+      "updated-date": "2025-10-08T08:31:32Z"
     },
     {
       "download-count": 0,
@@ -8673,7 +8686,7 @@
       "source": "github",
       "source-id": "NumyAddon/BlizzMovePlugin_VenturePlan",
       "url": "https://github.com/NumyAddon/BlizzMovePlugin_VenturePlan",
-      "updated-date": "2025-08-06T06:59:03Z"
+      "updated-date": "2025-10-08T08:31:35Z"
     },
     {
       "description": "Talent viewer for mop style talents",
@@ -8698,7 +8711,7 @@
       "source": "github",
       "source-id": "NumyAddon/CrossFactionRequestInvite",
       "url": "https://github.com/NumyAddon/CrossFactionRequestInvite",
-      "updated-date": "2025-08-06T06:59:02Z"
+      "updated-date": "2025-10-08T08:31:35Z"
     },
     {
       "description": "Addon to add keybinds to various buttons, including gossip windows",
@@ -8716,7 +8729,7 @@
       "source": "github",
       "source-id": "NumyAddon/DialogKey_Numy",
       "url": "https://github.com/NumyAddon/DialogKey_Numy",
-      "updated-date": "2025-09-24T12:46:12Z"
+      "updated-date": "2025-10-04T12:11:47Z"
     },
     {
       "description": "WoW addon",
@@ -8729,7 +8742,7 @@
       "source": "github",
       "source-id": "NumyAddon/HandyNotes_FerryNetwork",
       "url": "https://github.com/NumyAddon/HandyNotes_FerryNetwork",
-      "updated-date": "2025-08-06T06:59:03Z"
+      "updated-date": "2025-10-08T08:31:34Z"
     },
     {
       "description": "handynotes plugin to show phase diving conduit locations",
@@ -8742,7 +8755,7 @@
       "source": "github",
       "source-id": "NumyAddon/HandyNotes_PhaseDivingConduit",
       "url": "https://github.com/NumyAddon/HandyNotes_PhaseDivingConduit",
-      "updated-date": "2025-08-11T09:39:03Z"
+      "updated-date": "2025-10-04T12:11:30Z"
     },
     {
       "description": "Handynotes plugin for Azj-Kahet rumors",
@@ -8755,7 +8768,7 @@
       "source": "github",
       "source-id": "NumyAddon/HandyNotes_RumorMap",
       "url": "https://github.com/NumyAddon/HandyNotes_RumorMap",
-      "updated-date": "2025-08-06T06:59:02Z"
+      "updated-date": "2025-10-08T08:31:35Z"
     },
     {
       "description": "WoW addon",
@@ -8773,7 +8786,7 @@
       "source": "github",
       "source-id": "NumyAddon/InviteOnWhisper",
       "url": "https://github.com/NumyAddon/InviteOnWhisper",
-      "updated-date": "2025-09-24T12:46:12Z"
+      "updated-date": "2025-10-08T08:31:33Z"
     },
     {
       "description": "LazyCurve WoW addon",
@@ -8786,7 +8799,7 @@
       "source": "github",
       "source-id": "NumyAddon/LazyCurve",
       "url": "https://github.com/NumyAddon/LazyCurve",
-      "updated-date": "2025-09-13T08:42:06Z"
+      "updated-date": "2025-10-08T08:31:34Z"
     },
     {
       "description": "A library that provides an interface for accessing talent trees and talent node information",
@@ -8799,7 +8812,7 @@
       "source": "github",
       "source-id": "NumyAddon/LibTalentTree-1.0",
       "url": "https://github.com/NumyAddon/LibTalentTree-1.0",
-      "updated-date": "2025-08-06T06:59:04Z"
+      "updated-date": "2025-10-08T08:31:37Z"
     },
     {
       "description": "https://www.curseforge.com/wow/addons/macro-toolkit",
@@ -8817,7 +8830,7 @@
       "source": "github",
       "source-id": "NumyAddon/MacroToolkit",
       "url": "https://github.com/NumyAddon/MacroToolkit",
-      "updated-date": "2025-09-24T12:46:12Z"
+      "updated-date": "2025-10-08T08:31:35Z"
     },
     {
       "download-count": 0,
@@ -8829,7 +8842,7 @@
       "source": "github",
       "source-id": "NumyAddon/MythicPlusPull",
       "url": "https://github.com/NumyAddon/MythicPlusPull",
-      "updated-date": "2025-09-10T07:52:25Z"
+      "updated-date": "2025-10-08T08:31:36Z"
     },
     {
       "download-count": 0,
@@ -8841,7 +8854,7 @@
       "source": "github",
       "source-id": "NumyAddon/MythicPlusTweaks",
       "url": "https://github.com/NumyAddon/MythicPlusTweaks",
-      "updated-date": "2025-09-03T13:43:58Z"
+      "updated-date": "2025-10-08T08:31:37Z"
     },
     {
       "download-count": 0,
@@ -8858,7 +8871,7 @@
       "source": "github",
       "source-id": "NumyAddon/NoAutoClose",
       "url": "https://github.com/NumyAddon/NoAutoClose",
-      "updated-date": "2025-09-24T12:46:15Z"
+      "updated-date": "2025-10-08T08:31:36Z"
     },
     {
       "download-count": 0,
@@ -8875,7 +8888,7 @@
       "source": "github",
       "source-id": "NumyAddon/NumysAutoMarker",
       "url": "https://github.com/NumyAddon/NumysAutoMarker",
-      "updated-date": "2025-09-24T12:46:11Z"
+      "updated-date": "2025-10-08T08:31:36Z"
     },
     {
       "description": "WoW addon",
@@ -8888,7 +8901,7 @@
       "source": "github",
       "source-id": "NumyAddon/RecipeLinkFix",
       "url": "https://github.com/NumyAddon/RecipeLinkFix",
-      "updated-date": "2025-08-06T06:59:11Z"
+      "updated-date": "2025-10-08T08:31:38Z"
     },
     {
       "download-count": 0,
@@ -8900,7 +8913,7 @@
       "source": "github",
       "source-id": "NumyAddon/ResearchViewer",
       "url": "https://github.com/NumyAddon/ResearchViewer",
-      "updated-date": "2025-08-18T09:17:53Z"
+      "updated-date": "2025-10-09T15:29:12Z"
     },
     {
       "download-count": 0,
@@ -8912,7 +8925,7 @@
       "source": "github",
       "source-id": "NumyAddon/TalentLoadoutBroker",
       "url": "https://github.com/NumyAddon/TalentLoadoutBroker",
-      "updated-date": "2025-08-25T08:24:31Z"
+      "updated-date": "2025-10-08T08:31:38Z"
     },
     {
       "download-count": 0,
@@ -8924,7 +8937,7 @@
       "source": "github",
       "source-id": "NumyAddon/TalentLoadoutManager",
       "url": "https://github.com/NumyAddon/TalentLoadoutManager",
-      "updated-date": "2025-09-05T14:41:58Z"
+      "updated-date": "2025-10-08T08:59:15Z"
     },
     {
       "download-count": 0,
@@ -8936,7 +8949,7 @@
       "source": "github",
       "source-id": "NumyAddon/TalentTreeTweaks",
       "url": "https://github.com/NumyAddon/TalentTreeTweaks",
-      "updated-date": "2025-09-16T15:34:59Z"
+      "updated-date": "2025-10-04T12:09:57Z"
     },
     {
       "download-count": 0,
@@ -8948,7 +8961,7 @@
       "source": "github",
       "source-id": "NumyAddon/TalentTreeViewer",
       "url": "https://github.com/NumyAddon/TalentTreeViewer",
-      "updated-date": "2025-09-06T11:18:45Z"
+      "updated-date": "2025-10-08T08:31:42Z"
     },
     {
       "description": "A simple overview of all addon profiles for addons that use AceDB",
@@ -8966,7 +8979,7 @@
       "source": "github",
       "source-id": "NumyAddon/UnifiedProfileManager",
       "url": "https://github.com/NumyAddon/UnifiedProfileManager",
-      "updated-date": "2025-08-06T06:59:09Z"
+      "updated-date": "2025-10-08T08:31:40Z"
     },
     {
       "description": "WoW addon that creates a simple in-game To-Do list",
@@ -8981,7 +8994,7 @@
       "source": "github",
       "source-id": "Ny0n/Nys_ToDoList",
       "url": "https://github.com/Ny0n/Nys_ToDoList",
-      "updated-date": "2025-08-01T11:09:41Z"
+      "updated-date": "2025-10-04T11:57:24Z"
     },
     {
       "download-count": 0,
@@ -9235,7 +9248,7 @@
       "source": "github",
       "source-id": "Pingumania/ManiaTip",
       "url": "https://github.com/Pingumania/ManiaTip",
-      "updated-date": "2025-04-21T08:26:58Z"
+      "updated-date": "2025-10-05T04:12:26Z"
     },
     {
       "download-count": 0,
@@ -9259,7 +9272,7 @@
       "source": "github",
       "source-id": "Pingumania/Noiseless",
       "url": "https://github.com/Pingumania/Noiseless",
-      "updated-date": "2025-04-21T08:38:46Z"
+      "updated-date": "2025-10-05T04:13:16Z"
     },
     {
       "download-count": 0,
@@ -9311,7 +9324,7 @@
       "source": "github",
       "source-id": "Pinta365/Broker_TinyFriends",
       "url": "https://github.com/Pinta365/Broker_TinyFriends",
-      "updated-date": "2025-08-08T16:28:51Z"
+      "updated-date": "2025-10-08T15:50:21Z"
     },
     {
       "description": "TinyGuild is a lightweight addon that displays your guild's online members, ranks, zones, and public notes in a compact dropdown accessible from your data broker display.",
@@ -9326,7 +9339,7 @@
       "source": "github",
       "source-id": "Pinta365/Broker_TinyGuild",
       "url": "https://github.com/Pinta365/Broker_TinyGuild",
-      "updated-date": "2025-08-08T16:27:48Z"
+      "updated-date": "2025-10-08T15:50:25Z"
     },
     {
       "description": "World of Warcraft Addon to make it easier to trade items you recently looted",
@@ -9339,7 +9352,7 @@
       "source": "github",
       "source-id": "Pinta365/EZTrade",
       "url": "https://github.com/Pinta365/EZTrade",
-      "updated-date": "2025-08-08T16:27:43Z"
+      "updated-date": "2025-10-08T15:50:09Z"
     },
     {
       "description": "A World of Warcraft addon that adds a bit of excitement to your Mythic+ runs by randomly selecting a keystone from your party members.",
@@ -9352,7 +9365,7 @@
       "source": "github",
       "source-id": "Pinta365/keystone-roulette",
       "url": "https://github.com/Pinta365/keystone-roulette",
-      "updated-date": "2025-08-08T16:27:56Z"
+      "updated-date": "2025-10-08T15:50:11Z"
     },
     {
       "description": "Hard fork of ThreatPlates - Nameplate addon for World of Warcraft",
@@ -9483,7 +9496,7 @@
       "source": "github",
       "source-id": "Questie/Questie",
       "url": "https://github.com/Questie/Questie",
-      "updated-date": "2025-09-26T07:26:54Z"
+      "updated-date": "2025-10-03T22:16:05Z"
     },
     {
       "description": "Tracks and reminds you of your roleplay consumables. 🥤",
@@ -9509,7 +9522,7 @@
       "source": "github",
       "source-id": "RaiderIO/raiderio-addon",
       "url": "https://github.com/RaiderIO/raiderio-addon",
-      "updated-date": "2025-09-26T08:49:29Z"
+      "updated-date": "2025-10-11T09:00:27Z"
     },
     {
       "description": "HandyNotes plugin for the Treasure, Treasure Everywhere achievement",
@@ -9743,7 +9756,7 @@
       "source": "github",
       "source-id": "RealUI/RealUI",
       "url": "https://github.com/RealUI/RealUI",
-      "updated-date": "2025-09-16T00:16:31Z"
+      "updated-date": "2025-10-11T02:18:25Z"
     },
     {
       "download-count": 0,
@@ -9755,7 +9768,7 @@
       "source": "github",
       "source-id": "RedAces/CDButtonGlow",
       "url": "https://github.com/RedAces/CDButtonGlow",
-      "updated-date": "2025-08-07T14:35:48Z"
+      "updated-date": "2025-10-08T06:15:14Z"
     },
     {
       "description": "ClassSpecStats - addon for World of Warcraft",
@@ -9780,7 +9793,7 @@
       "source": "github",
       "source-id": "Reloe/NorthernSkyRaidTools",
       "url": "https://github.com/Reloe/NorthernSkyRaidTools",
-      "updated-date": "2025-09-24T23:30:27Z"
+      "updated-date": "2025-10-03T14:02:26Z"
     },
     {
       "download-count": 0,
@@ -9827,7 +9840,7 @@
       "source": "github",
       "source-id": "RestedXP/RXPGuides",
       "url": "https://github.com/RestedXP/RXPGuides",
-      "updated-date": "2025-09-24T05:59:22Z"
+      "updated-date": "2025-10-09T15:47:08Z"
     },
     {
       "download-count": 0,
@@ -10013,6 +10026,19 @@
       "updated-date": "2025-08-30T09:58:00Z"
     },
     {
+      "description": "WoW retail addon for locating the Legion Fisherfriend of the day",
+      "download-count": 0,
+      "game-track-list": [
+        "retail"
+      ],
+      "label": "FisherFriendToday",
+      "name": "fisherfriendtoday",
+      "source": "github",
+      "source-id": "RobA2/FisherFriendToday",
+      "url": "https://github.com/RobA2/FisherFriendToday",
+      "updated-date": "2025-10-06T15:04:34Z"
+    },
+    {
       "description": "ItemRack working for WoW Classic",
       "download-count": 0,
       "game-track-list": [
@@ -10067,7 +10093,7 @@
       "source": "github",
       "source-id": "RyuaNerin/RaidClearCheckHelper",
       "url": "https://github.com/RyuaNerin/RaidClearCheckHelper",
-      "updated-date": "2025-09-06T15:52:45Z"
+      "updated-date": "2025-10-10T04:20:36Z"
     },
     {
       "description": "Custom widgets for AceGUI-3.0 and AceConfigDialog-3.0.",
@@ -10362,6 +10388,19 @@
       "source-id": "Saaappi/LastSeen",
       "url": "https://github.com/Saaappi/LastSeen",
       "updated-date": "2025-06-09T11:37:44Z"
+    },
+    {
+      "description": "A collection of tools I use to play the game.",
+      "download-count": 0,
+      "game-track-list": [
+        "retail"
+      ],
+      "label": "LightskyUniversal",
+      "name": "lightskyuniversal",
+      "source": "github",
+      "source-id": "Saaappi/LightskyUniversal",
+      "url": "https://github.com/Saaappi/LightskyUniversal",
+      "updated-date": "2025-08-03T21:41:55Z"
     },
     {
       "description": "World of Warcraft Interface AddOn to announce Bron Cena when he is summoned",
@@ -10935,7 +10974,7 @@
       "source": "github",
       "source-id": "Skamer/Syling-Tracker",
       "url": "https://github.com/Skamer/Syling-Tracker",
-      "updated-date": "2025-09-23T20:06:39Z"
+      "updated-date": "2025-10-05T05:23:10Z"
     },
     {
       "description": "Show the Scrubbers mana in the Trilliax encounter on the nameplates.",
@@ -10965,7 +11004,7 @@
       "source": "github",
       "source-id": "Slackluster/ATTSoundpackSlacker",
       "url": "https://github.com/Slackluster/ATTSoundpackSlacker",
-      "updated-date": "2025-08-09T20:03:26Z"
+      "updated-date": "2025-10-08T19:03:28Z"
     },
     {
       "download-count": 0,
@@ -10977,7 +11016,7 @@
       "source": "github",
       "source-id": "Slackluster/EquipRecommendedGear",
       "url": "https://github.com/Slackluster/EquipRecommendedGear",
-      "updated-date": "2025-08-09T20:03:38Z"
+      "updated-date": "2025-10-08T19:03:34Z"
     },
     {
       "description": "Track recipes, reagents, cooldowns, and more!",
@@ -10990,7 +11029,7 @@
       "source": "github",
       "source-id": "Slackluster/ProfessionShoppingList",
       "url": "https://github.com/Slackluster/ProfessionShoppingList",
-      "updated-date": "2025-09-17T12:32:50Z"
+      "updated-date": "2025-10-11T16:08:01Z"
     },
     {
       "description": "Track new transmog looted by party/raid members, and ask them if you can have it. Includes item icons for collection status.",
@@ -11003,7 +11042,7 @@
       "source": "github",
       "source-id": "Slackluster/TransmogLootHelper",
       "url": "https://github.com/Slackluster/TransmogLootHelper",
-      "updated-date": "2025-09-15T14:21:19Z"
+      "updated-date": "2025-10-08T19:03:22Z"
     },
     {
       "description": "Addon for World of Warcraft classic ERA that allow copy from guild information panel",
@@ -11344,7 +11383,7 @@
       "source": "github",
       "source-id": "TLDRMissions/ManuscriptsJournal",
       "url": "https://github.com/TLDRMissions/ManuscriptsJournal",
-      "updated-date": "2025-09-20T11:44:46Z"
+      "updated-date": "2025-10-07T21:40:40Z"
     },
     {
       "description": "Adds Reagents column to Public Orders so you can see if materials are provided",
@@ -11357,7 +11396,7 @@
       "source": "github",
       "source-id": "TLDRMissions/PublicOrdersReagentsColumn",
       "url": "https://github.com/TLDRMissions/PublicOrdersReagentsColumn",
-      "updated-date": "2025-09-21T21:15:11Z"
+      "updated-date": "2025-10-07T21:41:11Z"
     },
     {
       "download-count": 0,
@@ -11387,7 +11426,7 @@
       "source": "github",
       "source-id": "TLDRMissions/macroautotarget",
       "url": "https://github.com/TLDRMissions/macroautotarget",
-      "updated-date": "2025-08-05T21:38:36Z"
+      "updated-date": "2025-10-07T21:39:27Z"
     },
     {
       "download-count": 0,
@@ -11572,7 +11611,7 @@
       "source": "github",
       "source-id": "Tercioo/Plater-Nameplates",
       "url": "https://github.com/Tercioo/Plater-Nameplates",
-      "updated-date": "2025-09-01T20:39:22Z"
+      "updated-date": "2025-10-03T18:19:44Z"
     },
     {
       "description": "Fixes player Title select dropdown UI bug",
@@ -11683,7 +11722,7 @@
       "source": "github",
       "source-id": "TimothyLuke/GSE-Advanced-Macro-Compiler",
       "url": "https://github.com/TimothyLuke/GSE-Advanced-Macro-Compiler",
-      "updated-date": "2025-08-13T21:10:23Z"
+      "updated-date": "2025-10-07T22:31:23Z"
     },
     {
       "description": "Guild Loot Tracker monitors WoW raid drops and syncs the history of what has dropped for whom.",
@@ -11722,7 +11761,7 @@
       "source": "github",
       "source-id": "TinkerTech-Addons/IcyBIS",
       "url": "https://github.com/TinkerTech-Addons/IcyBIS",
-      "updated-date": "2025-09-17T00:58:06Z"
+      "updated-date": "2025-10-08T01:06:20Z"
     },
     {
       "description": "The Todoloo task manager addon for World of Warcraft",
@@ -11866,7 +11905,7 @@
       "source": "github",
       "source-id": "Total-RP/Total-RP-3",
       "url": "https://github.com/Total-RP/Total-RP-3",
-      "updated-date": "2025-08-07T02:59:59Z"
+      "updated-date": "2025-10-07T21:14:22Z"
     },
     {
       "description": "Extended module for the Total RP 3 add-on for World of Warcraft, adding creation tools.",
@@ -11879,7 +11918,7 @@
       "source": "github",
       "source-id": "Total-RP/Total-RP-3-Extended",
       "url": "https://github.com/Total-RP/Total-RP-3-Extended",
-      "updated-date": "2025-08-05T18:55:29Z"
+      "updated-date": "2025-10-07T21:12:20Z"
     },
     {
       "description": "ToxiUI is a plugin for ElvUI in World of Warcraft",
@@ -11894,7 +11933,7 @@
       "source": "github",
       "source-id": "Toxicom/toxiui",
       "url": "https://github.com/Toxicom/toxiui",
-      "updated-date": "2025-09-26T14:11:37Z"
+      "updated-date": "2025-10-08T08:46:40Z"
     },
     {
       "description": "World of Warcraft Classic addon for advanced XP tracking with level progression graphs, time predictions, and detailed statistics",
@@ -11960,7 +11999,7 @@
       "source": "github",
       "source-id": "Urtgard/Annene",
       "url": "https://github.com/Urtgard/Annene",
-      "updated-date": "2024-08-17T16:26:52Z"
+      "updated-date": "2025-10-03T14:59:55Z"
     },
     {
       "download-count": 0,
@@ -11996,7 +12035,7 @@
       "source": "github",
       "source-id": "Urtgard/WQAchievements",
       "url": "https://github.com/Urtgard/WQAchievements",
-      "updated-date": "2025-08-23T13:27:45Z"
+      "updated-date": "2025-10-11T19:34:24Z"
     },
     {
       "download-count": 0,
@@ -12072,7 +12111,7 @@
       "source": "github",
       "source-id": "VgerMods/Pawn",
       "url": "https://github.com/VgerMods/Pawn",
-      "updated-date": "2025-08-26T06:18:03Z"
+      "updated-date": "2025-10-08T00:24:06Z"
     },
     {
       "description": "Repositories for ViksUI",
@@ -12119,7 +12158,7 @@
       "download-count": 0,
       "game-track-list": [
         "classic",
-        "classic-cata",
+        "classic-mists",
         "retail"
       ],
       "label": "wow-addon-candybuckets",
@@ -12127,7 +12166,7 @@
       "source": "github",
       "source-id": "Vladinator/wow-addon-candybuckets",
       "url": "https://github.com/Vladinator/wow-addon-candybuckets",
-      "updated-date": "2025-01-28T17:46:42Z"
+      "updated-date": "2025-09-29T10:00:47Z"
     },
     {
       "download-count": 0,
@@ -12291,7 +12330,7 @@
       "source": "github",
       "source-id": "WatchThemFall/SocketHelper",
       "url": "https://github.com/WatchThemFall/SocketHelper",
-      "updated-date": "2025-08-12T18:50:57Z"
+      "updated-date": "2025-10-07T18:35:54Z"
     },
     {
       "description": "A library to determine estimated range in World of Warcraft",
@@ -12322,7 +12361,7 @@
       "source": "github",
       "source-id": "WeakAuras/WeakAuras2",
       "url": "https://github.com/WeakAuras/WeakAuras2",
-      "updated-date": "2025-09-14T18:26:45Z"
+      "updated-date": "2025-10-09T18:54:39Z"
     },
     {
       "description": "Repositories for ShestakUI",
@@ -12335,7 +12374,7 @@
       "source": "github",
       "source-id": "Wetxius/ShestakUI",
       "url": "https://github.com/Wetxius/ShestakUI",
-      "updated-date": "2025-08-23T13:45:51Z"
+      "updated-date": "2025-10-09T15:26:25Z"
     },
     {
       "description": "PepeGoldTracker is an addon made to ease the tracking of gold accross multiples servers / guilds on your account.",
@@ -12427,14 +12466,14 @@
       "description": "NDui plugin",
       "download-count": 0,
       "game-track-list": [
-        "retail"
+        "classic-mists"
       ],
       "label": "NDui_Plus",
       "name": "ndui-plus",
       "source": "github",
       "source-id": "Witnesscm/NDui_Plus",
       "url": "https://github.com/Witnesscm/NDui_Plus",
-      "updated-date": "2025-08-24T18:20:15Z"
+      "updated-date": "2025-10-04T14:45:16Z"
     },
     {
       "description": "NDui_Plus classic version.",
@@ -12520,7 +12559,7 @@
       "source": "github",
       "source-id": "WowRarity/Rarity",
       "url": "https://github.com/WowRarity/Rarity",
-      "updated-date": "2025-09-26T15:31:20Z"
+      "updated-date": "2025-10-08T21:09:52Z"
     },
     {
       "download-count": 0,
@@ -12890,7 +12929,7 @@
       "source": "github",
       "source-id": "Xruptor/BagSync",
       "url": "https://github.com/Xruptor/BagSync",
-      "updated-date": "2025-08-17T13:03:16Z"
+      "updated-date": "2025-09-28T13:06:43Z"
     },
     {
       "description": "A simple WOW Addon to Backup and Restore WOW CVars settings.",
@@ -12980,7 +13019,7 @@
       "source": "github",
       "source-id": "Xruptor/RightClickSelfCast",
       "url": "https://github.com/Xruptor/RightClickSelfCast",
-      "updated-date": "2025-08-18T12:17:56Z"
+      "updated-date": "2025-10-05T19:36:30Z"
     },
     {
       "description": "My own personal modifications to the Chat Frame.",
@@ -13016,7 +13055,7 @@
       "source": "github",
       "source-id": "Xruptor/XanTooltipIcon",
       "url": "https://github.com/Xruptor/XanTooltipIcon",
-      "updated-date": "2025-09-03T13:27:45Z"
+      "updated-date": "2025-09-28T13:00:50Z"
     },
     {
       "description": "A simple addon that allows the user to move the Achievement and Dungeon notifications.",
@@ -13122,7 +13161,7 @@
       "source": "github",
       "source-id": "Xruptor/xanErrorDevourer",
       "url": "https://github.com/Xruptor/xanErrorDevourer",
-      "updated-date": "2025-08-18T12:22:22Z"
+      "updated-date": "2025-09-28T12:57:16Z"
     },
     {
       "description": "Tracks gold progression on your characters.  Providing gold earn by session and lifetime amounts.",
@@ -13197,18 +13236,6 @@
       "game-track-list": [
         "retail"
       ],
-      "label": "ColdSnap",
-      "name": "coldsnap",
-      "source": "github",
-      "source-id": "Yukisando/ColdSnap",
-      "url": "https://github.com/Yukisando/ColdSnap",
-      "updated-date": "2025-09-23T10:51:36Z"
-    },
-    {
-      "download-count": 0,
-      "game-track-list": [
-        "retail"
-      ],
       "label": "FlowerPower",
       "name": "flowerpower",
       "source": "github",
@@ -13227,7 +13254,7 @@
       "source": "github",
       "source-id": "Zazou89/BetterBags_AzerothianArchives",
       "url": "https://github.com/Zazou89/BetterBags_AzerothianArchives",
-      "updated-date": "2025-08-08T16:22:16Z"
+      "updated-date": "2025-10-07T17:05:39Z"
     },
     {
       "description": "Put all your Battle Pets Items in one category!",
@@ -13240,7 +13267,7 @@
       "source": "github",
       "source-id": "Zazou89/BetterBags_BattlePetItems",
       "url": "https://github.com/Zazou89/BetterBags_BattlePetItems",
-      "updated-date": "2025-08-08T16:22:54Z"
+      "updated-date": "2025-10-07T17:06:08Z"
     },
     {
       "description": "Put all your Dragonflight reputation insignia in one category!",
@@ -13253,7 +13280,7 @@
       "source": "github",
       "source-id": "Zazou89/BetterBags_DragonflightReputationInsignia",
       "url": "https://github.com/Zazou89/BetterBags_DragonflightReputationInsignia",
-      "updated-date": "2025-08-08T16:23:19Z"
+      "updated-date": "2025-10-07T17:06:35Z"
     },
     {
       "description": "Put all your Guardians of the Dream Items in one category!",
@@ -13266,7 +13293,7 @@
       "source": "github",
       "source-id": "Zazou89/BetterBags_GuardiansDream",
       "url": "https://github.com/Zazou89/BetterBags_GuardiansDream",
-      "updated-date": "2025-08-08T16:23:42Z"
+      "updated-date": "2025-10-07T17:07:04Z"
     },
     {
       "description": "Put all your Professions Knowledge Items in categories!",
@@ -13279,7 +13306,7 @@
       "source": "github",
       "source-id": "Zazou89/BetterBags_ProfessionKnowledgeTWW",
       "url": "https://github.com/Zazou89/BetterBags_ProfessionKnowledgeTWW",
-      "updated-date": "2025-08-08T16:28:46Z"
+      "updated-date": "2025-10-07T17:07:23Z"
     },
     {
       "download-count": 0,
@@ -13291,7 +13318,7 @@
       "source": "github",
       "source-id": "Zazou89/BetterBags_RemixMoP",
       "url": "https://github.com/Zazou89/BetterBags_RemixMoP",
-      "updated-date": "2025-06-20T20:42:08Z"
+      "updated-date": "2025-10-07T17:08:12Z"
     },
     {
       "description": "Put all your Cyrce's Circlet Citrines in one category!",
@@ -13304,7 +13331,7 @@
       "source": "github",
       "source-id": "Zazou89/BetterBags_SirenIsleCitrines",
       "url": "https://github.com/Zazou89/BetterBags_SirenIsleCitrines",
-      "updated-date": "2025-08-08T16:29:33Z"
+      "updated-date": "2025-10-07T17:08:40Z"
     },
     {
       "description": "Put all your Undermine(d) items in categories!",
@@ -13317,7 +13344,7 @@
       "source": "github",
       "source-id": "Zazou89/BetterBags_Undermined",
       "url": "https://github.com/Zazou89/BetterBags_Undermined",
-      "updated-date": "2025-08-08T16:29:58Z"
+      "updated-date": "2025-10-07T17:09:07Z"
     },
     {
       "description": "Put all your World Events Items in categories!",
@@ -13330,7 +13357,7 @@
       "source": "github",
       "source-id": "Zazou89/BetterBags_WorldEvents",
       "url": "https://github.com/Zazou89/BetterBags_WorldEvents",
-      "updated-date": "2025-08-08T16:21:39Z"
+      "updated-date": "2025-10-09T20:19:45Z"
     },
     {
       "description": "QuickTravel brings all your teleportation spells together, no more searching, just port and go!",
@@ -13423,7 +13450,7 @@
       "source": "github",
       "source-id": "ZelionGG/DBM-EpicMusicPack",
       "url": "https://github.com/ZelionGG/DBM-EpicMusicPack",
-      "updated-date": "2025-07-03T09:39:21Z"
+      "updated-date": "2025-10-09T19:30:06Z"
     },
     {
       "description": "Addon port of https://wago.io/4pHPrk9NM, and more!",
@@ -13431,12 +13458,12 @@
       "game-track-list": [
         "retail"
       ],
-      "label": "KeystonePercentageHelper",
-      "name": "keystonepercentagehelper",
+      "label": "KeystonePolaris",
+      "name": "keystonepolaris",
       "source": "github",
-      "source-id": "ZelionGG/KeystonePercentageHelper",
-      "url": "https://github.com/ZelionGG/KeystonePercentageHelper",
-      "updated-date": "2025-09-18T21:09:47Z"
+      "source-id": "ZelionGG/KeystonePolaris",
+      "url": "https://github.com/ZelionGG/KeystonePolaris",
+      "updated-date": "2025-10-08T08:56:36Z"
     },
     {
       "description": "Continuation of XIV_Databar addon",
@@ -13451,7 +13478,7 @@
       "source": "github",
       "source-id": "ZelionGG/XIV_Databar-Continued",
       "url": "https://github.com/ZelionGG/XIV_Databar-Continued",
-      "updated-date": "2025-09-14T08:48:20Z"
+      "updated-date": "2025-10-09T17:42:08Z"
     },
     {
       "download-count": 0,
@@ -13489,7 +13516,7 @@
       "source": "github",
       "source-id": "ZergRael/RecipesCollector",
       "url": "https://github.com/ZergRael/RecipesCollector",
-      "updated-date": "2025-09-25T17:29:23Z"
+      "updated-date": "2025-10-06T21:09:30Z"
     },
     {
       "download-count": 0,
@@ -13746,7 +13773,7 @@
       "source": "github",
       "source-id": "ahakola/DrunkardSK",
       "url": "https://github.com/ahakola/DrunkardSK",
-      "updated-date": "2025-07-02T17:19:18Z"
+      "updated-date": "2025-10-02T12:07:32Z"
     },
     {
       "description": "WoW-addon // Calendar raid event role assignment tool for Lords of Ironhearts (Arathor EU)",
@@ -13884,8 +13911,8 @@
     {
       "download-count": 0,
       "game-track-list": [
-        "classic",
         "classic-cata",
+        "classic-mists",
         "retail"
       ],
       "label": "AlarArtRemover",
@@ -13893,7 +13920,7 @@
       "source": "github",
       "source-id": "alarofrunetotem/AlarArtRemover",
       "url": "https://github.com/alarofrunetotem/AlarArtRemover",
-      "updated-date": "2025-05-11T18:36:10Z"
+      "updated-date": "2025-09-28T21:50:57Z"
     },
     {
       "description": "Mission manager for BFA",
@@ -13906,7 +13933,7 @@
       "source": "github",
       "source-id": "alarofrunetotem/ChampionCommander",
       "url": "https://github.com/alarofrunetotem/ChampionCommander",
-      "updated-date": "2025-05-11T20:41:44Z"
+      "updated-date": "2025-09-28T14:14:28Z"
     },
     {
       "download-count": 0,
@@ -13918,7 +13945,7 @@
       "source": "github",
       "source-id": "alarofrunetotem/GarrisonCommander",
       "url": "https://github.com/alarofrunetotem/GarrisonCommander",
-      "updated-date": "2025-05-11T20:43:50Z"
+      "updated-date": "2025-09-28T15:23:30Z"
     },
     {
       "download-count": 0,
@@ -13930,7 +13957,7 @@
       "source": "github",
       "source-id": "alarofrunetotem/ItemLevelDisplay",
       "url": "https://github.com/alarofrunetotem/ItemLevelDisplay",
-      "updated-date": "2025-05-11T20:42:38Z"
+      "updated-date": "2025-09-28T21:55:19Z"
     },
     {
       "download-count": 0,
@@ -13942,13 +13969,13 @@
       "source": "github",
       "source-id": "alarofrunetotem/Jeeves",
       "url": "https://github.com/alarofrunetotem/Jeeves",
-      "updated-date": "2025-05-11T20:38:43Z"
+      "updated-date": "2025-09-28T17:56:21Z"
     },
     {
       "download-count": 0,
       "game-track-list": [
-        "classic",
         "classic-cata",
+        "classic-mists",
         "retail"
       ],
       "label": "MailCommander",
@@ -13956,7 +13983,7 @@
       "source": "github",
       "source-id": "alarofrunetotem/MailCommander",
       "url": "https://github.com/alarofrunetotem/MailCommander",
-      "updated-date": "2025-05-11T20:00:31Z"
+      "updated-date": "2025-09-28T21:54:48Z"
     },
     {
       "download-count": 0,
@@ -13980,7 +14007,7 @@
       "source": "github",
       "source-id": "alarofrunetotem/OrderHallCommander",
       "url": "https://github.com/alarofrunetotem/OrderHallCommander",
-      "updated-date": "2025-05-11T19:37:35Z"
+      "updated-date": "2025-09-28T15:13:07Z"
     },
     {
       "download-count": 0,
@@ -14092,7 +14119,7 @@
       "source": "github",
       "source-id": "ascott18/TellMeWhen",
       "url": "https://github.com/ascott18/TellMeWhen",
-      "updated-date": "2025-09-25T16:16:55Z"
+      "updated-date": "2025-10-08T05:00:56Z"
     },
     {
       "download-count": 0,
@@ -14225,7 +14252,7 @@
       "source": "github",
       "source-id": "b-morgan/Skillet",
       "url": "https://github.com/b-morgan/Skillet",
-      "updated-date": "2025-09-23T15:10:38Z"
+      "updated-date": "2025-10-10T00:53:23Z"
     },
     {
       "description": "World of Warcraft Classic addon",
@@ -14278,7 +14305,7 @@
       "source": "github",
       "source-id": "belazor-wow/ItemUpgradeTip",
       "url": "https://github.com/belazor-wow/ItemUpgradeTip",
-      "updated-date": "2025-08-08T19:48:48Z"
+      "updated-date": "2025-10-09T13:38:10Z"
     },
     {
       "description": "Shows Blizzard's dungeon and raid locations on the world map",
@@ -14291,7 +14318,7 @@
       "source": "github",
       "source-id": "belazor-wow/WorldDungeonLocations",
       "url": "https://github.com/belazor-wow/WorldDungeonLocations",
-      "updated-date": "2025-04-23T13:12:24Z"
+      "updated-date": "2025-10-09T13:38:21Z"
     },
     {
       "description": "World of Warcraft Addon - MapAchiever",
@@ -14410,7 +14437,7 @@
       "source": "github",
       "source-id": "bloerwald/PetBattleLogKeeper",
       "url": "https://github.com/bloerwald/PetBattleLogKeeper",
-      "updated-date": "2025-07-24T12:13:46Z"
+      "updated-date": "2025-09-29T10:18:23Z"
     },
     {
       "description": "A lightweight progression raiding UI suite.",
@@ -14474,7 +14501,7 @@
       "source": "github",
       "source-id": "brian8544/SetXpBar",
       "url": "https://github.com/brian8544/SetXpBar",
-      "updated-date": "2024-06-17T21:34:05Z"
+      "updated-date": "2025-09-29T04:32:24Z"
     },
     {
       "description": "A multipurpose tool to assist with World of Warcraft addon development",
@@ -14504,7 +14531,7 @@
       "source": "github",
       "source-id": "brittyazel/EnhancedRaidFrames",
       "url": "https://github.com/brittyazel/EnhancedRaidFrames",
-      "updated-date": "2025-08-16T03:01:30Z"
+      "updated-date": "2025-09-30T03:18:37Z"
     },
     {
       "description": "The default Neuron skin for the Masque World of Warcraft add-on",
@@ -15027,56 +15054,6 @@
       "updated-date": "2023-02-06T22:25:17Z"
     },
     {
-      "description": "WoW addon to automate crafting",
-      "download-count": 0,
-      "game-track-list": [
-        "retail"
-      ],
-      "label": "QuickCraft",
-      "name": "quickcraft",
-      "source": "github",
-      "source-id": "cybertk/QuickCraft",
-      "url": "https://github.com/cybertk/QuickCraft",
-      "updated-date": "2025-04-20T19:13:03Z"
-    },
-    {
-      "description": "WoW addon to streamline Warband Bank access for players playing multiple accounts",
-      "download-count": 0,
-      "game-track-list": [
-        "retail"
-      ],
-      "label": "WarbandBankLock",
-      "name": "warbandbanklock",
-      "source": "github",
-      "source-id": "cybertk/WarbandBankLock",
-      "url": "https://github.com/cybertk/WarbandBankLock",
-      "updated-date": "2025-08-07T19:01:52Z"
-    },
-    {
-      "download-count": 0,
-      "game-track-list": [
-        "retail"
-      ],
-      "label": "WarbandWorldQuest",
-      "name": "warbandworldquest",
-      "source": "github",
-      "source-id": "cybertk/WarbandWorldQuest",
-      "url": "https://github.com/cybertk/WarbandWorldQuest",
-      "updated-date": "2025-08-27T16:32:19Z"
-    },
-    {
-      "download-count": 0,
-      "game-track-list": [
-        "retail"
-      ],
-      "label": "WeeklyDelveMaps",
-      "name": "weeklydelvemaps",
-      "source": "github",
-      "source-id": "cybertk/WeeklyDelveMaps",
-      "url": "https://github.com/cybertk/WeeklyDelveMaps",
-      "updated-date": "2025-06-18T18:05:17Z"
-    },
-    {
       "description": "WoW addon for keeping track of the weekly rewards progress accross all your characters.",
       "download-count": 0,
       "game-track-list": [
@@ -15087,7 +15064,7 @@
       "source": "github",
       "source-id": "cybertk/WeeklyRewards",
       "url": "https://github.com/cybertk/WeeklyRewards",
-      "updated-date": "2025-09-23T18:13:17Z"
+      "updated-date": "2025-10-09T15:27:30Z"
     },
     {
       "description": "Addon for World of Warcraft WOTLK 3.3.5, designed to remove the limit on the removal of the camera from the game character. For those who are annoyed by running a macro manually :D",
@@ -15117,7 +15094,7 @@
       "source": "github",
       "source-id": "d4kir92/CVARs",
       "url": "https://github.com/d4kir92/CVARs",
-      "updated-date": "2025-09-24T09:17:05Z"
+      "updated-date": "2025-10-08T09:35:58Z"
     },
     {
       "description": "Centers the Unitframes",
@@ -15135,7 +15112,7 @@
       "source": "github",
       "source-id": "d4kir92/Centered",
       "url": "https://github.com/d4kir92/Centered",
-      "updated-date": "2025-09-24T09:16:22Z"
+      "updated-date": "2025-10-08T09:36:01Z"
     },
     {
       "download-count": 0,
@@ -15169,7 +15146,7 @@
       "source": "github",
       "source-id": "d4kir92/DRaidFrames",
       "url": "https://github.com/d4kir92/DRaidFrames",
-      "updated-date": "2025-09-24T09:37:03Z"
+      "updated-date": "2025-10-08T09:34:14Z"
     },
     {
       "description": "UnitFrame Addon",
@@ -15203,7 +15180,7 @@
       "source": "github",
       "source-id": "d4kir92/DarkMode",
       "url": "https://github.com/d4kir92/DarkMode",
-      "updated-date": "2025-09-26T23:45:14Z"
+      "updated-date": "2025-10-08T19:46:37Z"
     },
     {
       "description": "Replicates Variables in WoW",
@@ -15221,7 +15198,7 @@
       "source": "github",
       "source-id": "d4kir92/ExtendedVariables",
       "url": "https://github.com/d4kir92/ExtendedVariables",
-      "updated-date": "2025-09-24T09:17:54Z"
+      "updated-date": "2025-10-08T15:56:19Z"
     },
     {
       "description": "Chat messages for Healers",
@@ -15239,7 +15216,7 @@
       "source": "github",
       "source-id": "d4kir92/HealerProtection",
       "url": "https://github.com/d4kir92/HealerProtection",
-      "updated-date": "2025-09-24T09:18:31Z"
+      "updated-date": "2025-10-08T09:32:06Z"
     },
     {
       "description": "A Warning and Sound when you are near highlevel/elite",
@@ -15257,7 +15234,7 @@
       "source": "github",
       "source-id": "d4kir92/HighLevelAlert",
       "url": "https://github.com/d4kir92/HighLevelAlert",
-      "updated-date": "2025-09-24T09:19:58Z"
+      "updated-date": "2025-10-08T09:31:44Z"
     },
     {
       "description": "Improves Ui",
@@ -15275,7 +15252,7 @@
       "source": "github",
       "source-id": "d4kir92/ImproveAny",
       "url": "https://github.com/d4kir92/ImproveAny",
-      "updated-date": "2025-09-26T23:45:47Z"
+      "updated-date": "2025-10-08T15:55:45Z"
     },
     {
       "description": "loss of control messages in chat",
@@ -15293,7 +15270,7 @@
       "source": "github",
       "source-id": "d4kir92/LossOfControlMessages",
       "url": "https://github.com/d4kir92/LossOfControlMessages",
-      "updated-date": "2025-09-24T09:20:56Z"
+      "updated-date": "2025-10-08T09:30:58Z"
     },
     {
       "description": "Shows how often you can cast a spell",
@@ -15311,7 +15288,7 @@
       "source": "github",
       "source-id": "d4kir92/MissingPower",
       "url": "https://github.com/d4kir92/MissingPower",
-      "updated-date": "2025-09-24T09:21:17Z"
+      "updated-date": "2025-10-08T09:30:29Z"
     },
     {
       "description": "Move Addon",
@@ -15329,7 +15306,7 @@
       "source": "github",
       "source-id": "d4kir92/MoveAny",
       "url": "https://github.com/d4kir92/MoveAny",
-      "updated-date": "2025-09-24T09:14:52Z"
+      "updated-date": "2025-10-08T16:20:17Z"
     },
     {
       "description": "You can rate Players and see what other rated",
@@ -15347,7 +15324,7 @@
       "source": "github",
       "source-id": "d4kir92/RatePlayer",
       "url": "https://github.com/d4kir92/RatePlayer",
-      "updated-date": "2025-09-24T09:21:38Z"
+      "updated-date": "2025-10-08T09:30:07Z"
     },
     {
       "download-count": 0,
@@ -15364,7 +15341,7 @@
       "source": "github",
       "source-id": "d4kir92/SpecBisTooltip",
       "url": "https://github.com/d4kir92/SpecBisTooltip",
-      "updated-date": "2025-09-24T09:14:28Z"
+      "updated-date": "2025-10-08T08:22:29Z"
     },
     {
       "description": "Hides your Character Name and Realm ingame",
@@ -15382,7 +15359,7 @@
       "source": "github",
       "source-id": "d4kir92/StreamerMode",
       "url": "https://github.com/d4kir92/StreamerMode",
-      "updated-date": "2025-09-24T09:34:45Z"
+      "updated-date": "2025-10-08T09:29:46Z"
     },
     {
       "description": "RaidMarks, Pulltimer and more",
@@ -15400,7 +15377,7 @@
       "source": "github",
       "source-id": "d4kir92/TankHelper",
       "url": "https://github.com/d4kir92/TankHelper",
-      "updated-date": "2025-09-24T09:15:13Z"
+      "updated-date": "2025-10-08T09:29:19Z"
     },
     {
       "description": "Display the highest threat percentage of all mobs currently visible on the screen.",
@@ -15418,7 +15395,7 @@
       "source": "github",
       "source-id": "d4kir92/ThreatMeter",
       "url": "https://github.com/d4kir92/ThreatMeter",
-      "updated-date": "2025-09-24T09:22:02Z"
+      "updated-date": "2025-10-08T09:28:59Z"
     },
     {
       "description": "Adds a Marker to the WorldMap",
@@ -15436,7 +15413,7 @@
       "source": "github",
       "source-id": "d4kir92/WorldMapPin",
       "url": "https://github.com/d4kir92/WorldMapPin",
-      "updated-date": "2025-09-24T09:22:24Z"
+      "updated-date": "2025-10-08T08:23:12Z"
     },
     {
       "description": "InternalCooldowns tracks procs from your gear for WoW 3.3.5a",
@@ -15473,7 +15450,7 @@
       "source": "github",
       "source-id": "darhanger/SpellAndItemID",
       "url": "https://github.com/darhanger/SpellAndItemID",
-      "updated-date": "2024-05-12T07:05:24Z"
+      "updated-date": "2025-10-02T21:24:09Z"
     },
     {
       "description": "SpoofName",
@@ -15589,7 +15566,7 @@
       "source": "github",
       "source-id": "dekallo/MapPinTimers",
       "url": "https://github.com/dekallo/MapPinTimers",
-      "updated-date": "2025-08-05T20:27:08Z"
+      "updated-date": "2025-10-07T04:01:57Z"
     },
     {
       "description": "Provides enhancements to the default Auction House UI when auctioning pets.",
@@ -15616,7 +15593,7 @@
       "source": "github",
       "source-id": "dekallo/SilenceBanLu",
       "url": "https://github.com/dekallo/SilenceBanLu",
-      "updated-date": "2025-08-15T22:07:21Z"
+      "updated-date": "2025-10-09T23:45:47Z"
     },
     {
       "download-count": 0,
@@ -15640,7 +15617,7 @@
       "source": "github",
       "source-id": "derfloh205/CraftSim",
       "url": "https://github.com/derfloh205/CraftSim",
-      "updated-date": "2025-09-26T18:40:53Z"
+      "updated-date": "2025-10-11T06:36:11Z"
     },
     {
       "download-count": 0,
@@ -15678,7 +15655,7 @@
       "source": "github",
       "source-id": "dfherr/ThreatClassic2",
       "url": "https://github.com/dfherr/ThreatClassic2",
-      "updated-date": "2025-07-15T16:50:47Z"
+      "updated-date": "2025-09-27T11:49:17Z"
     },
     {
       "description": "This addon will create a hidden button bar, which can be shown under  the mouse cursor. It's working just like an actionbar so you only need to drag your spells to it.",
@@ -16045,7 +16022,7 @@
       "source": "github",
       "source-id": "doadin/PlexusStatusEnemyTarget",
       "url": "https://github.com/doadin/PlexusStatusEnemyTarget",
-      "updated-date": "2025-08-05T18:43:58Z"
+      "updated-date": "2025-09-28T23:27:34Z"
     },
     {
       "download-count": 0,
@@ -16203,7 +16180,7 @@
       "source": "github",
       "source-id": "doadin/PlexusStatusRD_TWW",
       "url": "https://github.com/doadin/PlexusStatusRD_TWW",
-      "updated-date": "2025-08-12T05:39:41Z"
+      "updated-date": "2025-10-11T20:08:37Z"
     },
     {
       "download-count": 0,
@@ -16397,7 +16374,7 @@
       "source": "github",
       "source-id": "eltreum0/eltruism",
       "url": "https://github.com/eltreum0/eltruism",
-      "updated-date": "2025-09-25T23:50:12Z"
+      "updated-date": "2025-10-08T11:55:36Z"
     },
     {
       "download-count": 0,
@@ -16460,7 +16437,19 @@
       "source": "github",
       "source-id": "enderneko/AbstractFramework",
       "url": "https://github.com/enderneko/AbstractFramework",
-      "updated-date": "2025-05-30T04:51:39Z"
+      "updated-date": "2025-10-09T02:21:08Z"
+    },
+    {
+      "download-count": 0,
+      "game-track-list": [
+        "retail"
+      ],
+      "label": "BFInfinite",
+      "name": "bfinfinite",
+      "source": "github",
+      "source-id": "enderneko/BFInfinite",
+      "url": "https://github.com/enderneko/BFInfinite",
+      "updated-date": "2025-10-05T17:36:13Z"
     },
     {
       "description": "A World of Warcraft raid frame addon.",
@@ -16477,7 +16466,7 @@
       "source": "github",
       "source-id": "enderneko/Cell",
       "url": "https://github.com/enderneko/Cell",
-      "updated-date": "2025-09-18T10:55:04Z"
+      "updated-date": "2025-10-10T06:05:05Z"
     },
     {
       "description": "Minimalist durability and ilevel on each slot in character frame.",
@@ -16517,7 +16506,7 @@
       "source": "github",
       "source-id": "enderneko/InstanceSpellCollector",
       "url": "https://github.com/enderneko/InstanceSpellCollector",
-      "updated-date": "2025-08-18T08:47:21Z"
+      "updated-date": "2025-09-27T04:49:26Z"
     },
     {
       "download-count": 0,
@@ -16774,7 +16763,7 @@
       "source": "github",
       "source-id": "exochron/Scotty",
       "url": "https://github.com/exochron/Scotty",
-      "updated-date": "2025-09-10T19:59:16Z"
+      "updated-date": "2025-10-09T18:06:53Z"
     },
     {
       "description": "an interface addon for World of Warcraft and its ingame toy box",
@@ -16867,19 +16856,6 @@
       "source-id": "ff14-advanced-market-search/SaddlebagExchangeWoW",
       "url": "https://github.com/ff14-advanced-market-search/SaddlebagExchangeWoW",
       "updated-date": "2025-08-14T05:51:09Z"
-    },
-    {
-      "description": "WoW Addon for 10.1.5 Dragonflight that scans every spellID in the game for whether your player can put it on their actionbar and lists out IDs and names of spells that Blizzard's WoW API considers \"usable\" on your character. For finding potentially hidden spells.",
-      "download-count": 0,
-      "game-track-list": [
-        "retail"
-      ],
-      "label": "FindHiddenSpells",
-      "name": "findhiddenspells",
-      "source": "github",
-      "source-id": "followingthefasciaplane/FindHiddenSpells",
-      "url": "https://github.com/followingthefasciaplane/FindHiddenSpells",
-      "updated-date": "2023-07-13T16:34:58Z"
     },
     {
       "description": "A World of Warcraft addon to view detailed information on tracked events. Tested clients: 2.4.3 (TBC), 3.3.5a (WotLK), 4.3.4 (Cata), 5.4.8 (MoP)",
@@ -17513,7 +17489,7 @@
       "source": "github",
       "source-id": "funkydude/LegionInvasionTimer",
       "url": "https://github.com/funkydude/LegionInvasionTimer",
-      "updated-date": "2025-06-17T14:59:21Z"
+      "updated-date": "2025-10-07T17:30:25Z"
     },
     {
       "description": "Mute sound files in World of Warcraft.",
@@ -17746,7 +17722,7 @@
       "source": "github",
       "source-id": "geek0x23/ZoxeTweaks",
       "url": "https://github.com/geek0x23/ZoxeTweaks",
-      "updated-date": "2025-08-10T02:09:46Z"
+      "updated-date": "2025-10-08T13:03:45Z"
     },
     {
       "description": "Addon for World of Warcraft to manage loot specializations on certain events in game.",
@@ -17914,7 +17890,7 @@
       "source": "github",
       "source-id": "goobyspace/queuesound",
       "url": "https://github.com/goobyspace/queuesound",
-      "updated-date": "2025-08-27T10:41:51Z"
+      "updated-date": "2025-10-08T09:37:27Z"
     },
     {
       "description": "Retail Sort",
@@ -17942,7 +17918,7 @@
       "source": "github",
       "source-id": "goobyspace/shortwave",
       "url": "https://github.com/goobyspace/shortwave",
-      "updated-date": "2025-08-06T10:43:49Z"
+      "updated-date": "2025-10-08T09:39:16Z"
     },
     {
       "description": "World of Warcraft Addon : oUF Layout",
@@ -18009,7 +17985,7 @@
       "source": "github",
       "source-id": "hascat/HearthRoulette",
       "url": "https://github.com/hascat/HearthRoulette",
-      "updated-date": "2025-08-12T11:31:53Z"
+      "updated-date": "2025-10-08T04:45:29Z"
     },
     {
       "description": "This World of Warcraft addon reminds users to hydrate regularly!",
@@ -18059,7 +18035,7 @@
       "source": "github",
       "source-id": "herotc/hero-dbc",
       "url": "https://github.com/herotc/hero-dbc",
-      "updated-date": "2025-09-14T21:29:26Z"
+      "updated-date": "2025-10-09T17:07:07Z"
     },
     {
       "description": "WoW Addon - Core Library used by HeroRotation and AethysTools, can also be used by others 3rd-Party Addons.",
@@ -18072,7 +18048,7 @@
       "source": "github",
       "source-id": "herotc/hero-lib",
       "url": "https://github.com/herotc/hero-lib",
-      "updated-date": "2025-09-10T13:27:44Z"
+      "updated-date": "2025-10-09T16:45:59Z"
     },
     {
       "description": "WoW Addon - Attempt to provide the useful and precise information to execute the best possible DPS rotation in every situation.",
@@ -18085,7 +18061,25 @@
       "source": "github",
       "source-id": "herotc/hero-rotation",
       "url": "https://github.com/herotc/hero-rotation",
-      "updated-date": "2025-09-18T21:26:50Z"
+      "updated-date": "2025-10-09T16:53:54Z"
+    },
+    {
+      "description": "Soundboard for WoW Addon",
+      "download-count": 0,
+      "game-track-list": [
+        "classic",
+        "classic-cata",
+        "classic-mists",
+        "classic-tbc",
+        "classic-wotlk",
+        "retail"
+      ],
+      "label": "Soundboard",
+      "name": "soundboard",
+      "source": "github",
+      "source-id": "heyaapl/Soundboard",
+      "url": "https://github.com/heyaapl/Soundboard",
+      "updated-date": "2025-10-05T02:45:13Z"
     },
     {
       "description": "WoWTools",
@@ -18098,7 +18092,7 @@
       "source": "github",
       "source-id": "husandro/WoWTools",
       "url": "https://github.com/husandro/WoWTools",
-      "updated-date": "2025-09-26T15:32:44Z"
+      "updated-date": "2025-10-10T16:30:44Z"
     },
     {
       "description": "WoW UI 中文化，仅限欧服",
@@ -18111,7 +18105,7 @@
       "source": "github",
       "source-id": "husandro/WoWTools_Chinese",
       "url": "https://github.com/husandro/WoWTools_Chinese",
-      "updated-date": "2025-09-26T15:31:51Z"
+      "updated-date": "2025-10-10T17:11:06Z"
     },
     {
       "description": "Addon to alert you of scammers and toxic players, curated by the people who know your realm the best.",
@@ -18289,6 +18283,19 @@
       "updated-date": "2022-12-23T21:41:48Z"
     },
     {
+      "description": "A WoW addon to display your character's Mythic Plus scores easily",
+      "download-count": 0,
+      "game-track-list": [
+        "retail"
+      ],
+      "label": "broker-mythic-plus-scores",
+      "name": "broker-mythic-plus-scores",
+      "source": "github",
+      "source-id": "icbat/broker-mythic-plus-scores",
+      "url": "https://github.com/icbat/broker-mythic-plus-scores",
+      "updated-date": "2022-11-30T20:34:33Z"
+    },
+    {
       "description": "A WoW addon to track transumute cooldowns across multiple characters",
       "download-count": 0,
       "game-track-list": [
@@ -18427,7 +18434,7 @@
       "source": "github",
       "source-id": "jbolduan/Click-To-Cast-Tooltip",
       "url": "https://github.com/jbolduan/Click-To-Cast-Tooltip",
-      "updated-date": "2025-09-04T22:24:12Z"
+      "updated-date": "2025-10-07T21:30:26Z"
     },
     {
       "description": "Community fork of Retail UI WoW addon. Updated for WotLK Classic. Not maintained",
@@ -18677,7 +18684,7 @@
       "source": "github",
       "source-id": "johnnylam88/nerien-hekili-packs",
       "url": "https://github.com/johnnylam88/nerien-hekili-packs",
-      "updated-date": "2025-09-19T18:52:54Z"
+      "updated-date": "2025-09-30T05:01:12Z"
     },
     {
       "description": "Nerien's collection of Ovale scripts for various classes and specializations.",
@@ -18770,15 +18777,13 @@
     {
       "description": "A simple DBM countdown pack for ya boi Asmongold.",
       "download-count": 0,
-      "game-track-list": [
-        "retail"
-      ],
+      "game-track-list": [],
       "label": "DBM-CountPack-Asmongold",
       "name": "dbm-countpack-asmongold",
       "source": "github",
       "source-id": "kaandemiroz/DBM-CountPack-Asmongold",
       "url": "https://github.com/kaandemiroz/DBM-CountPack-Asmongold",
-      "updated-date": "2025-08-09T20:29:21Z"
+      "updated-date": "2025-10-09T04:09:59Z"
     },
     {
       "download-count": 0,
@@ -18820,7 +18825,7 @@
       "source": "github",
       "source-id": "kaminaris/MaxDps",
       "url": "https://github.com/kaminaris/MaxDps",
-      "updated-date": "2025-09-24T04:46:36Z"
+      "updated-date": "2025-10-07T20:36:04Z"
     },
     {
       "download-count": 0,
@@ -18834,7 +18839,7 @@
       "source": "github",
       "source-id": "kaminaris/MaxDps-DeathKnight",
       "url": "https://github.com/kaminaris/MaxDps-DeathKnight",
-      "updated-date": "2025-09-22T22:24:30Z"
+      "updated-date": "2025-10-07T19:08:38Z"
     },
     {
       "download-count": 0,
@@ -18846,7 +18851,7 @@
       "source": "github",
       "source-id": "kaminaris/MaxDps-DemonHunter",
       "url": "https://github.com/kaminaris/MaxDps-DemonHunter",
-      "updated-date": "2025-08-30T06:03:02Z"
+      "updated-date": "2025-10-10T19:45:59Z"
     },
     {
       "download-count": 0,
@@ -18861,7 +18866,7 @@
       "source": "github",
       "source-id": "kaminaris/MaxDps-Druid",
       "url": "https://github.com/kaminaris/MaxDps-Druid",
-      "updated-date": "2025-09-24T04:36:16Z"
+      "updated-date": "2025-10-10T02:44:34Z"
     },
     {
       "download-count": 0,
@@ -18873,7 +18878,7 @@
       "source": "github",
       "source-id": "kaminaris/MaxDps-Evoker",
       "url": "https://github.com/kaminaris/MaxDps-Evoker",
-      "updated-date": "2025-08-08T18:23:39Z"
+      "updated-date": "2025-10-07T19:10:24Z"
     },
     {
       "download-count": 0,
@@ -18888,7 +18893,7 @@
       "source": "github",
       "source-id": "kaminaris/MaxDps-Hunter",
       "url": "https://github.com/kaminaris/MaxDps-Hunter",
-      "updated-date": "2025-09-23T18:20:21Z"
+      "updated-date": "2025-10-07T19:12:19Z"
     },
     {
       "download-count": 0,
@@ -18903,7 +18908,7 @@
       "source": "github",
       "source-id": "kaminaris/MaxDps-Mage",
       "url": "https://github.com/kaminaris/MaxDps-Mage",
-      "updated-date": "2025-09-14T02:51:31Z"
+      "updated-date": "2025-10-07T19:13:33Z"
     },
     {
       "download-count": 0,
@@ -18916,7 +18921,7 @@
       "source": "github",
       "source-id": "kaminaris/MaxDps-Monk",
       "url": "https://github.com/kaminaris/MaxDps-Monk",
-      "updated-date": "2025-09-08T08:06:22Z"
+      "updated-date": "2025-10-07T19:13:52Z"
     },
     {
       "download-count": 0,
@@ -18931,7 +18936,7 @@
       "source": "github",
       "source-id": "kaminaris/MaxDps-Paladin",
       "url": "https://github.com/kaminaris/MaxDps-Paladin",
-      "updated-date": "2025-08-23T20:09:51Z"
+      "updated-date": "2025-10-07T19:13:42Z"
     },
     {
       "download-count": 0,
@@ -18946,7 +18951,7 @@
       "source": "github",
       "source-id": "kaminaris/MaxDps-Priest",
       "url": "https://github.com/kaminaris/MaxDps-Priest",
-      "updated-date": "2025-08-31T06:11:07Z"
+      "updated-date": "2025-10-07T19:14:21Z"
     },
     {
       "download-count": 0,
@@ -18961,7 +18966,7 @@
       "source": "github",
       "source-id": "kaminaris/MaxDps-Rogue",
       "url": "https://github.com/kaminaris/MaxDps-Rogue",
-      "updated-date": "2025-08-08T18:26:07Z"
+      "updated-date": "2025-10-07T19:13:40Z"
     },
     {
       "download-count": 0,
@@ -18976,7 +18981,7 @@
       "source": "github",
       "source-id": "kaminaris/MaxDps-Shaman",
       "url": "https://github.com/kaminaris/MaxDps-Shaman",
-      "updated-date": "2025-09-07T21:11:12Z"
+      "updated-date": "2025-10-07T19:14:11Z"
     },
     {
       "download-count": 0,
@@ -18991,7 +18996,7 @@
       "source": "github",
       "source-id": "kaminaris/MaxDps-Warlock",
       "url": "https://github.com/kaminaris/MaxDps-Warlock",
-      "updated-date": "2025-08-20T18:40:47Z"
+      "updated-date": "2025-10-07T19:14:43Z"
     },
     {
       "download-count": 0,
@@ -19006,7 +19011,7 @@
       "source": "github",
       "source-id": "kaminaris/MaxDps-Warrior",
       "url": "https://github.com/kaminaris/MaxDps-Warrior",
-      "updated-date": "2025-09-19T23:29:06Z"
+      "updated-date": "2025-10-07T19:25:40Z"
     },
     {
       "description": "Accountant Classic is a basic tool to track your monetary incoming and outgoings within WoW. It logs per-session and running totals of how much money you have spent and earned from vendors / loot / quests etc...",
@@ -19041,7 +19046,7 @@
       "source": "github",
       "source-id": "kantmn/LUA_AstronaX",
       "url": "https://github.com/kantmn/LUA_AstronaX",
-      "updated-date": "2025-09-26T19:27:20Z"
+      "updated-date": "2025-09-28T21:20:34Z"
     },
     {
       "description": "This add-on enables M6 add-on for ActionbarPlus",
@@ -19326,7 +19331,7 @@
       "source": "github",
       "source-id": "kemayo/wow-handynotes-legiontreasures",
       "url": "https://github.com/kemayo/wow-handynotes-legiontreasures",
-      "updated-date": "2025-08-11T01:39:07Z"
+      "updated-date": "2025-10-07T22:57:30Z"
     },
     {
       "description": "WoW addon: Handynotes plugin for the Long Forgotten Hippogryph",
@@ -19555,7 +19560,7 @@
       "source": "github",
       "source-id": "kemayo/wow-questschanged",
       "url": "https://github.com/kemayo/wow-questschanged",
-      "updated-date": "2025-07-08T23:07:00Z"
+      "updated-date": "2025-10-07T22:54:06Z"
     },
     {
       "description": "World of Warcraft developer tool to record a route for use elsewhere",
@@ -19584,7 +19589,7 @@
       "source": "github",
       "source-id": "kemayo/wow-silverdragon",
       "url": "https://github.com/kemayo/wow-silverdragon",
-      "updated-date": "2025-08-09T19:01:34Z"
+      "updated-date": "2025-10-07T22:55:43Z"
     },
     {
       "description": "World of Warcraft addon to show item levels",
@@ -20164,7 +20169,7 @@
       "source": "github",
       "source-id": "keyboardturner/DarkModeSpellBook",
       "url": "https://github.com/keyboardturner/DarkModeSpellBook",
-      "updated-date": "2025-08-05T12:38:01Z"
+      "updated-date": "2025-10-07T15:47:54Z"
     },
     {
       "description": "Displays speed values above the vigor bar and maybe does some other stuff.",
@@ -20177,7 +20182,7 @@
       "source": "github",
       "source-id": "keyboardturner/DragonRider",
       "url": "https://github.com/keyboardturner/DragonRider",
-      "updated-date": "2025-09-05T08:53:56Z"
+      "updated-date": "2025-10-07T15:49:35Z"
     },
     {
       "description": "Prints the gossip / quest text in chat as if an NPC were speaking in /say.",
@@ -20192,7 +20197,7 @@
       "source": "github",
       "source-id": "keyboardturner/GossipChatter",
       "url": "https://github.com/keyboardturner/GossipChatter",
-      "updated-date": "2025-09-12T06:52:29Z"
+      "updated-date": "2025-10-07T15:48:51Z"
     },
     {
       "description": "Dragon Glyph Completion for the Dragon Isles",
@@ -20205,7 +20210,7 @@
       "source": "github",
       "source-id": "keyboardturner/HandyNotes_DragonGlyphs",
       "url": "https://github.com/keyboardturner/HandyNotes_DragonGlyphs",
-      "updated-date": "2025-08-05T12:38:35Z"
+      "updated-date": "2025-10-07T15:51:43Z"
     },
     {
       "description": "Places the locations of Frozen Runes on the map in Naxxramas",
@@ -20218,7 +20223,7 @@
       "source": "github",
       "source-id": "keyboardturner/HandyNotes_NaxxFrozenRunes",
       "url": "https://github.com/keyboardturner/HandyNotes_NaxxFrozenRunes",
-      "updated-date": "2025-08-05T12:38:38Z"
+      "updated-date": "2025-10-07T15:50:41Z"
     },
     {
       "description": "AQ20 / 40 Scarab Coffer Locations using the HandyNotes addon.",
@@ -20231,7 +20236,7 @@
       "source": "github",
       "source-id": "keyboardturner/HandyNotes_ScarabCoffers",
       "url": "https://github.com/keyboardturner/HandyNotes_ScarabCoffers",
-      "updated-date": "2025-08-05T12:40:00Z"
+      "updated-date": "2025-10-07T15:50:46Z"
     },
     {
       "description": "Various points of interest within Valdrakken",
@@ -20244,7 +20249,7 @@
       "source": "github",
       "source-id": "keyboardturner/Handynotes_Valdrakken",
       "url": "https://github.com/keyboardturner/Handynotes_Valdrakken",
-      "updated-date": "2025-08-05T12:39:26Z"
+      "updated-date": "2025-10-07T15:52:22Z"
     },
     {
       "description": "Makes the bag icon on the default bag into a hearthstone.",
@@ -20259,7 +20264,7 @@
       "source": "github",
       "source-id": "keyboardturner/Hearthbag",
       "url": "https://github.com/keyboardturner/Hearthbag",
-      "updated-date": "2025-08-05T12:39:39Z"
+      "updated-date": "2025-10-07T15:52:19Z"
     },
     {
       "description": "Adds the Profession Quality rank to Dragonflight's upgradeable items, such as Explorer, Adventurer, Veteran, Champion, and Hero.",
@@ -20272,7 +20277,7 @@
       "source": "github",
       "source-id": "keyboardturner/ItemUpgradeQualityIcons",
       "url": "https://github.com/keyboardturner/ItemUpgradeQualityIcons",
-      "updated-date": "2025-09-23T20:55:24Z"
+      "updated-date": "2025-10-07T15:51:38Z"
     },
     {
       "description": "Makes /joke an actual emote.",
@@ -20287,7 +20292,7 @@
       "source": "github",
       "source-id": "keyboardturner/Joke",
       "url": "https://github.com/keyboardturner/Joke",
-      "updated-date": "2025-08-05T12:42:15Z"
+      "updated-date": "2025-10-07T15:53:12Z"
     },
     {
       "description": "Personal UI adjustments and settings.",
@@ -20315,7 +20320,7 @@
       "source": "github",
       "source-id": "keyboardturner/KeyboardsMinimapIcons",
       "url": "https://github.com/keyboardturner/KeyboardsMinimapIcons",
-      "updated-date": "2025-08-05T12:39:04Z"
+      "updated-date": "2025-10-07T15:53:32Z"
     },
     {
       "description": "A work-in-progress addon that aims to bring in \"speakable\" ingame languages in a lightweight and accessible way.",
@@ -20328,7 +20333,7 @@
       "source": "github",
       "source-id": "keyboardturner/Languages",
       "url": "https://github.com/keyboardturner/Languages",
-      "updated-date": "2025-08-05T12:44:03Z"
+      "updated-date": "2025-10-07T15:52:37Z"
     },
     {
       "description": "Adds tooltips to various items.",
@@ -20343,7 +20348,7 @@
       "source": "github",
       "source-id": "keyboardturner/LoreItemTooltips",
       "url": "https://github.com/keyboardturner/LoreItemTooltips",
-      "updated-date": "2025-08-05T12:43:25Z"
+      "updated-date": "2025-10-07T15:56:30Z"
     },
     {
       "description": "Allows the Dragonflight bag frames to be resizeable and movable.",
@@ -20356,7 +20361,7 @@
       "source": "github",
       "source-id": "keyboardturner/MovableBagFrames",
       "url": "https://github.com/keyboardturner/MovableBagFrames",
-      "updated-date": "2025-08-05T12:46:09Z"
+      "updated-date": "2025-10-07T15:54:34Z"
     },
     {
       "description": "Allows the micromenu, bag buttons, and XP Bar frames to be resizeable and movable.",
@@ -20369,7 +20374,7 @@
       "source": "github",
       "source-id": "keyboardturner/MovableMenuFrames",
       "url": "https://github.com/keyboardturner/MovableMenuFrames",
-      "updated-date": "2025-08-05T12:45:53Z"
+      "updated-date": "2025-10-07T15:56:06Z"
     },
     {
       "description": "WoW Addon that allows the Objective Frame to be resizeable and movable.",
@@ -20382,7 +20387,7 @@
       "source": "github",
       "source-id": "keyboardturner/MovableObjectiveFrame",
       "url": "https://github.com/keyboardturner/MovableObjectiveFrame",
-      "updated-date": "2025-08-05T12:44:55Z"
+      "updated-date": "2025-10-07T15:55:31Z"
     },
     {
       "description": "Temporarily rebinds the jump key to a slow fall spell when falling.",
@@ -20395,7 +20400,7 @@
       "source": "github",
       "source-id": "keyboardturner/SlowFaller",
       "url": "https://github.com/keyboardturner/SlowFaller",
-      "updated-date": "2025-08-05T12:46:05Z"
+      "updated-date": "2025-10-07T15:55:20Z"
     },
     {
       "description": "Just a small simple script to check and make sure your weapon remains sheathed.",
@@ -20408,7 +20413,7 @@
       "source": "github",
       "source-id": "keyboardturner/Stay-Sheathed-Lite",
       "url": "https://github.com/keyboardturner/Stay-Sheathed-Lite",
-      "updated-date": "2025-08-05T12:45:31Z"
+      "updated-date": "2025-10-07T15:54:12Z"
     },
     {
       "description": "Allows changing the artwork for the talent frame.",
@@ -20421,7 +20426,7 @@
       "source": "github",
       "source-id": "keyboardturner/TalentArt",
       "url": "https://github.com/keyboardturner/TalentArt",
-      "updated-date": "2025-08-05T12:47:03Z"
+      "updated-date": "2025-10-07T15:54:50Z"
     },
     {
       "description": "Because sometimes some unit frame addons (unintentionally) remove the targetting / deselect sounds.",
@@ -20436,7 +20441,7 @@
       "source": "github",
       "source-id": "keyboardturner/TargetSwapSound",
       "url": "https://github.com/keyboardturner/TargetSwapSound",
-      "updated-date": "2025-08-05T12:47:02Z"
+      "updated-date": "2025-10-07T15:56:29Z"
     },
     {
       "description": "Adds collection indicator tooltip on tier token items to see which appearances you can collect",
@@ -20449,7 +20454,7 @@
       "source": "github",
       "source-id": "keyboardturner/TokenTransmogs",
       "url": "https://github.com/keyboardturner/TokenTransmogs",
-      "updated-date": "2025-08-30T04:18:38Z"
+      "updated-date": "2025-10-07T15:55:58Z"
     },
     {
       "description": "Makes as clickable button in both Edit Mode and the Talents frame to wipe your action bars of all abilities.",
@@ -20462,7 +20467,7 @@
       "source": "github",
       "source-id": "keyboardturner/WipeBarsConfirm",
       "url": "https://github.com/keyboardturner/WipeBarsConfirm",
-      "updated-date": "2025-08-05T12:49:25Z"
+      "updated-date": "2025-10-07T15:56:19Z"
     },
     {
       "description": "honestly just heck trade chat",
@@ -20475,7 +20480,7 @@
       "source": "github",
       "source-id": "keyboardturner/heck-trade-chat",
       "url": "https://github.com/keyboardturner/heck-trade-chat",
-      "updated-date": "2025-08-05T12:40:06Z"
+      "updated-date": "2025-10-07T15:56:07Z"
     },
     {
       "description": "Modifies the target frame to have some additional profile info.",
@@ -20488,7 +20493,7 @@
       "source": "github",
       "source-id": "keyboardturner/totalRP3_UnitFrames",
       "url": "https://github.com/keyboardturner/totalRP3_UnitFrames",
-      "updated-date": "2025-08-05T12:47:30Z"
+      "updated-date": "2025-10-07T15:54:50Z"
     },
     {
       "download-count": 0,
@@ -20520,7 +20525,7 @@
       "source": "github",
       "source-id": "kodewdle/ElvUI_FCT",
       "url": "https://github.com/kodewdle/ElvUI_FCT",
-      "updated-date": "2025-08-06T07:59:01Z"
+      "updated-date": "2025-10-07T22:14:39Z"
     },
     {
       "download-count": 0,
@@ -20881,7 +20886,7 @@
       "source": "github",
       "source-id": "lolswirl/swirlui-core",
       "url": "https://github.com/lolswirl/swirlui-core",
-      "updated-date": "2025-08-28T15:33:11Z"
+      "updated-date": "2025-10-05T23:45:43Z"
     },
     {
       "description": "custom media for swirl ui",
@@ -20933,7 +20938,7 @@
       "source": "github",
       "source-id": "ls-/ls_Toasts",
       "url": "https://github.com/ls-/ls_Toasts",
-      "updated-date": "2025-08-16T17:33:23Z"
+      "updated-date": "2025-10-07T15:23:47Z"
     },
     {
       "description": "Development repository of ls: UI",
@@ -20946,7 +20951,7 @@
       "source": "github",
       "source-id": "ls-/ls_UI",
       "url": "https://github.com/ls-/ls_UI",
-      "updated-date": "2025-08-27T08:33:10Z"
+      "updated-date": "2025-10-07T14:58:37Z"
     },
     {
       "download-count": 0,
@@ -21082,7 +21087,7 @@
       "source": "github",
       "source-id": "markoleptic/EncounterPlanner",
       "url": "https://github.com/markoleptic/EncounterPlanner",
-      "updated-date": "2025-09-14T23:26:36Z"
+      "updated-date": "2025-10-09T05:19:15Z"
     },
     {
       "description": "Addon to simplify guild invite [WoW]",
@@ -21180,7 +21185,7 @@
       "source": "github",
       "source-id": "methodgg/Wago-Creator-UI",
       "url": "https://github.com/methodgg/Wago-Creator-UI",
-      "updated-date": "2025-09-10T18:47:53Z"
+      "updated-date": "2025-10-08T13:58:33Z"
     },
     {
       "description": "Adds information to the tooltip about a character, including: class color, guild name, guild rank, level, race, and more!",
@@ -21225,6 +21230,8 @@
       "description": "Displays circular cast bars around the cursor",
       "download-count": 0,
       "game-track-list": [
+        "classic",
+        "classic-mists",
         "retail"
       ],
       "label": "CastCursor",
@@ -21232,7 +21239,7 @@
       "source": "github",
       "source-id": "michaelnpsp/CastCursor",
       "url": "https://github.com/michaelnpsp/CastCursor",
-      "updated-date": "2025-08-06T00:33:41Z"
+      "updated-date": "2025-10-09T14:54:05Z"
     },
     {
       "description": "Gas Clouds Data for World of Warcraft Burning Crusade GatherMate2 Addon",
@@ -21247,7 +21254,7 @@
       "source": "github",
       "source-id": "michaelnpsp/GatherMate2GasClouds",
       "url": "https://github.com/michaelnpsp/GatherMate2GasClouds",
-      "updated-date": "2025-08-06T00:31:13Z"
+      "updated-date": "2025-10-09T14:59:25Z"
     },
     {
       "description": "Grid2 is a party/raid unit frame addon for World of Warcraft.",
@@ -21262,7 +21269,7 @@
       "source": "github",
       "source-id": "michaelnpsp/Grid2",
       "url": "https://github.com/michaelnpsp/Grid2",
-      "updated-date": "2025-09-25T20:53:03Z"
+      "updated-date": "2025-10-09T14:35:12Z"
     },
     {
       "description": "Resets \u0026 gold tracking addon for World of Warcraft Classic",
@@ -21277,12 +21284,14 @@
       "source": "github",
       "source-id": "michaelnpsp/KiwiFarm",
       "url": "https://github.com/michaelnpsp/KiwiFarm",
-      "updated-date": "2025-08-07T15:23:54Z"
+      "updated-date": "2025-10-09T14:43:25Z"
     },
     {
       "description": "Simple minimap buttons manager for World of Warcraft Classic",
       "download-count": 0,
       "game-track-list": [
+        "classic",
+        "classic-mists",
         "retail"
       ],
       "label": "KiwiMBC",
@@ -21290,7 +21299,7 @@
       "source": "github",
       "source-id": "michaelnpsp/KiwiMBC",
       "url": "https://github.com/michaelnpsp/KiwiMBC",
-      "updated-date": "2025-08-06T00:35:20Z"
+      "updated-date": "2025-10-09T14:54:56Z"
     },
     {
       "description": "Nameplates Addon for World of Warcraft",
@@ -21308,7 +21317,7 @@
       "source": "github",
       "source-id": "michaelnpsp/KiwiPlates",
       "url": "https://github.com/michaelnpsp/KiwiPlates",
-      "updated-date": "2025-08-07T15:24:43Z"
+      "updated-date": "2025-10-09T15:00:13Z"
     },
     {
       "description": "Additional Profiles for KiwiPlates addon.",
@@ -21326,7 +21335,7 @@
       "source": "github",
       "source-id": "michaelnpsp/KiwiPlatesProfiles",
       "url": "https://github.com/michaelnpsp/KiwiPlatesProfiles",
-      "updated-date": "2025-08-06T00:39:11Z"
+      "updated-date": "2025-10-09T15:00:38Z"
     },
     {
       "description": "World of Warcraft Wrath 3.3.5a addon that automatically sets CVars for maximum visual quality.",
@@ -21656,7 +21665,7 @@
       "source": "github",
       "source-id": "moosetheory/KittenDismount",
       "url": "https://github.com/moosetheory/KittenDismount",
-      "updated-date": "2025-02-28T00:19:52Z"
+      "updated-date": "2025-10-08T00:29:45Z"
     },
     {
       "description": "WoW Classic Click Healing overlay",
@@ -21759,7 +21768,7 @@
       "source": "github",
       "source-id": "muhmiauwauWOW/GreatVaultList",
       "url": "https://github.com/muhmiauwauWOW/GreatVaultList",
-      "updated-date": "2025-08-20T15:41:26Z"
+      "updated-date": "2025-10-08T15:42:52Z"
     },
     {
       "download-count": 0,
@@ -21966,7 +21975,7 @@
       "source": "github",
       "source-id": "nanderson11/Atlas",
       "url": "https://github.com/nanderson11/Atlas",
-      "updated-date": "2025-09-21T16:02:44Z"
+      "updated-date": "2025-10-07T22:25:02Z"
     },
     {
       "description": "Updated fork of AtlasLoot Enhanced, a World of Warcraft addon",
@@ -21979,7 +21988,7 @@
       "source": "github",
       "source-id": "nanderson11/AtlasLootEnhanced",
       "url": "https://github.com/nanderson11/AtlasLootEnhanced",
-      "updated-date": "2025-09-26T02:38:12Z"
+      "updated-date": "2025-10-09T04:03:39Z"
     },
     {
       "description": "A WoW addon that helps find out pricing information of a given item's alternative random enchantments.",
@@ -22052,7 +22061,7 @@
       "source": "github",
       "source-id": "nebularg/PitBull4",
       "url": "https://github.com/nebularg/PitBull4",
-      "updated-date": "2025-07-07T05:07:38Z"
+      "updated-date": "2025-10-12T05:48:11Z"
     },
     {
       "download-count": 0,
@@ -22103,6 +22112,19 @@
       "source-id": "nickbock/TevollTweaks",
       "url": "https://github.com/nickbock/TevollTweaks",
       "updated-date": "2022-11-16T11:21:56Z"
+    },
+    {
+      "description": "A WoW Classic addon to display raid teams in chat based on GRM custom notes",
+      "download-count": 0,
+      "game-track-list": [
+        "classic"
+      ],
+      "label": "RaidTeamDecorator",
+      "name": "raidteamdecorator",
+      "source": "github",
+      "source-id": "nicktwoquick/RaidTeamDecorator",
+      "url": "https://github.com/nicktwoquick/RaidTeamDecorator",
+      "updated-date": "2025-10-12T07:27:32Z"
     },
     {
       "download-count": 0,
@@ -22287,7 +22309,7 @@
       "source": "github",
       "source-id": "ogri-la/elvui",
       "url": "https://github.com/ogri-la/elvui",
-      "updated-date": "2025-09-26T00:30:10Z"
+      "updated-date": "2025-10-07T22:30:12Z"
     },
     {
       "download-count": 0,
@@ -22330,7 +22352,7 @@
       "source": "github",
       "source-id": "ollidiemaus/AutoPotion",
       "url": "https://github.com/ollidiemaus/AutoPotion",
-      "updated-date": "2025-08-27T20:19:52Z"
+      "updated-date": "2025-10-08T07:23:36Z"
     },
     {
       "description": "Better Raid Info Frame for WoW Classic",
@@ -22396,7 +22418,7 @@
       "source": "github",
       "source-id": "p3lim-wow/BonusRollPreview",
       "url": "https://github.com/p3lim-wow/BonusRollPreview",
-      "updated-date": "2025-09-18T15:51:07Z"
+      "updated-date": "2025-10-10T16:42:20Z"
     },
     {
       "description": "An extra button for quest items!",
@@ -22409,7 +22431,7 @@
       "source": "github",
       "source-id": "p3lim-wow/ExtraQuestButton",
       "url": "https://github.com/p3lim-wow/ExtraQuestButton",
-      "updated-date": "2025-08-31T12:17:49Z"
+      "updated-date": "2025-10-10T16:41:19Z"
     },
     {
       "description": "Shows clickable locations on the World Map when using engineering wormholes",
@@ -22422,7 +22444,7 @@
       "source": "github",
       "source-id": "p3lim-wow/InteractiveWormholes",
       "url": "https://github.com/p3lim-wow/InteractiveWormholes",
-      "updated-date": "2025-08-09T20:39:10Z"
+      "updated-date": "2025-10-10T16:42:53Z"
     },
     {
       "description": "Library that allows integration with the Edit Mode",
@@ -22435,7 +22457,7 @@
       "source": "github",
       "source-id": "p3lim-wow/LibEditMode",
       "url": "https://github.com/p3lim-wow/LibEditMode",
-      "updated-date": "2025-07-26T22:13:32Z"
+      "updated-date": "2025-10-11T14:21:27Z"
     },
     {
       "description": "Library that lets you easily check if you can process resources",
@@ -22466,7 +22488,7 @@
       "source": "github",
       "source-id": "p3lim-wow/Molinari",
       "url": "https://github.com/p3lim-wow/Molinari",
-      "updated-date": "2025-08-31T14:25:16Z"
+      "updated-date": "2025-10-10T16:42:01Z"
     },
     {
       "description": "Automation for annoying quests",
@@ -22479,7 +22501,7 @@
       "source": "github",
       "source-id": "p3lim-wow/QuestAutomation",
       "url": "https://github.com/p3lim-wow/QuestAutomation",
-      "updated-date": "2025-06-23T15:56:23Z"
+      "updated-date": "2025-10-10T16:44:45Z"
     },
     {
       "description": "Quest automation wizardry",
@@ -22492,7 +22514,7 @@
       "source": "github",
       "source-id": "p3lim-wow/QuickQuest",
       "url": "https://github.com/p3lim-wow/QuickQuest",
-      "updated-date": "2025-08-04T14:55:27Z"
+      "updated-date": "2025-10-10T16:38:38Z"
     },
     {
       "description": "Improvements the talent UI and auto-equipping sets per specialization",
@@ -22630,7 +22652,7 @@
       "source": "github",
       "source-id": "papa-smurf/Gargul",
       "url": "https://github.com/papa-smurf/Gargul",
-      "updated-date": "2025-09-25T18:44:48Z"
+      "updated-date": "2025-10-07T06:29:31Z"
     },
     {
       "description": "WoW addon library",
@@ -22648,7 +22670,7 @@
       "source": "github",
       "source-id": "parnic/LibDogTag-3.0",
       "url": "https://github.com/parnic/LibDogTag-3.0",
-      "updated-date": "2025-08-06T04:20:12Z"
+      "updated-date": "2025-10-11T21:33:58Z"
     },
     {
       "download-count": 0,
@@ -22665,7 +22687,7 @@
       "source": "github",
       "source-id": "parnic/LibDogTag-Unit-3.0",
       "url": "https://github.com/parnic/LibDogTag-Unit-3.0",
-      "updated-date": "2025-08-06T04:21:01Z"
+      "updated-date": "2025-10-11T21:33:42Z"
     },
     {
       "download-count": 0,
@@ -22682,7 +22704,7 @@
       "source": "github",
       "source-id": "parnic/RepairBroker",
       "url": "https://github.com/parnic/RepairBroker",
-      "updated-date": "2025-08-06T04:23:15Z"
+      "updated-date": "2025-10-11T21:34:52Z"
     },
     {
       "description": "Breakables addon for World of Warcraft",
@@ -22700,7 +22722,7 @@
       "source": "github",
       "source-id": "parnic/breakables",
       "url": "https://github.com/parnic/breakables",
-      "updated-date": "2025-08-06T04:23:22Z"
+      "updated-date": "2025-10-11T21:12:21Z"
     },
     {
       "description": "IceHUD addon for World of Warcraft",
@@ -22718,7 +22740,7 @@
       "source": "github",
       "source-id": "parnic/ice-hud",
       "url": "https://github.com/parnic/ice-hud",
-      "updated-date": "2025-08-10T02:04:39Z"
+      "updated-date": "2025-10-11T21:36:22Z"
     },
     {
       "description": "A World of Warcraft AddOn that adds a handy Reputation-Tracker to your Titan Panel.",
@@ -22823,7 +22845,7 @@
       "source": "github",
       "source-id": "peavers/PeaversTalentsData",
       "url": "https://github.com/peavers/PeaversTalentsData",
-      "updated-date": "2025-09-27T00:26:51Z"
+      "updated-date": "2025-10-12T06:08:40Z"
     },
     {
       "download-count": 0,
@@ -23209,7 +23231,7 @@
       "source": "github",
       "source-id": "prsauer/gear-stick",
       "url": "https://github.com/prsauer/gear-stick",
-      "updated-date": "2025-09-26T05:34:38Z"
+      "updated-date": "2025-10-12T05:33:18Z"
     },
     {
       "description": "Very small addon that forces two click trades",
@@ -23348,7 +23370,7 @@
       "source": "github",
       "source-id": "raethkcj/RatingBuster",
       "url": "https://github.com/raethkcj/RatingBuster",
-      "updated-date": "2025-09-20T00:38:49Z"
+      "updated-date": "2025-09-29T16:46:51Z"
     },
     {
       "description": "A World of Warcraft Addon which can read the quest text with meant of AI text-to-speech api(s).",
@@ -23762,7 +23784,7 @@
       "source": "github",
       "source-id": "rootkit1337tv/NaowhUI_Data",
       "url": "https://github.com/rootkit1337tv/NaowhUI_Data",
-      "updated-date": "2025-09-14T16:42:46Z"
+      "updated-date": "2025-10-07T16:42:53Z"
     },
     {
       "download-count": 0,
@@ -23776,21 +23798,7 @@
       "source": "github",
       "source-id": "rootkit1337tv/NaowhUI_Data",
       "url": "https://github.com/rootkit1337tv/NaowhUI_Data",
-      "updated-date": "2025-09-14T16:42:46Z"
-    },
-    {
-      "download-count": 0,
-      "game-track-list": [
-        "classic",
-        "classic-mists",
-        "retail"
-      ],
-      "label": "NaowhUI_Data",
-      "name": "naowhui-data",
-      "source": "github",
-      "source-id": "rootkit1337tv/NaowhUI_Data",
-      "url": "https://github.com/rootkit1337tv/NaowhUI_Data",
-      "updated-date": "2025-09-14T16:42:46Z"
+      "updated-date": "2025-10-07T16:42:53Z"
     },
     {
       "description": "Key Bind Profiles World of Warcraft addon",
@@ -24027,6 +24035,19 @@
       "updated-date": "2023-09-09T22:49:06Z"
     },
     {
+      "description": "Scrub Legion Roster Manager",
+      "download-count": 0,
+      "game-track-list": [
+        "retail"
+      ],
+      "label": "rostermanager",
+      "name": "rostermanager",
+      "source": "github",
+      "source-id": "scrublegionscripts/rostermanager",
+      "url": "https://github.com/scrublegionscripts/rostermanager",
+      "updated-date": "2025-10-01T04:04:53Z"
+    },
+    {
       "description": "ConsolePort - Game Controller Addon for World of Warcraft",
       "download-count": 0,
       "game-track-list": [
@@ -24039,7 +24060,7 @@
       "source": "github",
       "source-id": "seblindfors/ConsolePort",
       "url": "https://github.com/seblindfors/ConsolePort",
-      "updated-date": "2025-09-24T06:21:53Z"
+      "updated-date": "2025-10-08T10:51:22Z"
     },
     {
       "description": "Immersive questing addon for World of Warcraft",
@@ -24054,7 +24075,7 @@
       "source": "github",
       "source-id": "seblindfors/Immersion",
       "url": "https://github.com/seblindfors/Immersion",
-      "updated-date": "2025-08-15T17:58:14Z"
+      "updated-date": "2025-10-08T10:50:20Z"
     },
     {
       "description": "Create addon configs using the WoW Settings API",
@@ -24096,7 +24117,7 @@
       "source": "github",
       "source-id": "sfmict/Addon-Manargl",
       "url": "https://github.com/sfmict/Addon-Manargl",
-      "updated-date": "2025-09-18T14:14:13Z"
+      "updated-date": "2025-10-08T06:09:55Z"
     },
     {
       "description": "Makes mouse pointer remain on screen while mouselook/steering.",
@@ -24109,7 +24130,7 @@
       "source": "github",
       "source-id": "sfmict/CursorMod",
       "url": "https://github.com/sfmict/CursorMod",
-      "updated-date": "2025-08-06T05:00:43Z"
+      "updated-date": "2025-10-08T06:16:15Z"
     },
     {
       "description": "Adds a custom panel for easy add-on management.",
@@ -24124,7 +24145,7 @@
       "source": "github",
       "source-id": "sfmict/HidingBar",
       "url": "https://github.com/sfmict/HidingBar",
-      "updated-date": "2025-08-19T16:24:07Z"
+      "updated-date": "2025-10-08T06:20:04Z"
     },
     {
       "description": "Library for World of Warcraft",
@@ -24139,7 +24160,7 @@
       "source": "github",
       "source-id": "sfmict/LibSFDropDown",
       "url": "https://github.com/sfmict/LibSFDropDown",
-      "updated-date": "2025-09-15T13:27:38Z"
+      "updated-date": "2025-10-08T06:04:23Z"
     },
     {
       "description": "Library for load quests, items and spells",
@@ -24154,7 +24175,7 @@
       "source": "github",
       "source-id": "sfmict/LibThingsLoad",
       "url": "https://github.com/sfmict/LibThingsLoad",
-      "updated-date": "2025-08-06T04:50:03Z"
+      "updated-date": "2025-10-08T06:08:46Z"
     },
     {
       "description": "Addon makes it possible to sort mounts on waterfowl, flying, ground and allows to use in suitable conditions (random mount summoning).",
@@ -24167,7 +24188,7 @@
       "source": "github",
       "source-id": "sfmict/MountsJournal",
       "url": "https://github.com/sfmict/MountsJournal",
-      "updated-date": "2025-09-25T00:38:00Z"
+      "updated-date": "2025-10-08T15:14:26Z"
     },
     {
       "description": "This addon reskins the MountsJournal addon for ElvUI.",
@@ -24181,7 +24202,7 @@
       "source": "github",
       "source-id": "sfmict/MountsJournal-ElvUI-Skin",
       "url": "https://github.com/sfmict/MountsJournal-ElvUI-Skin",
-      "updated-date": "2025-09-24T14:34:33Z"
+      "updated-date": "2025-10-09T12:58:18Z"
     },
     {
       "description": "Addon makes it possible to sort mounts on waterfowl, flying, ground and allows to use in suitable conditions (random mount summoning).",
@@ -24220,7 +24241,7 @@
       "source": "github",
       "source-id": "sgade/MountsRarity",
       "url": "https://github.com/sgade/MountsRarity",
-      "updated-date": "2025-09-25T01:39:41Z"
+      "updated-date": "2025-10-12T01:42:41Z"
     },
     {
       "description": "A World of Warcraft addon that selects a random mount out of your favorites",
@@ -24261,7 +24282,7 @@
       "source": "github",
       "source-id": "shrugal/PersoLootRoll",
       "url": "https://github.com/shrugal/PersoLootRoll",
-      "updated-date": "2025-08-24T11:30:30Z"
+      "updated-date": "2025-10-08T10:06:42Z"
     },
     {
       "description": "WoW Addon: Adds IDs to the ingame tooltips",
@@ -24289,7 +24310,7 @@
       "source": "github",
       "source-id": "simulationcraft/simc-addon",
       "url": "https://github.com/simulationcraft/simc-addon",
-      "updated-date": "2025-09-18T02:53:31Z"
+      "updated-date": "2025-10-08T19:50:48Z"
     },
     {
       "download-count": 0,
@@ -24307,14 +24328,14 @@
       "description": "NDui for World of Warcraft",
       "download-count": 0,
       "game-track-list": [
-        "classic-mists"
+        "retail"
       ],
       "label": "NDui",
       "name": "ndui",
       "source": "github",
       "source-id": "siweia/NDui",
       "url": "https://github.com/siweia/NDui",
-      "updated-date": "2025-09-26T17:41:53Z"
+      "updated-date": "2025-10-09T17:17:30Z"
     },
     {
       "description": "5.4 ReforgeLite ported for Mists of Pandaria Classic",
@@ -24548,7 +24569,7 @@
       "source": "github",
       "source-id": "stevin05/CraftScan",
       "url": "https://github.com/stevin05/CraftScan",
-      "updated-date": "2025-09-23T13:00:10Z"
+      "updated-date": "2025-10-11T13:09:53Z"
     },
     {
       "description": "ACP adds the \"Addons\" button to the game's main menu (The one you get when you hit ESC). It allows you to manage your addons in game, with an interface which looks similar to the blizzard addon manager. ACP will help you deal with the \"Clutter\" that multi-part addons and libraries introduce by displaying your addons in logical arrangements. ACP has many features to make your addon list easy to manage, help you with missing libraries, and provide you with detailed information about each addon.",
@@ -24723,7 +24744,7 @@
       "source": "github",
       "source-id": "t-mart/ItemVersion",
       "url": "https://github.com/t-mart/ItemVersion",
-      "updated-date": "2025-09-23T16:30:49Z"
+      "updated-date": "2025-10-07T16:31:08Z"
     },
     {
       "description": "A collection of fixes for the Communities feature",
@@ -24758,7 +24779,7 @@
       "source": "github",
       "source-id": "teelolws/EditModeExpanded",
       "url": "https://github.com/teelolws/EditModeExpanded",
-      "updated-date": "2025-09-26T08:53:33Z"
+      "updated-date": "2025-10-11T04:54:56Z"
     },
     {
       "description": "Helps with maximazing your gains of Mereldar Derby Mark during saturday's fishing derby",
@@ -24799,7 +24820,7 @@
       "source": "github",
       "source-id": "teelolws/MplusAG",
       "url": "https://github.com/teelolws/MplusAG",
-      "updated-date": "2025-09-20T08:15:37Z"
+      "updated-date": "2025-10-07T21:41:41Z"
     },
     {
       "description": "Shadowlands Style Micro Menu Buttons",
@@ -24851,7 +24872,7 @@
       "source": "github",
       "source-id": "tflo/Action-Bar-Button-Growth-Direction",
       "url": "https://github.com/tflo/Action-Bar-Button-Growth-Direction",
-      "updated-date": "2025-08-06T14:27:53Z"
+      "updated-date": "2025-10-07T16:46:44Z"
     },
     {
       "description": "Based on the original Auto Quest Tracker addon, updated for DF and much, much more.",
@@ -24864,7 +24885,7 @@
       "source": "github",
       "source-id": "tflo/Auto-Quest-Tracker-MkIII",
       "url": "https://github.com/tflo/Auto-Quest-Tracker-MkIII",
-      "updated-date": "2025-08-18T19:42:17Z"
+      "updated-date": "2025-10-07T17:16:43Z"
     },
     {
       "description": "Addon for WoW. Eliminates the confirmation dialog when equipping low/medium-quality BoEs. You can configure the allowed quality levels.",
@@ -24877,7 +24898,7 @@
       "source": "github",
       "source-id": "tflo/AutoConfirmEquip",
       "url": "https://github.com/tflo/AutoConfirmEquip",
-      "updated-date": "2025-08-06T14:18:07Z"
+      "updated-date": "2025-10-07T17:09:03Z"
     },
     {
       "description": "WoW addon. Lets you set your custom font, font size and style for the edit boxes of Blizz’s macro frame, OPie, M6, and the output box of WoWLua.",
@@ -24890,7 +24911,7 @@
       "source": "github",
       "source-id": "tflo/EditBox-Font-Improver",
       "url": "https://github.com/tflo/EditBox-Font-Improver",
-      "updated-date": "2025-08-06T14:23:46Z"
+      "updated-date": "2025-10-07T16:55:45Z"
     },
     {
       "description": "A WoW (Retail) addon that allows you to mass move all items of the same item ID with a single mouse click, e.g. between bank and bags. Compatible with bag addons.",
@@ -24903,7 +24924,7 @@
       "source": "github",
       "source-id": "tflo/Move-em-All",
       "url": "https://github.com/tflo/Move-em-All",
-      "updated-date": "2025-08-18T23:42:55Z"
+      "updated-date": "2025-10-07T17:12:20Z"
     },
     {
       "description": "WoW addon. One-click unequip/reequip your durability-sensitive (or all) gear. Revived, fixed and improved version of the original Nudist addon by tekkub from 2011.",
@@ -24929,7 +24950,7 @@
       "source": "github",
       "source-id": "tflo/PetWalker",
       "url": "https://github.com/tflo/PetWalker",
-      "updated-date": "2025-08-06T14:10:18Z"
+      "updated-date": "2025-10-07T17:19:02Z"
     },
     {
       "download-count": 0,
@@ -24955,7 +24976,7 @@
       "source": "github",
       "source-id": "thandrenn/AtlasQuest",
       "url": "https://github.com/thandrenn/AtlasQuest",
-      "updated-date": "2025-08-05T21:40:03Z"
+      "updated-date": "2025-10-07T22:26:59Z"
     },
     {
       "description": "Suicide Kings Loot Distribution for World of Warcraft (Cataclysm Classic)",
@@ -24968,7 +24989,7 @@
       "source": "github",
       "source-id": "therice/Cleo",
       "url": "https://github.com/therice/Cleo",
-      "updated-date": "2025-09-23T21:38:40Z"
+      "updated-date": "2025-10-02T14:32:13Z"
     },
     {
       "description": "WoW Satchel Scanner",
@@ -25192,7 +25213,7 @@
       "source": "github",
       "source-id": "tullamods/Dominos",
       "url": "https://github.com/tullamods/Dominos",
-      "updated-date": "2025-09-21T14:49:51Z"
+      "updated-date": "2025-10-11T19:51:38Z"
     },
     {
       "description": "Cooldown count for everything",
@@ -25579,7 +25600,7 @@
       "source": "github",
       "source-id": "wardz/Diminish",
       "url": "https://github.com/wardz/Diminish",
-      "updated-date": "2025-09-10T12:52:32Z"
+      "updated-date": "2025-10-03T21:57:57Z"
     },
     {
       "download-count": 0,
@@ -25775,7 +25796,7 @@
       "source": "github",
       "source-id": "wind-addons/ElvUI_WindTools",
       "url": "https://github.com/wind-addons/ElvUI_WindTools",
-      "updated-date": "2025-09-18T16:36:29Z"
+      "updated-date": "2025-10-11T08:28:52Z"
     },
     {
       "description": "A WoW lua library for providing ability of getting NPC information by its ID.",
@@ -25804,7 +25825,7 @@
       "source": "github",
       "source-id": "wind-addons/WeakAurasPatched",
       "url": "https://github.com/wind-addons/WeakAurasPatched",
-      "updated-date": "2025-09-14T18:48:31Z"
+      "updated-date": "2025-10-09T19:19:11Z"
     },
     {
       "description": "✋ A plugin aimed to filter some chat messages in game.",
@@ -25817,7 +25838,7 @@
       "source": "github",
       "source-id": "wind-addons/WindChatFilter",
       "url": "https://github.com/wind-addons/WindChatFilter",
-      "updated-date": "2025-08-23T11:56:23Z"
+      "updated-date": "2025-10-09T18:38:47Z"
     },
     {
       "description": "🏆 The WoW Mythic+ plugin aims to improve your skills",
@@ -25830,7 +25851,7 @@
       "source": "github",
       "source-id": "wind-addons/WindDungeonHelper",
       "url": "https://github.com/wind-addons/WindDungeonHelper",
-      "updated-date": "2025-09-06T14:36:48Z"
+      "updated-date": "2025-10-09T18:40:06Z"
     },
     {
       "description": "This is a World of Warcharft addon that provides a detailed insight into wealth progression by tracking gold and currencies across all characters and displaying them over time.",
@@ -25845,7 +25866,7 @@
       "source": "github",
       "source-id": "wow-addon-dev/Aurarium",
       "url": "https://github.com/wow-addon-dev/Aurarium",
-      "updated-date": "2025-09-21T22:10:33Z"
+      "updated-date": "2025-10-10T13:23:18Z"
     },
     {
       "description": "This is a World of Warcharft addon that provides additional information about items in the tooltip.",
@@ -25860,7 +25881,7 @@
       "source": "github",
       "source-id": "wow-addon-dev/Expositum",
       "url": "https://github.com/wow-addon-dev/Expositum",
-      "updated-date": "2025-09-21T22:10:30Z"
+      "updated-date": "2025-10-10T13:23:19Z"
     },
     {
       "description": "This is a World of Warcraft addon that automatically takes screenshots of meaningful gameplay events and personal milestones.",
@@ -25875,7 +25896,7 @@
       "source": "github",
       "source-id": "wow-addon-dev/Memento",
       "url": "https://github.com/wow-addon-dev/Memento",
-      "updated-date": "2025-09-21T22:10:40Z"
+      "updated-date": "2025-10-10T13:23:24Z"
     },
     {
       "description": "This is a World of Warcharft addon that displays a live timer during a race (e.g. dragonriding \u0026 skyriding) and provides a detailed time overview of all completed races.",
@@ -25888,7 +25909,7 @@
       "source": "github",
       "source-id": "wow-addon-dev/Percursus",
       "url": "https://github.com/wow-addon-dev/Percursus",
-      "updated-date": "2025-09-21T22:10:34Z"
+      "updated-date": "2025-10-10T13:23:19Z"
     },
     {
       "description": "World of Warcraft addon library for more automated communication handling.",
@@ -26054,7 +26075,7 @@
       "source": "github",
       "source-id": "xod-wow/LiteBag",
       "url": "https://github.com/xod-wow/LiteBag",
-      "updated-date": "2025-09-16T03:31:04Z"
+      "updated-date": "2025-10-08T05:51:08Z"
     },
     {
       "download-count": 0,
@@ -26068,7 +26089,7 @@
       "source": "github",
       "source-id": "xod-wow/LiteButtonAuras",
       "url": "https://github.com/xod-wow/LiteButtonAuras",
-      "updated-date": "2025-08-05T15:03:35Z"
+      "updated-date": "2025-10-09T03:42:37Z"
     },
     {
       "description": "Share keystone info in an AstralKeys compatible way",
@@ -26095,7 +26116,7 @@
       "source": "github",
       "source-id": "xod-wow/LiteMount",
       "url": "https://github.com/xod-wow/LiteMount",
-      "updated-date": "2025-09-14T01:18:10Z"
+      "updated-date": "2025-10-11T13:31:30Z"
     },
     {
       "description": "World of Warcraft addon to not show the loot window if autolooting",
@@ -26123,7 +26144,7 @@
       "source": "github",
       "source-id": "xod-wow/TabToNextTab",
       "url": "https://github.com/xod-wow/TabToNextTab",
-      "updated-date": "2025-08-05T15:05:11Z"
+      "updated-date": "2025-10-08T05:27:40Z"
     },
     {
       "description": "Orïgins' Loot wishlist Tooltip Addon",
