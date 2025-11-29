@@ -2,8 +2,8 @@
   "spec": {
     "version": 2
   },
-  "datestamp": "2025-11-24",
-  "total": 1897,
+  "datestamp": "2025-11-29",
+  "total": 1888,
   "addon-summary-list": [
     {
       "description": "Allows filtering of premade applicants using advanced filter expressions.",
@@ -169,6 +169,7 @@
       "game-track-list": [
         "classic",
         "classic-mists",
+        "classic-tbc",
         "retail"
       ],
       "label": "AllTheThings",
@@ -176,7 +177,7 @@
       "source": "github",
       "source-id": "ATTWoWAddon/AllTheThings",
       "url": "https://github.com/ATTWoWAddon/AllTheThings",
-      "updated-date": "2025-11-17T03:41:45Z"
+      "updated-date": "2025-11-24T14:57:05Z"
     },
     {
       "description": "A small tool that allows converting old profile exports to the new format.",
@@ -706,7 +707,7 @@
       "source": "github",
       "source-id": "AlexFolland/AutoGear",
       "url": "https://github.com/AlexFolland/AutoGear",
-      "updated-date": "2025-11-11T09:19:38Z"
+      "updated-date": "2025-11-28T05:12:45Z"
     },
     {
       "download-count": 0,
@@ -1457,7 +1458,7 @@
       "source": "github",
       "source-id": "AznamirWoW/PallyPower",
       "url": "https://github.com/AznamirWoW/PallyPower",
-      "updated-date": "2025-05-02T05:31:41Z"
+      "updated-date": "2025-11-24T21:41:05Z"
     },
     {
       "description": "Nameplate addon for World of Warcraft",
@@ -1472,7 +1473,7 @@
       "source": "github",
       "source-id": "Backupiseasy/ThreatPlates",
       "url": "https://github.com/Backupiseasy/ThreatPlates",
-      "updated-date": "2025-10-22T18:20:05Z"
+      "updated-date": "2025-11-27T20:31:22Z"
     },
     {
       "description": "My basic World of Warcraft mods.",
@@ -1852,23 +1853,6 @@
       "updated-date": "2025-07-12T16:44:45Z"
     },
     {
-      "description": "A collection of BigWigs modules from the Burning Crusade era.",
-      "download-count": 0,
-      "game-track-list": [
-        "classic-cata",
-        "classic-mists",
-        "classic-tbc",
-        "classic-wotlk",
-        "retail"
-      ],
-      "label": "BigWigs_BurningCrusade",
-      "name": "bigwigs-burningcrusade",
-      "source": "github",
-      "source-id": "BigWigsMods/BigWigs_BurningCrusade",
-      "url": "https://github.com/BigWigsMods/BigWigs_BurningCrusade",
-      "updated-date": "2025-08-01T22:07:45Z"
-    },
-    {
       "description": "A collection of BigWigs modules from the Cataclysm era.",
       "download-count": 0,
       "game-track-list": [
@@ -1882,24 +1866,6 @@
       "source-id": "BigWigsMods/BigWigs_Cataclysm",
       "url": "https://github.com/BigWigsMods/BigWigs_Cataclysm",
       "updated-date": "2025-07-11T17:09:03Z"
-    },
-    {
-      "description": "A collection of BigWigs modules from the Classic era.",
-      "download-count": 0,
-      "game-track-list": [
-        "classic",
-        "classic-cata",
-        "classic-mists",
-        "classic-tbc",
-        "classic-wotlk",
-        "retail"
-      ],
-      "label": "BigWigs_Classic",
-      "name": "bigwigs-classic",
-      "source": "github",
-      "source-id": "BigWigsMods/BigWigs_Classic",
-      "url": "https://github.com/BigWigsMods/BigWigs_Classic",
-      "updated-date": "2025-10-22T23:48:14Z"
     },
     {
       "description": "Displays messages and bars for common raid cooldowns.",
@@ -2048,22 +2014,6 @@
       "updated-date": "2025-07-12T15:48:10Z"
     },
     {
-      "description": "A collection of BigWigs modules from the Wrath of the Lich King era.",
-      "download-count": 0,
-      "game-track-list": [
-        "classic-cata",
-        "classic-mists",
-        "classic-wotlk",
-        "retail"
-      ],
-      "label": "BigWigs_WrathOfTheLichKing",
-      "name": "bigwigs-wrathofthelichking",
-      "source": "github",
-      "source-id": "BigWigsMods/BigWigs_WrathOfTheLichKing",
-      "url": "https://github.com/BigWigsMods/BigWigs_WrathOfTheLichKing",
-      "updated-date": "2025-07-11T17:03:05Z"
-    },
-    {
       "description": "Battleground timers and other PvP features.",
       "download-count": 0,
       "game-track-list": [
@@ -2165,7 +2115,9 @@
     {
       "description": "GroupLanguage for BfA",
       "download-count": 0,
-      "game-track-list": [],
+      "game-track-list": [
+        "retail"
+      ],
       "label": "GroupLanguage",
       "name": "grouplanguage",
       "source": "github",
@@ -2619,7 +2571,7 @@
       "source": "github",
       "source-id": "Caerdon/CaerdonWardrobe",
       "url": "https://github.com/Caerdon/CaerdonWardrobe",
-      "updated-date": "2025-11-03T22:26:23Z"
+      "updated-date": "2025-11-28T19:44:02Z"
     },
     {
       "download-count": 0,
@@ -2744,7 +2696,7 @@
       "source": "github",
       "source-id": "Chalsean/XFaction",
       "url": "https://github.com/Chalsean/XFaction",
-      "updated-date": "2025-10-08T22:06:50Z"
+      "updated-date": "2025-11-28T20:50:45Z"
     },
     {
       "description": "Used to query various information in World of Warcraft.",
@@ -4503,19 +4455,6 @@
       "updated-date": "2020-11-02T21:00:28Z"
     },
     {
-      "description": "A comprehensive character cheat sheet addon for World of Warcraft",
-      "download-count": 0,
-      "game-track-list": [
-        "retail"
-      ],
-      "label": "MyCheatSheet",
-      "name": "mycheatsheet",
-      "source": "github",
-      "source-id": "Ghordian/MyCheatSheet",
-      "url": "https://github.com/Ghordian/MyCheatSheet",
-      "updated-date": "2025-08-24T16:05:37Z"
-    },
-    {
       "description": "An addon for World of Warcraft aimed at increasing in-game data availability.",
       "download-count": 0,
       "game-track-list": [
@@ -5233,7 +5172,7 @@
       "source": "github",
       "source-id": "Hayato2846/BetterFriendlist",
       "url": "https://github.com/Hayato2846/BetterFriendlist",
-      "updated-date": "2025-11-21T18:27:30Z"
+      "updated-date": "2025-11-25T21:21:08Z"
     },
     {
       "description": "Hekili Priority Helper for DPS and Tanks (WoW Retail)",
@@ -6159,7 +6098,7 @@
       "source": "github",
       "source-id": "Karl-HeinzSchneider/WoW-DragonflightUI",
       "url": "https://github.com/Karl-HeinzSchneider/WoW-DragonflightUI",
-      "updated-date": "2025-11-07T16:36:46Z"
+      "updated-date": "2025-11-28T23:13:20Z"
     },
     {
       "download-count": 0,
@@ -6860,7 +6799,7 @@
       "source": "github",
       "source-id": "LiangYuxuan/TestServerWorldMap",
       "url": "https://github.com/LiangYuxuan/TestServerWorldMap",
-      "updated-date": "2025-11-21T01:37:52Z"
+      "updated-date": "2025-11-25T01:37:24Z"
     },
     {
       "download-count": 0,
@@ -7087,6 +7026,20 @@
       "source-id": "Lyderian/ORGA",
       "url": "https://github.com/Lyderian/ORGA",
       "updated-date": "2025-03-07T05:10:20Z"
+    },
+    {
+      "description": "Allows users to easily define bindings for all Pet Battle features without overwriting normal keybinds!",
+      "download-count": 0,
+      "game-track-list": [
+        "classic-mists",
+        "retail"
+      ],
+      "label": "BattlePetBinds",
+      "name": "battlepetbinds",
+      "source": "github",
+      "source-id": "MMOSimca/BattlePetBinds",
+      "url": "https://github.com/MMOSimca/BattlePetBinds",
+      "updated-date": "2025-08-06T13:30:31Z"
     },
     {
       "description": "Displays the BreedID of pets in your journal, in battle, in chat links, and in AH tooltips.",
@@ -7360,7 +7313,7 @@
       "source": "github",
       "source-id": "Mortalknight/GW2_UI",
       "url": "https://github.com/Mortalknight/GW2_UI",
-      "updated-date": "2025-11-04T18:43:05Z"
+      "updated-date": "2025-11-28T23:50:14Z"
     },
     {
       "description": "A WoW addon for quickly (and recklessly) abandoning quests",
@@ -7424,7 +7377,7 @@
       "source": "github",
       "source-id": "Mr-Mythical/MrMythicalLeaderboard",
       "url": "https://github.com/Mr-Mythical/MrMythicalLeaderboard",
-      "updated-date": "2025-11-24T06:00:22Z"
+      "updated-date": "2025-11-29T06:00:19Z"
     },
     {
       "description": "Small World of Warcraft addon that adds additional commands to reload the game",
@@ -8309,7 +8262,7 @@
       "source": "github",
       "source-id": "NielsHeltner/wowhead-quick-link",
       "url": "https://github.com/NielsHeltner/wowhead-quick-link",
-      "updated-date": "2025-09-28T07:32:52Z"
+      "updated-date": "2025-11-26T08:00:06Z"
     },
     {
       "description": "WoW Addon - Synchronises various Character-Specific Interface Settings Account Wide.",
@@ -9504,7 +9457,7 @@
       "source": "github",
       "source-id": "Questie/Questie",
       "url": "https://github.com/Questie/Questie",
-      "updated-date": "2025-11-22T18:44:28Z"
+      "updated-date": "2025-11-25T13:18:20Z"
     },
     {
       "description": "Tracks and reminds you of your roleplay consumables. 🥤",
@@ -9530,7 +9483,7 @@
       "source": "github",
       "source-id": "RaiderIO/raiderio-addon",
       "url": "https://github.com/RaiderIO/raiderio-addon",
-      "updated-date": "2025-11-24T09:29:16Z"
+      "updated-date": "2025-11-28T09:39:38Z"
     },
     {
       "description": "HandyNotes plugin for the Treasure, Treasure Everywhere achievement",
@@ -10046,6 +9999,33 @@
       "updated-date": "2025-08-30T09:58:00Z"
     },
     {
+      "download-count": 0,
+      "game-track-list": [
+        "retail"
+      ],
+      "label": "SharedMedia_NPNR",
+      "name": "sharedmedia-npnr",
+      "source": "github",
+      "source-id": "RobDeFlop/SharedMedia_NPNR",
+      "url": "https://github.com/RobDeFlop/SharedMedia_NPNR",
+      "updated-date": "2025-08-04T04:50:50Z"
+    },
+    {
+      "description": "Key Bind Profiles World of Warcraft addon",
+      "download-count": 0,
+      "game-track-list": [
+        "classic",
+        "classic-mists",
+        "retail"
+      ],
+      "label": "KeyBindProfiles",
+      "name": "keybindprofiles",
+      "source": "github",
+      "source-id": "RodiScheele/KeyBindProfiles",
+      "url": "https://github.com/RodiScheele/KeyBindProfiles",
+      "updated-date": "2025-08-06T17:05:38Z"
+    },
+    {
       "description": "ItemRack working for WoW Classic",
       "download-count": 0,
       "game-track-list": [
@@ -10136,7 +10116,7 @@
       "source": "github",
       "source-id": "SFX-WoW/Masque",
       "url": "https://github.com/SFX-WoW/Masque",
-      "updated-date": "2025-11-22T01:42:02Z"
+      "updated-date": "2025-11-27T15:56:13Z"
     },
     {
       "description": "Apathy skin for Masque.",
@@ -10208,7 +10188,7 @@
       "source": "github",
       "source-id": "SFX-WoW/Masque_Darion",
       "url": "https://github.com/SFX-WoW/Masque_Darion",
-      "updated-date": "2025-11-19T21:02:33Z"
+      "updated-date": "2025-11-26T02:44:03Z"
     },
     {
       "description": "Dominos skin for Masque.",
@@ -10299,60 +10279,6 @@
       "source-id": "SFX-WoW/Masque_LiteStep",
       "url": "https://github.com/SFX-WoW/Masque_LiteStep",
       "updated-date": "2025-11-20T20:15:54Z"
-    },
-    {
-      "description": "Onyx skins for Masque.",
-      "download-count": 0,
-      "game-track-list": [
-        "classic",
-        "classic-cata",
-        "classic-mists",
-        "classic-tbc",
-        "classic-wotlk",
-        "retail"
-      ],
-      "label": "Masque_Onyx",
-      "name": "masque-onyx",
-      "source": "github",
-      "source-id": "SFX-WoW/Masque_Onyx",
-      "url": "https://github.com/SFX-WoW/Masque_Onyx",
-      "updated-date": "2025-11-20T20:15:10Z"
-    },
-    {
-      "description": "Serenity skins for Masque.",
-      "download-count": 0,
-      "game-track-list": [
-        "classic",
-        "classic-cata",
-        "classic-mists",
-        "classic-tbc",
-        "classic-wotlk",
-        "retail"
-      ],
-      "label": "Masque_Serenity",
-      "name": "masque-serenity",
-      "source": "github",
-      "source-id": "SFX-WoW/Masque_Serenity",
-      "url": "https://github.com/SFX-WoW/Masque_Serenity",
-      "updated-date": "2025-11-20T20:14:57Z"
-    },
-    {
-      "description": "Squarish skins for Masque.",
-      "download-count": 0,
-      "game-track-list": [
-        "classic",
-        "classic-cata",
-        "classic-mists",
-        "classic-tbc",
-        "classic-wotlk",
-        "retail"
-      ],
-      "label": "Masque_Squarish",
-      "name": "masque-squarish",
-      "source": "github",
-      "source-id": "SFX-WoW/Masque_Squarish",
-      "url": "https://github.com/SFX-WoW/Masque_Squarish",
-      "updated-date": "2025-11-20T20:14:51Z"
     },
     {
       "download-count": 0,
@@ -11068,7 +10994,7 @@
       "source": "github",
       "source-id": "Slackluster/ProfessionShoppingList",
       "url": "https://github.com/Slackluster/ProfessionShoppingList",
-      "updated-date": "2025-11-15T12:46:06Z"
+      "updated-date": "2025-11-27T12:35:34Z"
     },
     {
       "description": "Track new transmog looted by party/raid members, and ask them if you can have it. Includes item icons for collection status.",
@@ -11081,7 +11007,7 @@
       "source": "github",
       "source-id": "Slackluster/TransmogLootHelper",
       "url": "https://github.com/Slackluster/TransmogLootHelper",
-      "updated-date": "2025-11-22T18:34:11Z"
+      "updated-date": "2025-11-25T08:37:20Z"
     },
     {
       "description": "Addon for World of Warcraft classic ERA that allow copy from guild information panel",
@@ -11416,7 +11342,7 @@
       "source": "github",
       "source-id": "TLDRMissions/PublicOrdersReagentsColumn",
       "url": "https://github.com/TLDRMissions/PublicOrdersReagentsColumn",
-      "updated-date": "2025-10-07T21:41:11Z"
+      "updated-date": "2025-11-26T19:00:03Z"
     },
     {
       "download-count": 0,
@@ -11631,7 +11557,7 @@
       "source": "github",
       "source-id": "Tercioo/Plater-Nameplates",
       "url": "https://github.com/Tercioo/Plater-Nameplates",
-      "updated-date": "2025-10-03T18:19:44Z"
+      "updated-date": "2025-11-24T19:10:34Z"
     },
     {
       "description": "Fixes player Title select dropdown UI bug",
@@ -11686,7 +11612,7 @@
       "source": "github",
       "source-id": "TheKrowi/TitanPanel_Currency_Krowi",
       "url": "https://github.com/TheKrowi/TitanPanel_Currency_Krowi",
-      "updated-date": "2025-11-14T07:06:10Z"
+      "updated-date": "2025-11-28T11:21:30Z"
     },
     {
       "description": "AtlasLootClassic SoD Fork 2",
@@ -11755,7 +11681,7 @@
       "source": "github",
       "source-id": "TimothyLuke/GSE-Advanced-Macro-Compiler",
       "url": "https://github.com/TimothyLuke/GSE-Advanced-Macro-Compiler",
-      "updated-date": "2025-10-29T02:33:37Z"
+      "updated-date": "2025-11-29T00:02:55Z"
     },
     {
       "description": "Guild Loot Tracker monitors WoW raid drops and syncs the history of what has dropped for whom.",
@@ -12131,7 +12057,14 @@
     {
       "description": "Pawn: find upgrades, do more damage, win. (Download releases and ask questions at CurseForge.)",
       "download-count": 0,
-      "game-track-list": [],
+      "game-track-list": [
+        "classic",
+        "classic-cata",
+        "classic-mists",
+        "classic-tbc",
+        "classic-wotlk",
+        "retail"
+      ],
       "label": "Pawn",
       "name": "pawn",
       "source": "github",
@@ -12374,22 +12307,6 @@
       "updated-date": "2024-08-25T23:41:32Z"
     },
     {
-      "description": "World of Warcraft addon that provides a powerful framework to display customizable graphics on your screen.",
-      "download-count": 0,
-      "game-track-list": [
-        "classic",
-        "classic-cata",
-        "classic-mists",
-        "retail"
-      ],
-      "label": "WeakAuras2",
-      "name": "weakauras2",
-      "source": "github",
-      "source-id": "WeakAuras/WeakAuras2",
-      "url": "https://github.com/WeakAuras/WeakAuras2",
-      "updated-date": "2025-10-22T01:49:44Z"
-    },
-    {
       "description": "Repositories for ShestakUI",
       "download-count": 0,
       "game-track-list": [
@@ -12400,7 +12317,7 @@
       "source": "github",
       "source-id": "Wetxius/ShestakUI",
       "url": "https://github.com/Wetxius/ShestakUI",
-      "updated-date": "2025-10-18T11:23:53Z"
+      "updated-date": "2025-11-24T14:34:44Z"
     },
     {
       "description": "PepeGoldTracker is an addon made to ease the tracking of gold accross multiples servers / guilds on your account.",
@@ -15328,7 +15245,7 @@
       "source": "github",
       "source-id": "d4kir92/MoveAny",
       "url": "https://github.com/d4kir92/MoveAny",
-      "updated-date": "2025-11-23T23:03:05Z"
+      "updated-date": "2025-11-26T08:28:00Z"
     },
     {
       "description": "You can rate Players and see what other rated",
@@ -15639,7 +15556,7 @@
       "source": "github",
       "source-id": "derfloh205/CraftSim",
       "url": "https://github.com/derfloh205/CraftSim",
-      "updated-date": "2025-10-23T18:13:23Z"
+      "updated-date": "2025-11-26T19:52:51Z"
     },
     {
       "download-count": 0,
@@ -18035,24 +17952,6 @@
       "updated-date": "2025-11-20T14:43:47Z"
     },
     {
-      "description": "Soundboard for WoW Addon",
-      "download-count": 0,
-      "game-track-list": [
-        "classic",
-        "classic-cata",
-        "classic-mists",
-        "classic-tbc",
-        "classic-wotlk",
-        "retail"
-      ],
-      "label": "Soundboard",
-      "name": "soundboard",
-      "source": "github",
-      "source-id": "heyaapl/Soundboard",
-      "url": "https://github.com/heyaapl/Soundboard",
-      "updated-date": "2025-10-05T02:45:13Z"
-    },
-    {
       "description": "WoWTools",
       "download-count": 0,
       "game-track-list": [
@@ -18063,7 +17962,7 @@
       "source": "github",
       "source-id": "husandro/WoWTools",
       "url": "https://github.com/husandro/WoWTools",
-      "updated-date": "2025-11-20T16:42:45Z"
+      "updated-date": "2025-11-28T17:49:41Z"
     },
     {
       "description": "WoW UI 中文化，仅限欧服",
@@ -18341,7 +18240,7 @@
       "source": "github",
       "source-id": "jamespanter/GladiatorShuffleBlitzWinsTracker",
       "url": "https://github.com/jamespanter/GladiatorShuffleBlitzWinsTracker",
-      "updated-date": "2025-11-15T04:08:23Z"
+      "updated-date": "2025-11-25T17:27:46Z"
     },
     {
       "description": "A lightweight addon that allows players to hide PVP talents they never use",
@@ -18747,7 +18646,9 @@
     {
       "description": "A simple DBM countdown pack for ya boi Asmongold.",
       "download-count": 0,
-      "game-track-list": [],
+      "game-track-list": [
+        "retail"
+      ],
       "label": "DBM-CountPack-Asmongold",
       "name": "dbm-countpack-asmongold",
       "source": "github",
@@ -20493,6 +20394,7 @@
         "classic",
         "classic-cata",
         "classic-mists",
+        "classic-tbc",
         "retail"
       ],
       "label": "MasqueBlizzBars",
@@ -20500,7 +20402,7 @@
       "source": "github",
       "source-id": "kstange/MasqueBlizzBars",
       "url": "https://github.com/kstange/MasqueBlizzBars",
-      "updated-date": "2025-09-22T21:45:46Z"
+      "updated-date": "2025-11-25T06:21:22Z"
     },
     {
       "description": "This addon enables Masque to skin the built-in WoW inventory UI",
@@ -20509,6 +20411,7 @@
         "classic",
         "classic-cata",
         "classic-mists",
+        "classic-tbc",
         "retail"
       ],
       "label": "MasqueBlizzInv",
@@ -20516,7 +20419,7 @@
       "source": "github",
       "source-id": "kstange/MasqueBlizzInv",
       "url": "https://github.com/kstange/MasqueBlizzInv",
-      "updated-date": "2025-09-22T21:47:01Z"
+      "updated-date": "2025-11-25T06:22:28Z"
     },
     {
       "description": "This addon provides a modern update to merchant (vendor) interfaces in WoW",
@@ -20825,6 +20728,18 @@
       "updated-date": "2020-08-03T17:55:21Z"
     },
     {
+      "download-count": 0,
+      "game-track-list": [
+        "retail"
+      ],
+      "label": "DisintegrateTicks",
+      "name": "disintegrateticks",
+      "source": "github",
+      "source-id": "ljosberinn/DisintegrateTicks",
+      "url": "https://github.com/ljosberinn/DisintegrateTicks",
+      "updated-date": "2025-11-25T11:30:41Z"
+    },
+    {
       "description": "automated profile management and advanced interface tweaking addon for swirlui",
       "download-count": 0,
       "game-track-list": [
@@ -21010,7 +20925,7 @@
       "source": "github",
       "source-id": "m33shoq/RG_Aliases",
       "url": "https://github.com/m33shoq/RG_Aliases",
-      "updated-date": "2025-11-23T21:05:41Z"
+      "updated-date": "2025-11-25T22:06:48Z"
     },
     {
       "description": "PhoUI - Enhanced \u0026 Improved Dragonflight UI",
@@ -21732,18 +21647,6 @@
       "game-track-list": [
         "retail"
       ],
-      "label": "LibGearData",
-      "name": "libgeardata",
-      "source": "github",
-      "source-id": "muhmiauwauWOW/LibGearData",
-      "url": "https://github.com/muhmiauwauWOW/LibGearData",
-      "updated-date": "2025-08-15T23:34:19Z"
-    },
-    {
-      "download-count": 0,
-      "game-track-list": [
-        "retail"
-      ],
       "label": "LibLodash",
       "name": "liblodash",
       "source": "github",
@@ -21815,6 +21718,20 @@
       "source-id": "muleyo/mArena",
       "url": "https://github.com/muleyo/mArena",
       "updated-date": "2025-07-08T11:33:44Z"
+    },
+    {
+      "description": "Unleash your real potential",
+      "download-count": 0,
+      "game-track-list": [
+        "classic-mists",
+        "retail"
+      ],
+      "label": "muleyoUI",
+      "name": "muleyoui",
+      "source": "github",
+      "source-id": "muleyo/muleyoUI",
+      "url": "https://github.com/muleyo/muleyoUI",
+      "updated-date": "2025-11-18T15:06:47Z"
     },
     {
       "description": "WoW Addon for key bindings.",
@@ -21945,7 +21862,7 @@
       "source": "github",
       "source-id": "nanderson11/AtlasLootEnhanced",
       "url": "https://github.com/nanderson11/AtlasLootEnhanced",
-      "updated-date": "2025-11-01T17:19:58Z"
+      "updated-date": "2025-11-24T23:16:02Z"
     },
     {
       "description": "A WoW addon that helps find out pricing information of a given item's alternative random enchantments.",
@@ -22715,6 +22632,19 @@
       "updated-date": "2025-10-16T00:52:35Z"
     },
     {
+      "description": "World of Warcraft addon providing one-click import of optimized talent builds from Wowhead, Icy Veins, and Archon guides directly in your talent UI.",
+      "download-count": 0,
+      "game-track-list": [
+        "retail"
+      ],
+      "label": "PeaversTalents",
+      "name": "peaverstalents",
+      "source": "github",
+      "source-id": "peavers-warcraft/PeaversTalents",
+      "url": "https://github.com/peavers-warcraft/PeaversTalents",
+      "updated-date": "2025-08-28T20:08:52Z"
+    },
+    {
       "description": "World of Warcraft addon that provides visual bars representing your secondary stats",
       "download-count": 0,
       "game-track-list": [
@@ -22741,19 +22671,6 @@
       "updated-date": "2025-03-30T20:37:23Z"
     },
     {
-      "description": "World of Warcraft addon providing one-click import of optimized talent builds from Wowhead, Icy Veins, and Archon guides directly in your talent UI.",
-      "download-count": 0,
-      "game-track-list": [
-        "retail"
-      ],
-      "label": "PeaversTalents",
-      "name": "peaverstalents",
-      "source": "github",
-      "source-id": "peavers/PeaversTalents",
-      "url": "https://github.com/peavers/PeaversTalents",
-      "updated-date": "2025-08-28T20:08:52Z"
-    },
-    {
       "description": "World of Warcraft talent build library providing daily-updated export codes from Wowhead, Icy Veins, and Archon. Designed as a data source for addon developers.",
       "download-count": 0,
       "game-track-list": [
@@ -22764,7 +22681,7 @@
       "source": "github",
       "source-id": "peavers/PeaversTalentsData",
       "url": "https://github.com/peavers/PeaversTalentsData",
-      "updated-date": "2025-11-24T06:11:13Z"
+      "updated-date": "2025-11-25T12:13:14Z"
     },
     {
       "download-count": 0,
@@ -23150,7 +23067,7 @@
       "source": "github",
       "source-id": "prsauer/gear-stick",
       "url": "https://github.com/prsauer/gear-stick",
-      "updated-date": "2025-11-24T05:36:01Z"
+      "updated-date": "2025-11-29T05:35:03Z"
     },
     {
       "description": "Very small addon that forces two click trades",
@@ -23720,21 +23637,6 @@
       "updated-date": "2025-11-01T16:43:53Z"
     },
     {
-      "description": "Key Bind Profiles World of Warcraft addon",
-      "download-count": 0,
-      "game-track-list": [
-        "classic",
-        "classic-mists",
-        "retail"
-      ],
-      "label": "KeyBindProfiles",
-      "name": "keybindprofiles",
-      "source": "github",
-      "source-id": "rscheele/KeyBindProfiles",
-      "url": "https://github.com/rscheele/KeyBindProfiles",
-      "updated-date": "2025-08-06T17:05:38Z"
-    },
-    {
       "description": "World of Warcraft: Classic Addon - a customizable spellcasting bar replacement",
       "download-count": 0,
       "game-track-list": [],
@@ -23823,7 +23725,7 @@
       "source": "github",
       "source-id": "sandervspl/BuffTimers",
       "url": "https://github.com/sandervspl/BuffTimers",
-      "updated-date": "2025-11-16T11:03:10Z"
+      "updated-date": "2025-11-26T16:33:08Z"
     },
     {
       "description": "monitoring skill casting",
@@ -23954,19 +23856,6 @@
       "updated-date": "2023-09-09T22:49:06Z"
     },
     {
-      "description": "Scrub Legion Roster Manager",
-      "download-count": 0,
-      "game-track-list": [
-        "retail"
-      ],
-      "label": "rostermanager",
-      "name": "rostermanager",
-      "source": "github",
-      "source-id": "scrublegionscripts/rostermanager",
-      "url": "https://github.com/scrublegionscripts/rostermanager",
-      "updated-date": "2025-10-01T04:04:53Z"
-    },
-    {
       "description": "ConsolePort - Game Controller Addon for World of Warcraft",
       "download-count": 0,
       "game-track-list": [
@@ -24026,7 +23915,11 @@
     {
       "description": "Addon Manager for World of Warcraft",
       "download-count": 0,
-      "game-track-list": [],
+      "game-track-list": [
+        "classic",
+        "classic-mists",
+        "retail"
+      ],
       "label": "Addon-Manargl",
       "name": "addon-manargl",
       "source": "github",
@@ -24037,7 +23930,9 @@
     {
       "description": "Makes mouse pointer remain on screen while mouselook/steering.",
       "download-count": 0,
-      "game-track-list": [],
+      "game-track-list": [
+        "retail"
+      ],
       "label": "CursorMod",
       "name": "cursormod",
       "source": "github",
@@ -24049,19 +23944,26 @@
       "description": "Adds a custom panel for easy add-on management.",
       "download-count": 0,
       "game-track-list": [
-        "classic"
+        "classic",
+        "classic-mists",
+        "classic-tbc",
+        "retail"
       ],
       "label": "HidingBar",
       "name": "hidingbar",
       "source": "github",
       "source-id": "sfmict/HidingBar",
       "url": "https://github.com/sfmict/HidingBar",
-      "updated-date": "2025-11-20T19:41:16Z"
+      "updated-date": "2025-11-27T04:45:39Z"
     },
     {
       "description": "Library for World of Warcraft",
       "download-count": 0,
-      "game-track-list": [],
+      "game-track-list": [
+        "classic",
+        "classic-mists",
+        "retail"
+      ],
       "label": "LibSFDropDown",
       "name": "libsfdropdown",
       "source": "github",
@@ -24072,7 +23974,11 @@
     {
       "description": "Library for load quests, items and spells",
       "download-count": 0,
-      "game-track-list": [],
+      "game-track-list": [
+        "classic",
+        "classic-mists",
+        "retail"
+      ],
       "label": "LibThingsLoad",
       "name": "libthingsload",
       "source": "github",
@@ -24083,13 +23989,15 @@
     {
       "description": "Addon makes it possible to sort mounts on waterfowl, flying, ground and allows to use in suitable conditions (random mount summoning).",
       "download-count": 0,
-      "game-track-list": [],
+      "game-track-list": [
+        "retail"
+      ],
       "label": "MountsJournal",
       "name": "mountsjournal",
       "source": "github",
       "source-id": "sfmict/MountsJournal",
       "url": "https://github.com/sfmict/MountsJournal",
-      "updated-date": "2025-11-19T15:49:36Z"
+      "updated-date": "2025-11-26T17:36:50Z"
     },
     {
       "description": "This addon reskins the MountsJournal addon for ElvUI.",
@@ -24142,7 +24050,7 @@
       "source": "github",
       "source-id": "sgade/MountsRarity",
       "url": "https://github.com/sgade/MountsRarity",
-      "updated-date": "2025-11-23T02:00:09Z"
+      "updated-date": "2025-11-27T01:46:07Z"
     },
     {
       "description": "A World of Warcraft addon that selects a random mount out of your favorites",
@@ -24225,6 +24133,19 @@
       "source-id": "siweia/AuroraClassic",
       "url": "https://github.com/siweia/AuroraClassic",
       "updated-date": "2025-10-31T03:00:50Z"
+    },
+    {
+      "description": "NDui for World of Warcraft",
+      "download-count": 0,
+      "game-track-list": [
+        "retail"
+      ],
+      "label": "NDui",
+      "name": "ndui",
+      "source": "github",
+      "source-id": "siweia/NDui",
+      "url": "https://github.com/siweia/NDui",
+      "updated-date": "2025-11-24T14:47:09Z"
     },
     {
       "description": "5.4 ReforgeLite ported for Mists of Pandaria Classic",
@@ -24461,6 +24382,18 @@
       "updated-date": "2025-10-30T12:12:30Z"
     },
     {
+      "download-count": 0,
+      "game-track-list": [
+        "retail"
+      ],
+      "label": "SpellHistory",
+      "name": "spellhistory",
+      "source": "github",
+      "source-id": "stgeipel/SpellHistory",
+      "url": "https://github.com/stgeipel/SpellHistory",
+      "updated-date": "2025-11-27T14:43:15Z"
+    },
+    {
       "description": "ACP adds the \"Addons\" button to the game's main menu (The one you get when you hit ESC). It allows you to manage your addons in game, with an interface which looks similar to the blizzard addon manager. ACP will help you deal with the \"Clutter\" that multi-part addons and libraries introduce by displaying your addons in logical arrangements. ACP has many features to make your addon list easy to manage, help you with missing libraries, and provide you with detailed information about each addon.",
       "download-count": 0,
       "game-track-list": [
@@ -24552,38 +24485,9 @@
       "updated-date": "2021-05-19T15:15:54Z"
     },
     {
-      "description": "World of Warcraft addon that allows easy saving and restoring of lists of enabled addons.",
       "download-count": 0,
       "game-track-list": [
-        "classic",
         "classic-mists",
-        "retail"
-      ],
-      "label": "AddonProfiles",
-      "name": "addonprofiles",
-      "source": "github",
-      "source-id": "syndenbock/AddonProfiles",
-      "url": "https://github.com/syndenbock/AddonProfiles",
-      "updated-date": "2025-10-22T15:49:39Z"
-    },
-    {
-      "description": "World of Warcraft addon that makes farming fun",
-      "download-count": 0,
-      "game-track-list": [
-        "classic",
-        "classic-mists",
-        "retail"
-      ],
-      "label": "Farmer",
-      "name": "farmer",
-      "source": "github",
-      "source-id": "syndenbock/Farmer",
-      "url": "https://github.com/syndenbock/Farmer",
-      "updated-date": "2025-10-22T15:47:20Z"
-    },
-    {
-      "download-count": 0,
-      "game-track-list": [
         "retail"
       ],
       "label": "Handynotes_Pandaria",
@@ -24591,12 +24495,13 @@
       "source": "github",
       "source-id": "syndenbock/Handynotes_Pandaria",
       "url": "https://github.com/syndenbock/Handynotes_Pandaria",
-      "updated-date": "2025-09-24T20:45:59Z"
+      "updated-date": "2025-11-28T13:03:01Z"
     },
     {
       "description": "A World of Warcraft addon to show how long you had to wait for a random group to form",
       "download-count": 0,
       "game-track-list": [
+        "classic-mists",
         "retail"
       ],
       "label": "JustInTime",
@@ -24604,22 +24509,7 @@
       "source": "github",
       "source-id": "syndenbock/JustInTime",
       "url": "https://github.com/syndenbock/JustInTime",
-      "updated-date": "2025-09-24T20:46:26Z"
-    },
-    {
-      "description": "A World of Warcraft addon for collecting minimap buttons",
-      "download-count": 0,
-      "game-track-list": [
-        "classic",
-        "classic-mists",
-        "retail"
-      ],
-      "label": "MinimapButtonButton",
-      "name": "minimapbuttonbutton",
-      "source": "github",
-      "source-id": "syndenbock/MinimapButtonButton",
-      "url": "https://github.com/syndenbock/MinimapButtonButton",
-      "updated-date": "2025-10-22T15:46:09Z"
+      "updated-date": "2025-11-28T13:02:27Z"
     },
     {
       "description": "ItemVersion adds information to your tooltip about when an item was added to World of Warcraft.",
@@ -24633,7 +24523,7 @@
       "source": "github",
       "source-id": "t-mart/ItemVersion",
       "url": "https://github.com/t-mart/ItemVersion",
-      "updated-date": "2025-11-18T16:42:17Z"
+      "updated-date": "2025-11-25T16:31:38Z"
     },
     {
       "description": "A collection of fixes for the Communities feature",
@@ -24668,7 +24558,7 @@
       "source": "github",
       "source-id": "teelolws/EditModeExpanded",
       "url": "https://github.com/teelolws/EditModeExpanded",
-      "updated-date": "2025-11-22T08:04:03Z"
+      "updated-date": "2025-11-25T23:26:30Z"
     },
     {
       "description": "Helps with maximazing your gains of Mereldar Derby Mark during saturday's fishing derby",
@@ -25701,22 +25591,6 @@
       "updated-date": "2025-04-04T18:18:26Z"
     },
     {
-      "description": "✨ A patched version of WeakAuras (WoW Addon)",
-      "download-count": 0,
-      "game-track-list": [
-        "classic",
-        "classic-cata",
-        "classic-mists",
-        "retail"
-      ],
-      "label": "WeakAurasPatched",
-      "name": "weakauraspatched",
-      "source": "github",
-      "source-id": "wind-addons/WeakAurasPatched",
-      "url": "https://github.com/wind-addons/WeakAurasPatched",
-      "updated-date": "2025-10-22T03:14:17Z"
-    },
-    {
       "description": "✋ A plugin aimed to filter some chat messages in game.",
       "download-count": 0,
       "game-track-list": [
@@ -26005,7 +25879,7 @@
       "source": "github",
       "source-id": "xod-wow/LiteMount",
       "url": "https://github.com/xod-wow/LiteMount",
-      "updated-date": "2025-11-20T02:44:55Z"
+      "updated-date": "2025-11-25T05:16:00Z"
     },
     {
       "description": "World of Warcraft addon to not show the loot window if autolooting",
